@@ -65,6 +65,22 @@
         border-color: rgba(0, 255, 255, 0.5);
         box-shadow: 0 0 20px rgba(0, 255, 255, 0.4);
       }
+
+      #searchInput {
+      transition: 0.25s ease;
+      backdrop-filter: blur(6px);
+      }
+
+      #searchInput:hover {
+      border-color: rgba(0, 255, 255, 0.45);
+      box-shadow: 0 0 12px rgba(0, 255, 255, 0.25);
+      }
+
+      #searchInput:focus {
+      border-color: rgba(0, 255, 255, 0.9);
+       box-shadow: 0 0 25px rgba(0, 255, 255, 0.55);
+      }
+
     </style>
     </head>
 
