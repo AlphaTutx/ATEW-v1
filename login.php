@@ -98,12 +98,23 @@
   <main class="max-w-7xl mx-auto px-4 py-12 space-y-20">
 
         <!-- Search Bar -->
-<input
-  type="text"
-  id="searchInput"
-  placeholder="Search games here..."
-  class="w-full p-3 mb-6 rounded-md bg-gray-800 text-white border border-gray-600 outline-none"
-/>
+<div class="relative w-3/5 mx-auto mb-10">
+  <input
+    type="text"
+    id="searchInput"
+    placeholder="Search games..."
+    class="w-full py-2.5 pl-12 pr-4 rounded-full bg-gray-900/60 text-white 
+           border border-cyan-500/20 backdrop-blur-md shadow-md 
+           focus:border-cyan-400 focus:shadow-cyan-400/40 transition-all text-sm outline-none"
+  />
+
+  <svg xmlns="http://www.w3.org/2000/svg"
+       class="h-5 w-5 text-cyan-300 absolute left-4 top-1/2 -translate-y-1/2 opacity-80"
+       fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+    <path stroke-linecap="round" stroke-linejoin="round"
+          d="M21 21l-4.35-4.35M10 18a8 8 0 100-16 8 8 0 000 16z"/>
+  </svg>
+</div>
 
         <h2 class="text-4xl font-extrabold mb-6 text-cyan-400">Hot Games</h2>
         <div class="carousel flex space-x-6 overflow-x-auto pb-4">
