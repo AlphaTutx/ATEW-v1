@@ -35,6 +35,7 @@
           <a href="https://www.facebook.com/profile.php?id=100087598551338" target="_blank" class="hover:text-cyan-400 transition font-semibold">Fb Page</a>
           <a href="https://docs.google.com/spreadsheets/d/14crWaue7VCDUBApUCCkyZkLNzjpLTrjKyMYSNzY_8jc/edit?usp=drive_link" target="_blank" class="hover:text-cyan-400 transition font-semibold">Request a game</a>
           <a href="gamesuppfix.php" class="hover:text-cyan-400 transition font-semibold">Game Support/Fix</a>
+          <a href="#" class="hover:text-cyan-400 transition font-semibold">18+ Section</a>
 
 		  <!-- logged in user information -->
     <?php  if (isset($_SESSION['username'])) : ?>
