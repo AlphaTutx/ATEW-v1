@@ -18,13 +18,36 @@
 <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <title>GameVault - Steam Style</title>
+    <title>Alpha Tutx GameVault</title>
     <script src="https://cdn.tailwindcss.com"></script>
     <link rel="stylesheet" href="style2.css">
+
+    <!-- notification message -->
+  	<?php if (isset($_SESSION['success'])) : ?>
+
+      
+      	<marquee behavior="" direction="">
+          <h3>
+          <?php 
+          	echo $_SESSION['success']; 
+          	unset($_SESSION['success']);
+          ?>
+      	</h3>
+        </marquee>
+      
+
+  	<?php endif ?>
+
+    <!-- END of notification message -->
+     
 </head>
 
+
   <body class="text-gray-300">
+
     <div class="full-width-wrapper">
+
+
 
 
       <header class="flex items-center justify-between px-6 py-4 bg-gradient-to-r from-gray-900 via-gray-800 to-gray-900 shadow-xl sticky top-0 z-50 backdrop-blur-md">
@@ -32,9 +55,9 @@
         <div class="text-3xl font-extrabold text-cyan-400 tracking-wider drop-shadow-md animate-pulse" >Alpha Tutx GameVault</div>
         <nav class="hidden md:flex space-x-6 text-gray-300">
           <a href="login.php" class="hover:text-cyan-400 transition font-semibold">Apps for Pc</a>
-          <a href="#" class="hover:text-cyan-400 transition font-semibold">Apps for Phones</a>
+          <a href="for-phones.html" class="hover:text-cyan-400 transition font-semibold">Apps for Phones</a>
           <a href="https://www.facebook.com/profile.php?id=100087598551338" target="_blank" class="hover:text-cyan-400 transition font-semibold">Fb Page</a>
-          <a href="#" class="hover:text-cyan-400 transition font-semibold">Request a game</a>
+          <a href="https://docs.google.com/spreadsheets/d/14crWaue7VCDUBApUCCkyZkLNzjpLTrjKyMYSNzY_8jc/edit?usp=drive_link" target="_blank" class="hover:text-cyan-400 transition font-semibold">Request a game</a>
           <a href="gamesuppfix.html" class="hover:text-cyan-400 transition font-semibold">Game Support/Fix</a>
 
 		  <!-- logged in user information -->
@@ -289,7 +312,7 @@
                 <br>
                 <p class="text-red-400 text-sm mb-4">ZIP FILE SIZE: 2.5 GB</p>
                 <a href="https://drive.google.com/file/d/1D_GRJjB8bNWrKNhVOz0TgAw7sQZ3Ptfc/view?usp=drive_link" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-5 rounded-md shadow-md transition">Download</a>
-                <a href="https://www.youtube.com/watch?v=m-bzZo_sRzY&t=767s" target="_blank" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-5 rounded-md shadow-md transition">Gameplay</a>
+                <a href="https://www.youtube.com/watch?v=4W1oOprhVgo" target="_blank" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-5 rounded-md shadow-md transition">Gameplay</a>
               </div>
             </div>
       
@@ -489,19 +512,7 @@
   });
 </script>
 
-  	<!-- notification message -->
-  	<?php if (isset($_SESSION['success'])) : ?>
-
-      <div class="error success" >
-      	<h3>
-          <?php 
-          	echo $_SESSION['success']; 
-          	unset($_SESSION['success']);
-          ?>
-      	</h3>
-      </div>
-
-  	<?php endif ?>
+  	
 
 </div>
 </body>
