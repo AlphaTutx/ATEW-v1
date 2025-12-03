@@ -29,7 +29,6 @@
   	 </div>
 
   	<p>
-	<!-- Replace "https://www.facebook.com/profile.php?id=100087598551338" to "register.php" to register new client"-->
   		Not yet a member? Please contact us. <a href="https://www.facebook.com/profile.php?id=100087598551338">Sign up</a>
   	</p> 
 
