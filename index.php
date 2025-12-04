@@ -29,7 +29,7 @@
   	 </div>
 
   	<p>
-  		Not yet a member? Please contact us. <a href="register.phpregister.php">Sign up</a>
+  		Not yet a member? Please contact us. <a href="register.php">Sign up</a>
   	</p> 
 
   </form>
