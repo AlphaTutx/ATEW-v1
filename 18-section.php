@@ -38,12 +38,10 @@
           <a href="18-section.php" class="hover:text-cyan-400 transition font-semibold">18+ Section</a>
           <a href="https://www.facebook.com/profile.php?id=100087598551338" target="_blank" class="hover:text-cyan-400 transition font-semibold">Fb Page</a>
           <a href="https://docs.google.com/spreadsheets/d/14crWaue7VCDUBApUCCkyZkLNzjpLTrjKyMYSNzY_8jc/edit?usp=drive_link" target="_blank" class="hover:text-cyan-400 transition font-semibold">Request a game</a>
+          <a href="logout.php" class="hover:text-cyan-400 transition font-semibold">Logout</a>
+		  
 
-		  <!-- logged in user information -->
-    <?php  if (isset($_SESSION['username'])) : ?>
-    	<p> <a href="login.php?logout='1'" style="color: red;">Logout</a> </p>
-    <?php endif ?>
-			<!-- End logged in user information -->
+          
         </nav>
 
         </header>

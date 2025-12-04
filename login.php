@@ -1,15 +1,9 @@
-<?php 
-  session_start(); 
-
-  if (!isset($_SESSION['username'])) {
-  	$_SESSION['msg'] = "You must log in first";
-  	header('location: index.php');
-  }
-  if (isset($_GET['logout'])) {
-  	session_destroy();
-  	unset($_SESSION['username']);
-  	header("location: index.php");
-  }
+<?php
+session_start();
+if (!isset($_SESSION['username'])) {
+    header("Location: index.php");
+    exit();
+}
 ?>
 
 <!DOCTYPE html>
@@ -62,12 +56,10 @@
           <a href="18-section.php" class="hover:text-cyan-400 transition font-semibold">18+ Section</a>
           <a href="https://www.facebook.com/profile.php?id=100087598551338" target="_blank" class="hover:text-cyan-400 transition font-semibold">Fb Page</a>
           <a href="https://docs.google.com/spreadsheets/d/14crWaue7VCDUBApUCCkyZkLNzjpLTrjKyMYSNzY_8jc/edit?usp=drive_link" target="_blank" class="hover:text-cyan-400 transition font-semibold">Request a game</a>
+          <a href="logout.php" class="hover:text-cyan-400 transition font-semibold">Logout</a>
 
-		  <!-- logged in user information -->
-    <?php  if (isset($_SESSION['username'])) : ?>
-    	<p> <a href="login.php?logout='1'" style="color: red;">Logout</a> </p>
-    <?php endif ?>
-			<!-- End logged in user information -->
+		  
+			 
 
         </nav>
         <button class="md:hidden text-gray-400 hover:text-white focus:outline-none" aria-label="Menu">
@@ -530,5 +522,21 @@
   	
 
 </div>
+
+
+<!-- HEARTBEAT: updates last_seen every 10 sec -->
+<script>
+setInterval(function() {
+    fetch("heartbeat.php");
+}, 10000);
+</script>
+
+<!-- AUTO LOGOUT CHECK: runs every 15 sec -->
+<script>
+setInterval(function() {
+    fetch("autologout.php");
+}, 15000);
+</script>
+
 </body>
 </html>

@@ -60,25 +60,34 @@ if (isset($_POST['reg_user'])) {
     $username = mysqli_real_escape_string($db, $_POST['username']);
     $password = mysqli_real_escape_string($db, $_POST['password']);
 
-  if (empty($username)) {
-  	array_push($errors, "Username is required");
-  }
-  if (empty($password)) {
-  	array_push($errors, "Password is required");
-  }
+    if (empty($username)) array_push($errors, "Username is required");
+    if (empty($password)) array_push($errors, "Password is required");
 
-  if (count($errors) == 0) {
-  	$password = md5($password);
-  	$query = "SELECT * FROM users WHERE username='$username' AND password='$password'";
-  	$results = mysqli_query($db, $query);
-  	if (mysqli_num_rows($results) == 1) {
-  	  $_SESSION['username'] = $username;
-  	  $_SESSION['success'] = "Welcome $username! You're logged in now.";
-  	  header('location: login.php');
-  	}else {
-  		array_push($errors, "Wrong username/password combination");
-  	}
-  }
+    if (count($errors) == 0) {
+        $password = md5($password);
+        $query = "SELECT * FROM users WHERE username='$username' AND password='$password'";
+        $results = mysqli_query($db, $query);
+
+        if (mysqli_num_rows($results) == 1) {
+            $user = mysqli_fetch_assoc($results);
+
+            // Prevent multiple logins
+            if ($user['is_logged_in'] == 1) {
+                array_push($errors, "User is already logged in on another device.");
+            } else {
+                // Mark user as logged in
+                mysqli_query($db, "UPDATE users SET is_logged_in = 1, last_seen = NOW() WHERE username='$username'");
+
+                $_SESSION['username'] = $username;
+                header('location: login.php');
+                exit();
+            }
+
+        } else {
+            array_push($errors, "Wrong username or password.");
+        }
+    }
 }
+
 
 ?>
