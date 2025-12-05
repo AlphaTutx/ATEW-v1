@@ -16,7 +16,7 @@
 
   	<div class="input-group">
   		<label>Username</label>
-  		<input type="text" name="username" >
+  		<input type="text" name="username">
   	</div>
 
   	<div class="input-group">
@@ -29,7 +29,7 @@
   	 </div>
 
   	<p>
-  		Not yet a member? Please contact us. <a href="https://www.facebook.com/profile.php?id=100087598551338">Sign up</a>
+  		Not yet a member? Please contact us. <a href="register.php">Sign up</a>
   	</p> 
 
   </form>
