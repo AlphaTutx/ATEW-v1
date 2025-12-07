@@ -480,6 +480,237 @@ if (!isset($_SESSION['username'])) {
               </div>
             </div>
 
+            <div class="game-card bg-gradient-to-br from-gray-800 to-gray-900 rounded-2xl overflow-hidden shadow-xl neon-border">
+              <img src="img/nba2k14-26.jpg" alt="NBA 2k14 Modded to 2k26" class="w-full h-48 object-fit: cover">
+              <div class="p-5">
+                <h3 class="font-bold text-xl text-white mb-1">NBA 2k14 Modded to 2k26</h3>
+                <br>
+                <br>
+                <p class="text-red-400 text-sm mb-4">ZIP FILE SIZE: 11.6 GB</p>
+                <a href="https://drive.google.com/drive/folders/1BxPatnUwgeyZqRLFe7Z8kIMnvHJr3TCU?usp=drive_link" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-5 rounded-md shadow-md transition">Download</a>
+                <a href="#" target="_blank" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-5 rounded-md shadow-md transition">Gameplay</a>
+              </div>
+            </div>
+
+            <div class="game-card bg-gradient-to-br from-gray-800 to-gray-900 rounded-2xl overflow-hidden shadow-xl neon-border">
+              <img src="img/ae-2-ex.jpg" alt="NBA 2k14 Modded to 2k26" class="w-full h-48 object-fit: cover">
+              <div class="p-5">
+                <h3 class="font-bold text-xl text-white mb-1">Age Of Empire-II + Expansion</h3>
+                <br>
+                <br>
+                <p class="text-red-400 text-sm mb-4">ZIP FILE SIZE: 326.31 MB</p>
+                <a href="https://www.mediafire.com/file/ayo7qlxrr7c8ptp/Age_Of_Empire-II%252B_Expansion_%255BDirect_Play%255D.rar/file" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-5 rounded-md shadow-md transition">Download</a>
+                <a href="https://www.youtube.com/watch?v=IFRMEPPjIZ4&list=PLRsZpGqBy2tw6GsgPyXiFlq8hnQZMbRoF" target="_blank" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-5 rounded-md shadow-md transition">Gameplay</a>
+              </div>
+            </div>
+
+            <div class="game-card bg-gradient-to-br from-gray-800 to-gray-900 rounded-2xl overflow-hidden shadow-xl neon-border">
+              <img src="img/cod-2.jpg" alt="Call of Duty 2" class="w-full h-48 object-fit: cover">
+              <div class="p-5">
+                <h3 class="font-bold text-xl text-white mb-1">Call of Duty 2</h3>
+                <br>
+                <br>
+                <p class="text-red-400 text-sm mb-4">ZIP FILE SIZE: 3.48 GB</p>
+                <a href="https://www.mediafire.com/file/6wmiejtxxibs66t/Call_of_Duty_2.rar/file" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-5 rounded-md shadow-md transition">Download</a>
+                <a href="https://www.youtube.com/watch?v=MCWst08JU-0" target="_blank" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-5 rounded-md shadow-md transition">Gameplay</a>
+              </div>
+            </div>
+
+            <div class="game-card bg-gradient-to-br from-gray-800 to-gray-900 rounded-2xl overflow-hidden shadow-xl neon-border">
+              <img src="img/br-zen-ed.png" alt="Battle Realms Zen Edition" class="w-full h-48 object-fit: cover">
+              <div class="p-5">
+                <h3 class="font-bold text-xl text-white mb-1">Battle Realms Zen Edition</h3>
+                <br>
+                <p class="text-red-400 text-sm mb-4">ZIP FILE SIZE: 0.97 GB</p>
+                <a href="https://www.mediafire.com/file/03ceu071cfllgmj/Battle.Realms.Zen.Edition.Build.14341174.zip/file" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-5 rounded-md shadow-md transition">Download</a>
+                <a href="https://www.youtube.com/watch?v=8_YI1R3aO4g" target="_blank" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-5 rounded-md shadow-md transition">Gameplay</a>
+              </div>
+            </div>
+
+            <div class="game-card bg-gradient-to-br from-gray-800 to-gray-900 rounded-2xl overflow-hidden shadow-xl neon-border">
+              <img src="img/bs-rem.jpg" alt="Bioshock Remastered" class="w-full h-48 object-fit: cover">
+              <div class="p-5">
+                <h3 class="font-bold text-xl text-white mb-1">Bioshock Remastered</h3>
+                <br>
+                <br>
+                <p class="text-red-400 text-sm mb-4">ZIP FILE SIZE: 9.87 GB</p>
+                <a href="https://www.mediafire.com/file/yd3nbeyp2se8e4g/BioShock_Remastered__%255BDODI_Repack%255D.rar/file" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-5 rounded-md shadow-md transition">Download</a>
+                <a href="https://www.youtube.com/watch?v=9Y_BMidsUaQ" target="_blank" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-5 rounded-md shadow-md transition">Gameplay</a>
+              </div>
+            </div>
+
+            <div class="game-card bg-gradient-to-br from-gray-800 to-gray-900 rounded-2xl overflow-hidden shadow-xl neon-border">
+              <img src="img/dir-def-ed.jpg" alt="Dead Island Riptide Definitive Edition" class="w-full h-48 object-fit: cover">
+              <div class="p-5">
+                <h3 class="font-bold text-xl text-white mb-1">Dead Island Riptide Definitive Edition</h3>
+                <br>
+                <p class="text-red-400 text-sm mb-4">ZIP FILE SIZE: 7.81 GB</p>
+                <a href="https://www.mediafire.com/file/z0uw3c3d6yhf7lw/codex-dead.island.riptide.definitive.edition.iso/file" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-5 rounded-md shadow-md transition">Download</a>
+                <a href="https://www.youtube.com/watch?v=NleKBTeNZQQ" target="_blank" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-5 rounded-md shadow-md transition">Gameplay</a>
+              </div>
+            </div>
+
+            <div class="game-card bg-gradient-to-br from-gray-800 to-gray-900 rounded-2xl overflow-hidden shadow-xl neon-border">
+              <img src="img/cod-mw4.jpg" alt="Call of Duty Modern Warfare 4" class="w-full h-48 object-fit: cover">
+              <div class="p-5">
+                <h3 class="font-bold text-xl text-white mb-1">Call of Duty Modern Warfare 4 </h3>
+                <br>
+                <p class="text-red-400 text-sm mb-4">ZIP FILE SIZE: 3.93 GB</p>
+                <a href="https://www.mediafire.com/file/awwutqtjaxtitc6/Call_of_Duty_4_Modern_Warfare_-_%255BDODI_Repack%255D.rar/file" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-5 rounded-md shadow-md transition">Download</a>
+                <a href="https://www.youtube.com/watch?v=pFn-7SuyTG4" target="_blank" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-5 rounded-md shadow-md transition">Gameplay</a>
+              </div>
+            </div>
+
+            <div class="game-card bg-gradient-to-br from-gray-800 to-gray-900 rounded-2xl overflow-hidden shadow-xl neon-border">
+              <img src="img/rs-3.jpg" alt="Dead Space 3" class="w-full h-48 object-fit: cover">
+              <div class="p-5">
+                <h3 class="font-bold text-xl text-white mb-1">Dead Space 3</h3>
+                <br>
+                <br>
+                <p class="text-red-400 text-sm mb-4">ZIP FILE SIZE: 6.25 GB</p>
+                <a href="https://www.mediafire.com/file/bezoy4swrmp0bpp/Dead_Space_3_-_baka_naman__follow_and_sub_kay_johntech.rar/file" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-5 rounded-md shadow-md transition">Download</a>
+                <a href="https://www.youtube.com/watch?v=cZ3mad7SOBg" target="_blank" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-5 rounded-md shadow-md transition">Gameplay</a>
+              </div>
+            </div>
+
+            <div class="game-card bg-gradient-to-br from-gray-800 to-gray-900 rounded-2xl overflow-hidden shadow-xl neon-border">
+              <img src="img/dh.png" alt="Diablo: Hell Fire" class="w-full h-48 object-fit: cover">
+              <div class="p-5">
+                <h3 class="font-bold text-xl text-white mb-1">Diablo: Hell Fire</h3>
+                <br>
+                <br>
+                <p class="text-red-400 text-sm mb-4">ZIP FILE SIZE: 824.58 MB</p>
+                <a href="https://www.mediafire.com/file/rhyxscqtzypcpvx/Diablo.Hellfire.GOG.rar/file" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-5 rounded-md shadow-md transition">Download</a>
+                <a href="https://www.youtube.com/watch?v=YJlxnFfxRM4" target="_blank" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-5 rounded-md shadow-md transition">Gameplay</a>
+              </div>
+            </div>
+
+            <div class="game-card bg-gradient-to-br from-gray-800 to-gray-900 rounded-2xl overflow-hidden shadow-xl neon-border">
+              <img src="img/d2-ld.jpeg" alt="Diablo: Hell Fire" class="w-full h-48 object-fit: cover">
+              <div class="p-5">
+                <h3 class="font-bold text-xl text-white mb-1">Diablo 2 Lord of Destruction</h3>
+                <br>
+                <p class="text-red-400 text-sm mb-4">ZIP FILE SIZE: 1.76 GB</p>
+                <a href="https://www.mediafire.com/file/pwijhcymf13yc7w/Diablo_II_Lord_of_Destruction_%25281.zip/file" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-5 rounded-md shadow-md transition">Download</a>
+                <a href="https://www.youtube.com/watch?v=sM7gA_xD7vE" target="_blank" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-5 rounded-md shadow-md transition">Gameplay</a>
+              </div>
+            </div>
+
+            <div class="game-card bg-gradient-to-br from-gray-800 to-gray-900 rounded-2xl overflow-hidden shadow-xl neon-border">
+              <img src="img/nfs-mw-2005.jpeg" alt="Diablo: Hell Fire" class="w-full h-48 object-fit: cover">
+              <div class="p-5">
+                <h3 class="font-bold text-xl text-white mb-1">Need for Speed - Most Wanted [2005]</h3>
+                <br>
+                <p class="text-red-400 text-sm mb-4">ZIP FILE SIZE: 1.84 GB</p>
+                <a href="https://www.mediafire.com/file/na0bajcleqqwme6/NFS_-_Most_Wanted_%25282005%2529_PC.7z/file" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-5 rounded-md shadow-md transition">Download</a>
+                <a href="https://www.youtube.com/watch?v=DRR464LoKhI&list=PLClY3bOF3ZUAZqP54Af5QQDEE5J2F6ruh" target="_blank" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-5 rounded-md shadow-md transition">Gameplay</a>
+              </div>
+            </div>
+
+            <div class="game-card bg-gradient-to-br from-gray-800 to-gray-900 rounded-2xl overflow-hidden shadow-xl neon-border">
+              <img src="img/nfs-mw-2012.jpg" alt="Diablo: Hell Fire" class="w-full h-48 object-fit: cover">
+              <div class="p-5">
+                <h3 class="font-bold text-xl text-white mb-1">Need for Speed - Most Wanted [2012]</h3>
+                <br>
+                <p class="text-red-400 text-sm mb-4">ZIP FILE SIZE: 3.9 GB</p>
+                <a href="https://www.mediafire.com/file/srymq2a95y87m8d/NFS_Most_Wanted_2012.rar/file" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-5 rounded-md shadow-md transition">Download</a>
+                <a href="https://www.youtube.com/watch?v=yDJqhPgrIZE" target="_blank" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-5 rounded-md shadow-md transition">Gameplay</a>
+              </div>
+            </div>
+
+            <div class="game-card bg-gradient-to-br from-gray-800 to-gray-900 rounded-2xl overflow-hidden shadow-xl neon-border">
+              <img src="img/pt.jpg" alt="Prototype" class="w-full h-48 object-fit: cover">
+              <div class="p-5">
+                <h3 class="font-bold text-xl text-white mb-1">Prototype</h3>
+                <br>
+                <br>
+                <p class="text-red-400 text-sm mb-4">ZIP FILE SIZE: 7.31 GB</p>
+                <a href="https://www.mediafire.com/file/n77spmzodh3o3yq/Prototype.v2009.zip/file" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-5 rounded-md shadow-md transition">Download</a>
+                <a href="https://www.youtube.com/watch?v=Mf4hoe25azM" target="_blank" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-5 rounded-md shadow-md transition">Gameplay</a>
+              </div>
+            </div>
+
+            <div class="game-card bg-gradient-to-br from-gray-800 to-gray-900 rounded-2xl overflow-hidden shadow-xl neon-border">
+              <img src="img/pt-2.jpg" alt="Prototype 2" class="w-full h-48 object-fit: cover">
+              <div class="p-5">
+                <h3 class="font-bold text-xl text-white mb-1">Prototype 2</h3>
+                <br>
+                <br>
+                <p class="text-red-400 text-sm mb-4">ZIP FILE SIZE: 8.4 GB</p>
+                <a href="https://www.mediafire.com/file/mj5zx861ikf10fb/Prototype_2.rar/file" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-5 rounded-md shadow-md transition">Download</a>
+                <a href="https://www.youtube.com/watch?v=dimEzUn4VOw" target="_blank" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-5 rounded-md shadow-md transition">Gameplay</a>
+              </div>
+            </div>
+
+            <div class="game-card bg-gradient-to-br from-gray-800 to-gray-900 rounded-2xl overflow-hidden shadow-xl neon-border">
+              <img src="img/res-5-gold-ed.jpg" alt="Resident Evil 5 Gold Edition" class="w-full h-48 object-fit: cover">
+              <div class="p-5">
+                <h3 class="font-bold text-xl text-white mb-1">Resident Evil 5 Gold Edition</h3>
+                <br>
+                <p class="text-red-400 text-sm mb-4">ZIP FILE SIZE: 8.3 GB</p>
+                <a href="https://www.mediafire.com/file/2o85rujkk7n58qk/plaza-resident.evil.5.gold.edition.iso/file" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-5 rounded-md shadow-md transition">Download</a>
+                <a href="https://www.youtube.com/watch?v=qUsTgI0cs4c" target="_blank" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-5 rounded-md shadow-md transition">Gameplay</a>
+              </div>
+            </div>
+
+            <div class="game-card bg-gradient-to-br from-gray-800 to-gray-900 rounded-2xl overflow-hidden shadow-xl neon-border">
+              <img src="img/ra-2.jpg" alt="Red Alert 2" class="w-full h-48 object-fit: cover">
+              <div class="p-5">
+                <h3 class="font-bold text-xl text-white mb-1">Red Alert 2</h3>
+                <br>
+                <br>
+                <p class="text-red-400 text-sm mb-4">ZIP FILE SIZE: 510.38 MB</p>
+                <a href="https://www.mediafire.com/file/els07d2ks6c0ng4/Red_Alert_2_%255BDODI_Repack%255D.rar/file" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-5 rounded-md shadow-md transition">Download</a>
+                <a href="https://www.youtube.com/watch?v=7tOTBjanf-U" target="_blank" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-5 rounded-md shadow-md transition">Gameplay</a>
+              </div>
+            </div>
+
+            <div class="game-card bg-gradient-to-br from-gray-800 to-gray-900 rounded-2xl overflow-hidden shadow-xl neon-border">
+              <img src="img/ra-3.jpg" alt="Red Alert 2" class="w-full h-48 object-fit: cover">
+              <div class="p-5">
+                <h3 class="font-bold text-xl text-white mb-1">Red Alert 3 HD</h3>
+                <br>
+                <br>
+                <p class="text-red-400 text-sm mb-4">ZIP FILE SIZE: 6.62 GB</p>
+                <a href="https://www.mediafire.com/file/9n4xso899fb9ase/R_E_D_A_L_E_R_T.iso/file" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-5 rounded-md shadow-md transition">Download</a>
+                <a href="https://www.youtube.com/watch?v=Yd_pBTWPjjo" target="_blank" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-5 rounded-md shadow-md transition">Gameplay</a>
+              </div>
+            </div>
+
+            <div class="game-card bg-gradient-to-br from-gray-800 to-gray-900 rounded-2xl overflow-hidden shadow-xl neon-border">
+              <img src="img/sh-2-en-ed.jpg" alt="Silent Hill 2 Enhanced Edition" class="w-full h-48 object-fit: cover">
+              <div class="p-5">
+                <h3 class="font-bold text-xl text-white mb-1">Silent Hill 2 Enhanced Edition</h3>
+                <br>
+                <p class="text-red-400 text-sm mb-4">ZIP FILE SIZE: 4.86 GB</p>
+                <a href="https://www.mediafire.com/file/pu3shfez28ir89n/Silent.Hill.2.Enhanced.Edition.2023.7z/file" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-5 rounded-md shadow-md transition">Download</a>
+                <a href="https://www.youtube.com/watch?v=6UDLkMD40pA" target="_blank" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-5 rounded-md shadow-md transition">Gameplay</a>
+              </div>
+            </div>
+
+            <div class="game-card bg-gradient-to-br from-gray-800 to-gray-900 rounded-2xl overflow-hidden shadow-xl neon-border">
+              <img src="img/sc.jpg" alt="Starcraft 2" class="w-full h-48 object-fit: cover">
+              <div class="p-5">
+                <h3 class="font-bold text-xl text-white mb-1">Starcraft 2</h3>
+                <br>
+                <br>
+                <p class="text-red-400 text-sm mb-4">ZIP FILE SIZE: 1.19 GB</p>
+                <a href="https://www.mediafire.com/file/e4kll8uc4tmylxp/Starcraft_No_Install.7z/file" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-5 rounded-md shadow-md transition">Download</a>
+                <a href="https://www.youtube.com/watch?v=rclNMra4fb8" target="_blank" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-5 rounded-md shadow-md transition">Gameplay</a>
+              </div>
+            </div>
+
+            <div class="game-card bg-gradient-to-br from-gray-800 to-gray-900 rounded-2xl overflow-hidden shadow-xl neon-border">
+              <img src="img/tttdo.jpg" alt="Starcraft 2 " class="w-full h-48 object-fit: cover">
+              <div class="p-5">
+                <h3 class="font-bold text-xl text-white mb-1">Typing of The Dead Overkill</h3>
+                <br>
+                <p class="text-red-400 text-sm mb-4">ZIP FILE SIZE: 2.25 GB</p>
+                <a href="https://www.mediafire.com/file/tkv0gl8scnbh8fl/Typing_of_the_Dead_Overkill_RePack_by_SEYTER.rar/file" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-5 rounded-md shadow-md transition">Download</a>
+                <a href="https://www.youtube.com/watch?v=CWWMaa33LxA" target="_blank" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-5 rounded-md shadow-md transition">Gameplay</a>
+              </div>
+            </div>
+
             <!-- End of Games Grid -->  
             
           </div>
