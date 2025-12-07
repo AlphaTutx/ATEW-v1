@@ -239,12 +239,22 @@
             </div>
 
             <div class="game-card bg-gradient-to-br from-gray-800 to-gray-900 rounded-2xl overflow-hidden shadow-xl neon-border">
-              <img src="img3/ss-cs.jpg" alt="SpongeBob - The Cosmic Shake" class="w-full h-48 object-fit: cover">
+              <img src="img3/gta-vc-def.jpeg" alt="GTA Vice City Definitive Edition" class="w-full h-48 object-fit: cover">
               <div class="p-5">
                 <h3 class="font-bold text-xl text-white mb-1">GTA Vice City Definitive Edition</h3>
-                <p class="text-red-400 text-sm mb-4">NOTE: The first time you open the game, it will take a while because it is unpacking the resources. Do not close the app<br><br>SIZE - 3.9 GB</p>
+                <p class="text-red-400 text-sm mb-4">Mod Unlocked Netflix 60FPS<br><br>SIZE - 3.48 GB</p>
                 <a href="https://www.mediafire.com/file/qxsb5l2tb7ivb0s/GTA-Vice-City-Definitiveeee-60-FPS-v1.90.0-mod-apkvision.apk/file" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-5 rounded-md shadow-md transition">Download</a>
                 <a href="https://www.youtube.com/watch?v=k1wMs_6ehws&list=PLeryE-e3frBBPhrO8_17EeararoTb62Vq" target="_blank" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-5 rounded-md shadow-md transition">Gameplay</a>
+              </div>
+            </div>
+
+            <div class="game-card bg-gradient-to-br from-gray-800 to-gray-900 rounded-2xl overflow-hidden shadow-xl neon-border">
+              <img src="img3/ln.png" alt="GTA Vice City Definitive Edition" class="w-full h-48 object-fit: cover">
+              <div class="p-5">
+                <h3 class="font-bold text-xl text-white mb-1">Little Nightmares</h3>
+                <p class="text-red-400 text-sm mb-4"><br>60FPS<br><br>SIZE - 1.05 GB</p>
+                <a href="https://www.mediafire.com/file/25qac2mpnrzx23g/little-nightmaressss_144-.apk/file" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-5 rounded-md shadow-md transition">Download</a>
+                <a href="https://www.youtube.com/watch?v=O4JdtO-GTeQ" target="_blank" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-5 rounded-md shadow-md transition">Gameplay</a>
               </div>
             </div>
 
