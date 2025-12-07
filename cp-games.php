@@ -239,7 +239,7 @@
             </div>
 
             <div class="game-card bg-gradient-to-br from-gray-800 to-gray-900 rounded-2xl overflow-hidden shadow-xl neon-border">
-              <img src="img3/gta-vc-def.jpeg" alt="GTA Vice City Definitive Edition" class="w-full h-48 object-fit: cover">
+              <img src="img3/gta-vc-defi.jpeg" alt="GTA Vice City Definitive Edition" class="w-full h-48 object-fit: cover">
               <div class="p-5">
                 <h3 class="font-bold text-xl text-white mb-1">GTA Vice City Definitive Edition</h3>
                 <p class="text-red-400 text-sm mb-4">Mod Unlocked Netflix 60FPS<br><br>SIZE - 3.48 GB</p>
@@ -249,7 +249,7 @@
             </div>
 
             <div class="game-card bg-gradient-to-br from-gray-800 to-gray-900 rounded-2xl overflow-hidden shadow-xl neon-border">
-              <img src="img3/ln.png" alt="GTA Vice City Definitive Edition" class="w-full h-48 object-fit: cover">
+              <img src="img3/lnm.png" alt="Little Nightmares" class="w-full h-48 object-fit: cover">
               <div class="p-5">
                 <h3 class="font-bold text-xl text-white mb-1">Little Nightmares</h3>
                 <p class="text-red-400 text-sm mb-4"><br>60FPS<br><br>SIZE - 1.05 GB</p>
