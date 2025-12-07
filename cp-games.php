@@ -258,6 +258,26 @@
               </div>
             </div>
 
+            <div class="game-card bg-gradient-to-br from-gray-800 to-gray-900 rounded-2xl overflow-hidden shadow-xl neon-border">
+              <img src="img/nba2k14-26.jpg" alt="Little Nightmares" class="w-full h-48 object-fit: cover">
+              <div class="p-5">
+                <h3 class="font-bold text-xl text-white mb-1">NBA 2k20 Modded to 2k26</h3>
+                <p class="text-red-400 text-sm mb-4"><br>Updated as of now<br><br>SIZE - APK: 83.09 MB | OBB: 2.95 GB</p>
+                <a href="https://docs.google.com/document/d/1pN-vpjSMyH4oOr_dqKW6rKvjPMFPr7yH_wfWcsk6djI/edit?usp=drive_link" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-5 rounded-md shadow-md transition">Download</a>
+                <a href="https://www.youtube.com/watch?v=9mF7nnF9mY4&t=17s" target="_blank" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-5 rounded-md shadow-md transition">Gameplay</a>
+              </div>
+            </div>
+
+
+            <div class="game-card bg-gradient-to-br from-gray-800 to-gray-900 rounded-2xl overflow-hidden shadow-xl neon-border">
+              <img src="img3/gl-del-ed.jpeg" alt="Little Nightmares" class="w-full h-48 object-fit: cover">
+              <div class="p-5">
+                <h3 class="font-bold text-xl text-white mb-1">Grid Legends Deluxe Edition</h3>
+                <p class="text-red-400 text-sm mb-4"><br>Updated as of now<br><br>SIZE - APK: 4.1 GB</p>
+                <a href="https://dl.apkvision.org/grid-legends-deluxe-edition/grid-legends-1.1.4RC7-mod-apkvision.apks" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-5 rounded-md shadow-md transition">Download</a>
+                <a href="https://www.youtube.com/watch?v=9mF7nnF9mY4&t=17s" target="_blank" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-5 rounded-md shadow-md transition">Gameplay</a>
+              </div>
+            </div>
             </div>
 </section>
 

@@ -716,6 +716,7 @@ if (!isset($_SESSION['username'])) {
               <div class="p-5">
                 <h3 class="font-bold text-xl text-white mb-1">Deadpool</h3>
                 <br>
+                <br>
                 <p class="text-red-400 text-sm mb-4">ZIP FILE SIZE: 5.63 GB</p>
                 <a href="https://download2266.mediafire.com/.../bb5nm.../Deadpool.rar" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-5 rounded-md shadow-md transition">Download</a>
                 <a href="https://www.youtube.com/watch?v=2BHHY9BavCI" target="_blank" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-5 rounded-md shadow-md transition">Gameplay</a>
@@ -726,6 +727,7 @@ if (!isset($_SESSION['username'])) {
               <img src="img/undisputed.jpg" alt="Undisputed " class="w-full h-48 object-fit: cover">
               <div class="p-5">
                 <h3 class="font-bold text-xl text-white mb-1">Undisputed</h3>
+                <br>
                 <br>
                 <p class="text-red-400 text-sm mb-4">ZIP FILE SIZE: 18.5 GB</p>
                 <a href="https://docs.google.com/document/d/1m7lnYosfSmRNx6mmqaC0H993zp8KfpiWhMKPCEKoN-U/edit?usp=drive_link" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-5 rounded-md shadow-md transition">Download</a>
