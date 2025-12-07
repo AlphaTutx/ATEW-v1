@@ -275,7 +275,7 @@
                 <h3 class="font-bold text-xl text-white mb-1">Grid Legends Deluxe Edition</h3>
                 <p class="text-red-400 text-sm mb-4"><br>Updated as of now<br><br>SIZE - APK: 4.1 GB</p>
                 <a href="https://dl.apkvision.org/grid-legends-deluxe-edition/grid-legends-1.1.4RC7-mod-apkvision.apks" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-5 rounded-md shadow-md transition">Download</a>
-                <a href="https://www.youtube.com/watch?v=9mF7nnF9mY4&t=17s" target="_blank" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-5 rounded-md shadow-md transition">Gameplay</a>
+                <a href="https://www.youtube.com/watch?v=pG2xZS-S50k" target="_blank" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-5 rounded-md shadow-md transition">Gameplay</a>
               </div>
             </div>
             </div>
