@@ -189,7 +189,7 @@
             </div>
 
             <div class="game-card bg-gradient-to-br from-gray-800 to-gray-900 rounded-2xl overflow-hidden shadow-xl neon-border">
-              <img src="img3/gta-sa-def.jpg" alt="SpongeBob SquarePants - Battle for Bikini Bottom" class="w-full h-48 object-fit: cover">
+              <img src="img3/gta-sa-defi.jpg" alt="SpongeBob SquarePants - Battle for Bikini Bottom" class="w-full h-48 object-fit: cover">
               <div class="p-5">
                 <h3 class="font-bold text-xl text-white mb-1">GTA San Andreas - Definitive Edition</h3>
                 <p class="text-red-400 text-sm mb-4">Full Version Unlocked | 60 fps<br><br>SIZE - 13 GB</p>
