@@ -1,37 +1,47 @@
-<?php include('server.php') ?>
+<?php include('server.php'); ?>
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
-  <title>Login Form</title>
-  <link rel="stylesheet" type="text/css" href="style.css">
+  <meta charset="UTF-8">
+  <title>Login | Alpha Tutx GameVault</title>
+  <link rel="stylesheet" href="style.css?v=2"> <!-- force reload -->
 </head>
+
 <body>
 
-  <div class="header">
-  	<h2>Login</h2>
+<div class="login-wrapper">
+
+  <div class="login-box">
+
+    <h2>Game Vault Login</h2>
+
+    <form method="post" action="index.php">
+      <?php include('errors.php'); ?>
+
+      <div class="input-group">
+        <label>Username</label>
+        <input type="text" name="username" required>
+      </div>
+
+      <div class="input-group">
+        <label>Password</label>
+        <input type="password" name="password" required>
+      </div>
+
+      <button type="submit" class="btn" name="login_user">Login</button>
+
+      <p class="signup">
+        Not yet a member?
+        <a href="https://www.facebook.com/profile.php?id=100087598551338" target="_blank">
+          Contact us
+        </a>
+      </p>
+
+    </form>
+
   </div>
-	 
-  <form method="post" action="index.php">
-  	<?php include('errors.php'); ?>
 
-  	<div class="input-group">
-  		<label>Username</label>
-  		<input type="text" name="username">
-  	</div>
+</div>
 
-  	<div class="input-group">
-  		<label>Password</label>
-  		<input type="password" name="password">
-  	</div>
-
-  	<div class="input-group">
-  		<button type="submit" class="btn" name="login_user">Login</button>
-  	 </div>
-
-  	<p>
-  		Not yet a member? Please contact us. <a href="https://www.facebook.com/profile.php?id=100087598551338">Sign up</a>
-  	</p> 
-
-  </form>
 </body>
 </html>
