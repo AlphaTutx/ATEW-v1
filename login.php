@@ -371,8 +371,8 @@ if (!isset($_SESSION['username'])) {
               <div class="p-5">
                 <h3 class="font-bold text-xl text-white mb-1">Left 4 Dead 2</h3>
                 <br>
-                <p class="text-red-400 text-sm mb-4">ZIP FILE SIZE: 9.07 GB</p>
-                <a href="https://www.mediafire.com/file/ujml2h5khgwxcmh/LEFT_4_DEAD_2_%2528V_2.2.4%2529-PR-001.zip/file" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-5 rounded-md shadow-md transition">Download</a>
+                <p class="text-red-400 text-sm mb-4">ZIP FILE SIZE: 8.91 GB</p>
+                <a href="https://www.mediafire.com/file/jgvdcfz2qt4h7vi/Left.4.Dead.2.v2.2.3.8.7z/file" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-5 rounded-md shadow-md transition">Download</a>
                 <a href="https://www.youtube.com/watch?v=-HOhGiekrWM" target="_blank" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-5 rounded-md shadow-md transition">Gameplay</a>
               </div>
             </div>
