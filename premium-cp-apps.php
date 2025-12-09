@@ -247,7 +247,7 @@
               <img src="img2/spotify-prem.jpg" alt="Warcraft_III Frozen Throne - CD keys" class="w-full h-48 object-fit: cover">
               <div class="p-5">
                 <h3 class="font-bold text-xl text-white mb-1">Spotify Premium<br>[Option 1]</h3>
-                <br><br>
+                <br>
                 <p class="text-red-400 text-sm mb-4">No ads</p>
                 <br>
                 <a href="https://www.mediafire.com/file/s7ljwmlkt5cqppy/Spotify%252Bv9.1.2.1253%252B135537219.apk/file" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-4 rounded-md shadow-md transition">Download</a>
@@ -258,7 +258,7 @@
               <img src="img2/spotify-prem.jpg" alt="Warcraft_III Frozen Throne - CD keys" class="w-full h-48 object-fit: cover">
               <div class="p-5">
                 <h3 class="font-bold text-xl text-white mb-1">Spotify Premium<br>[Option 2]</h3>
-                <br><br>
+                <br>
                 <p class="text-red-400 text-sm mb-4">No ads</p>
                 <br>
                 <a href="https://docs.google.com/document/d/1NizVliz7iPp4JYH-E869wdwuxHkfv9cjoXz35spY8I0/edit?usp=drive_link" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-4 rounded-md shadow-md transition">Simple Guide</a>
