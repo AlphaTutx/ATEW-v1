@@ -84,16 +84,6 @@
                 <a href="https://www.youtube.com/watch?v=papqdr5CcEE" target="_blank" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-5 rounded-md shadow-md transition">Gameplay</a>
               </div>
             </div>
-
-            <div class="game-card bg-gradient-to-br from-gray-800 to-gray-900 rounded-2xl overflow-hidden shadow-xl neon-border">
-              <img src="img3/rdr-netflix.jpg" alt="Cyberpunk 2077 Phantom Liberty" class="w-full h-48 object-fit: cover">
-              <div class="p-5">
-                <h3 class="font-bold text-xl text-white mb-1">Red Dead Redemption <br>[Netflix Version]</h3>
-                <p class="text-red-400 text-sm mb-4">Full Version Unlocked || No Netflix account is required<br>SIZE - 6.26 GB</p>
-                <a href="https://www.mediafire.com/file/oyvqrgfikuirhb9/Red_Dead_Redemption_NETFLIX_v1.50.60293175_Unlocked_lore.apks/file" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-5 rounded-md shadow-md transition">Download</a>
-                <a href="https://www.youtube.com/watch?v=papqdr5CcEE" target="_blank" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-5 rounded-md shadow-md transition">Gameplay</a>
-              </div>
-            </div>
             
             <!-- Game Card Template -->
 
@@ -290,6 +280,17 @@
                 <a href="https://www.youtube.com/watch?v=pG2xZS-S50k" target="_blank" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-5 rounded-md shadow-md transition">Gameplay</a>
               </div>
             </div>
+
+            <div class="game-card bg-gradient-to-br from-gray-800 to-gray-900 rounded-2xl overflow-hidden shadow-xl neon-border">
+              <img src="img3/rdr-netflix.jpg" alt="Cyberpunk 2077 Phantom Liberty" class="w-full h-48 object-fit: cover">
+              <div class="p-5">
+                <h3 class="font-bold text-xl text-white mb-1">Red Dead Redemption <br>[Netflix Version]</h3>
+                <p class="text-red-400 text-sm mb-4">Full Version Unlocked || No Netflix account is required<br>SIZE - 6.26 GB</p>
+                <a href="https://www.mediafire.com/file/oyvqrgfikuirhb9/Red_Dead_Redemption_NETFLIX_v1.50.60293175_Unlocked_lore.apks/file" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-5 rounded-md shadow-md transition">Download</a>
+                <a href="https://www.youtube.com/watch?v=papqdr5CcEE" target="_blank" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-5 rounded-md shadow-md transition">Gameplay</a>
+              </div>
+            </div>
+
             </div>
 </section>
 
