@@ -742,7 +742,7 @@ if (!isset($_SESSION['username'])) {
                 <br>
                 <p class="text-red-400 text-sm mb-4">ZIP FILE SIZE: 7.24 GB</p>
                 <a href="https://drive.google.com/drive/folders/1bl86BUFOQxktSmFMzj2-sCq89rM54iaS" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-5 rounded-md shadow-md transition">Download</a>
-                <a href="https://www.youtube.com/watch?v=zCZ2sjNw8iA" target="_blank" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-5 rounded-md shadow-md transition">Gameplay</a>
+                <a href="https://www.youtube.com/watch?v=vPXI-HuMKPM&list=PLt3vJEssCrOs2eMVwMrUPxQDUJd_RT4JD" target="_blank" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-5 rounded-md shadow-md transition">Gameplay</a>
               </div>
             </div>
 
