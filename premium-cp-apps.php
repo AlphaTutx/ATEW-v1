@@ -246,7 +246,7 @@
             <div class="game-card bg-gradient-to-br from-gray-800 to-gray-900 rounded-2xl overflow-hidden shadow-xl neon-border">
               <img src="img2/spotify-prem.jpg" alt="Warcraft_III Frozen Throne - CD keys" class="w-full h-48 object-fit: cover">
               <div class="p-5">
-                <h3 class="font-bold text-xl text-white mb-1">Spotify Premium [Option 1]</h3>
+                <h3 class="font-bold text-xl text-white mb-1">Spotify Premium<br>[Option 1]</h3>
                 <br><br>
                 <p class="text-red-400 text-sm mb-4">No ads</p>
                 <br>
@@ -257,7 +257,7 @@
             <div class="game-card bg-gradient-to-br from-gray-800 to-gray-900 rounded-2xl overflow-hidden shadow-xl neon-border">
               <img src="img2/spotify-prem.jpg" alt="Warcraft_III Frozen Throne - CD keys" class="w-full h-48 object-fit: cover">
               <div class="p-5">
-                <h3 class="font-bold text-xl text-white mb-1">Spotify Premium [Option 1]</h3>
+                <h3 class="font-bold text-xl text-white mb-1">Spotify Premium<br>[Option 2]</h3>
                 <br><br>
                 <p class="text-red-400 text-sm mb-4">No ads</p>
                 <br>
