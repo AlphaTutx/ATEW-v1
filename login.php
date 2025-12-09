@@ -738,7 +738,7 @@ if (!isset($_SESSION['username'])) {
             <div class="game-card bg-gradient-to-br from-gray-800 to-gray-900 rounded-2xl overflow-hidden shadow-xl neon-border">
               <img src="img/kb-vs-sd.jpeg" alt="Undisputed " class="w-full h-48 object-fit: cover">
               <div class="p-5">
-                <h3 class="font-bold text-xl text-white mb-1">Kuroko No Basket Vs Slamdunk</h3>
+                <h3 class="font-bold text-xl text-white mb-1">Kuroko No Basket VS Slamdunk</h3>
                 <br>
                 <p class="text-red-400 text-sm mb-4">ZIP FILE SIZE: 7.24 GB</p>
                 <a href="https://drive.google.com/drive/folders/1bl86BUFOQxktSmFMzj2-sCq89rM54iaS" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-5 rounded-md shadow-md transition">Download</a>
