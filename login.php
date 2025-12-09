@@ -735,6 +735,18 @@ if (!isset($_SESSION['username'])) {
               </div>
             </div>
 
+            <div class="game-card bg-gradient-to-br from-gray-800 to-gray-900 rounded-2xl overflow-hidden shadow-xl neon-border">
+              <img src="img/undisputed.jpg" alt="Undisputed " class="w-full h-48 object-fit: cover">
+              <div class="p-5">
+                <h3 class="font-bold text-xl text-white mb-1">Kuroko No Basket Vs Slamdunk</h3>
+                <br>
+                <br>
+                <p class="text-red-400 text-sm mb-4">ZIP FILE SIZE: 7.24 GB</p>
+                <a href="https://drive.google.com/drive/folders/1bl86BUFOQxktSmFMzj2-sCq89rM54iaS" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-5 rounded-md shadow-md transition">Download</a>
+                <a href="https://www.youtube.com/watch?v=zCZ2sjNw8iA" target="_blank" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-5 rounded-md shadow-md transition">Gameplay</a>
+              </div>
+            </div>
+
             <!-- End of Games Grid -->  
             
           </div>
