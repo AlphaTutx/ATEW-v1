@@ -250,7 +250,7 @@
                 <br><br>
                 <p class="text-red-400 text-sm mb-4">No ads</p>
                 <br>
-                <a href="https://www.mediafire.com/file/s7ljwmlkt5cqppy/Spotify%252Bv9.1.2.1253%252B135537219.apk/file" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-4 rounded-md shadow-md transition">Simple Guide</a>
+                <a href="https://www.mediafire.com/file/s7ljwmlkt5cqppy/Spotify%252Bv9.1.2.1253%252B135537219.apk/file" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-4 rounded-md shadow-md transition">Download</a>
               </div>
             </div>
 
