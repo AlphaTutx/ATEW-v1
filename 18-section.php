@@ -87,6 +87,16 @@
               </div>
             </div>
 
+            <div class="game-card bg-gradient-to-br from-gray-800 to-gray-900 rounded-2xl overflow-hidden shadow-xl neon-border">
+              <img src="18-img/sextube.png" alt="Cumtube" class="w-full h-48 object-fit: cover">
+              <div class="p-5">
+                <h3 class="font-bold text-xl text-white mb-1">Sextube Pro</h3>
+                <br>
+                <p class="text-red-400 text-sm mb-4">Unlocked Pro Version | No ADS</p>
+                <a href="https://drive.google.com/file/d/1RTBppMPk9iMmqIYjziPO3n9huZ5KmaLA/view?usp=drive_link" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-4 rounded-md shadow-md transition">Download</a>
+              </div>
+            </div>
+
       </div>
             
 </section>
