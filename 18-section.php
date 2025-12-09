@@ -83,7 +83,7 @@
                 <h3 class="font-bold text-xl text-white mb-1">Cumtube Premium</h3>
                 <br>
                 <p class="text-red-400 text-sm mb-4">No ADS | Compatibility with Chromecast devices | Up to 1080p</p>
-                <a href="https://www.mediafire.com/file/k4msriu6eii43w4/CumTube_X_v3.3.2_%2528Premium%2529.apk/file" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-4 rounded-md shadow-md transition">Download</a>
+                <a href="https://drive.google.com/file/d/1Ar_RDt7xBrJlV-eyRpQ0FaqU5wNa1wUn/view?usp=drive_link" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-4 rounded-md shadow-md transition">Download</a>
               </div>
             </div>
 
