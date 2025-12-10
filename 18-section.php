@@ -102,6 +102,22 @@
             
 </section>
 
+<section>
+
+          <h2 class="text-4xl font-extrabold mb-6 text-red-400">Direct links</h2>
+          
+          <a href="https://drive.google.com/drive/folders/1iieX0Lt14nSlMZtrl_0gywyEPj2JzHOZ?usp=drive_link" target="_blank" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-4 rounded-md shadow-md transition">PREVIEW - Shayna Chua</a>
+          <br>
+          <br>
+          <a href="https://drive.google.com/file/d/135LSOIi_5YJ88MwO_GF10wY-bWs2k9VW/view" target="_blank" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-4 rounded-md shadow-md transition">Shayna Chua - Part 1</a>
+          <a href="https://drive.google.com/file/d/1k41twHre6nhEcP2XuxHVA0ZN_hOSwtyH/view" target="_blank" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-4 rounded-md shadow-md transition">Shayna Chua - Part 2</a>
+          <a href="https://drive.google.com/file/d/19ZJOshKgL9CYgl9hg-dYKdFcBcXK7Om2/view" target="_blank" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-4 rounded-md shadow-md transition">Shayna Chua - Part 3</a>
+          <BR></BR><BR></BR>
+          
+</section>
+
+
+
 
 
 
