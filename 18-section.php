@@ -104,19 +104,112 @@
 
 <section>
 
+          <!-- Start -->
+
           <h2 class="text-4xl font-extrabold mb-6 text-red-400">Direct links</h2>
+
+          <BR></BR>
+
+          <p>PREVIEW :
+            
+            <a href="https://drive.google.com/drive/folders/1FyTYeO0fGO3KlQjghKt2op5vNej2efkl?usp=drive_link" target="_blank" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-4 rounded-md shadow-md transition">
+              SHAYNA CHUA
+            </a>
           
-          <a href="https://drive.google.com/drive/folders/1iieX0Lt14nSlMZtrl_0gywyEPj2JzHOZ?usp=drive_link" target="_blank" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-4 rounded-md shadow-md transition">PREVIEW - Shayna Chua</a>
-          <br>
-          <br>
-          <a href="https://drive.google.com/file/d/135LSOIi_5YJ88MwO_GF10wY-bWs2k9VW/view" target="_blank" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-4 rounded-md shadow-md transition">Shayna Chua - Part 1</a>
-          <a href="https://drive.google.com/file/d/1k41twHre6nhEcP2XuxHVA0ZN_hOSwtyH/view" target="_blank" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-4 rounded-md shadow-md transition">Shayna Chua - Part 2</a>
-          <a href="https://drive.google.com/file/d/19ZJOshKgL9CYgl9hg-dYKdFcBcXK7Om2/view" target="_blank" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-4 rounded-md shadow-md transition">Shayna Chua - Part 3</a>
-          <BR></BR><BR></BR>
+          </p>
+          
+          <BR>
+
+          <p>VIDEO LINK/S :
+
+            <a href="https://drive.google.com/file/d/135LSOIi_5YJ88MwO_GF10wY-bWs2k9VW/view" target="_blank" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-4 rounded-md shadow-md transition">Sauce_1</a>
+            <a href="https://drive.google.com/file/d/1k41twHre6nhEcP2XuxHVA0ZN_hOSwtyH/view" target="_blank" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-4 rounded-md shadow-md transition">Sauce_2</a>
+            <a href="https://drive.google.com/file/d/19ZJOshKgL9CYgl9hg-dYKdFcBcXK7Om2/view" target="_blank" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-4 rounded-md shadow-md transition">Sauce_3</a>
+
+          </p>
+
+
+<BR></BR><BR></BR><BR></BR>
+
+
+          <p>PREVIEW :
+            
+            <a href="https://drive.google.com/drive/folders/1OKRPfoHuWwTmum9STAAg7Dme6jBVQf4q?usp=drive_link" target="_blank" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-4 rounded-md shadow-md transition">
+              NERIZA ABELLA
+            </a>
+          
+          </p>
+          
+          <BR>
+
+          <p>VIDEO LINK/S :
+
+            <a href="https://terabox.com/s/1qy4Tfm35TQoeV7R_c3_ugA" target="_blank" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-4 rounded-md shadow-md transition">Sauce</a>
+
+          </p>
+
+<BR></BR><BR></BR><BR></BR>
+
+
+          <p>PREVIEW :
+            
+            <a href="https://drive.google.com/drive/folders/1-R6gYhK54sa9pzx_AZ0SiS0E4RtVyXA9?usp=drive_link" target="_blank" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-4 rounded-md shadow-md transition">
+              ALITE ANLEI TUPAZ
+            </a>
+          
+          </p>
+          
+          <BR>
+
+          <p>VIDEO LINK/S :
+
+            <a href="https://drive.google.com/drive/folders/1-WVS4pamjHyPyiJe2luGt92FkBnRpDHc?usp=drive_link" target="_blank" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-4 rounded-md shadow-md transition">Sauce</a>
+
+          </p>
+
+<BR></BR><BR></BR><BR></BR>
+
+
+          <p>PREVIEW :
+            
+            <a href="https://drive.google.com/drive/folders/1bdRCnXC3uY-NY3to8FeQZK0y9h9M_6d-?usp=drive_link" target="_blank" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-4 rounded-md shadow-md transition">
+             CHARISSA MAE AMINOSO
+            </a>
+          
+          </p>
+          
+          <BR>
+
+          <p>VIDEO LINK/S :
+
+            <a href="https://drive.google.com/file/d/1EsOFQtfqud8UKAlHq74iUK-GYfeX2_AK/view" target="_blank" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-4 rounded-md shadow-md transition">Sauce</a>
+
+          </p>
+
+<BR></BR><BR></BR><BR></BR>
+
+
+          <p>PREVIEW :
+            
+            <a href="https://drive.google.com/drive/folders/1isywi6MG6j5NcHDM1P05qyCXkEwSwTer?usp=drive_link" target="_blank" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-4 rounded-md shadow-md transition">
+              JEREMIE RIVERA
+
+            </a>
+          
+          </p>
+          
+          <BR>
+
+          <p>VIDEO LINK/S :
+
+            <a href="https://drive.google.com/drive/folders/1iuWkj_SG97t3UAW7QmVJOu0DEtzI6ehW?usp=drive_link" target="_blank" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-4 rounded-md shadow-md transition">Sauce</a>
+
+          </p>
+          
+
+          <!-- End -->
           
 </section>
-
-
 
 
 

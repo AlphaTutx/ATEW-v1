@@ -88,7 +88,7 @@
                 <br>
                 <br>
                 <p class="text-red-400 text-sm mb-4">Unlimited data connection</p>
-                <a href="https://www.mediafire.com/file/lv86ei89rcd9lbr/AMBER_VPN.apk/file" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-4 rounded-md shadow-md transition">Download</a>
+                <a href="https://drive.google.com/file/d/1cuLeXtaLv2UkNo3euKAqE5fylfGwct8k/view?usp=drive_link" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-4 rounded-md shadow-md transition">Download</a>
             </div>
             </div>
 
