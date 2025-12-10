@@ -747,7 +747,7 @@ if (!isset($_SESSION['username'])) {
             </div>
 
             <div class="game-card bg-gradient-to-br from-gray-800 to-gray-900 rounded-2xl overflow-hidden shadow-xl neon-border">
-              <img src="img/2k23-26.jpg" alt="Undisputed " class="w-full h-48 object-fit: cover">
+              <img src="img/nba2k23-26.jpg" alt="Undisputed " class="w-full h-48 object-fit: cover">
               <div class="p-5">
                 <h3 class="font-bold text-xl text-white mb-1">NBA 2k23 Modded to 2k26</h3>
                 <br>
