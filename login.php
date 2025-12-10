@@ -757,6 +757,28 @@ if (!isset($_SESSION['username'])) {
               </div>
             </div>
 
+            <div class="game-card bg-gradient-to-br from-gray-800 to-gray-900 rounded-2xl overflow-hidden shadow-xl neon-border">
+              <img src="img/hxh.jpg" alt="Hunter X Hunter Nen X Impact" class="w-full h-48 object-fit: cover">
+              <div class="p-5">
+                <h3 class="font-bold text-xl text-white mb-1">Hunter X Hunter Nen X Impact</h3>
+                <br>
+                <p class="text-red-400 text-sm mb-4">ZIP FILE SIZE: 1.76 GB</p>
+                <a href="https://www.mediafire.com/file/wxtle12ge4se8qh/HUNTERxHUNTER_NENxIMPACT.rar/file" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-5 rounded-md shadow-md transition">Download</a>
+                <a href="https://www.youtube.com/watch?v=KJyBA0KdhAo" target="_blank" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-5 rounded-md shadow-md transition">Gameplay</a>
+              </div>
+            </div>
+
+            <div class="game-card bg-gradient-to-br from-gray-800 to-gray-900 rounded-2xl overflow-hidden shadow-xl neon-border">
+              <img src="img/it-ss.jpg" alt="IT Specialist Simulator " class="w-full h-48 object-fit: cover">
+              <div class="p-5">
+                <h3 class="font-bold text-xl text-white mb-1">IT Specialist Simulator</h3>
+                <br>
+                <p class="text-red-400 text-sm mb-4">ZIP FILE SIZE: 457.6 MB</p>
+                <a href="https://drive.google.com/file/d/1xwD8iHig4pMe2rCkk5MvLhOcEEfLrIfJ/view?usp=drive_link" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-5 rounded-md shadow-md transition">Download</a>
+                <a href="https://www.youtube.com/watch?v=0c4DUmgcuDQ" target="_blank" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-5 rounded-md shadow-md transition">Gameplay</a>
+              </div>
+            </div>
+
             <!-- End of Games Grid -->  
             
           </div>
