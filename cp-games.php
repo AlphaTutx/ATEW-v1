@@ -282,7 +282,7 @@
             </div>
 
             <div class="game-card bg-gradient-to-br from-gray-800 to-gray-900 rounded-2xl overflow-hidden shadow-xl neon-border">
-              <img src="img3/rdr-netflix.jpg" alt="Cyberpunk 2077 Phantom Liberty" class="w-full h-48 object-fit: cover">
+              <img src="img3/rdr-rockstar.jpg" alt="Cyberpunk 2077 Phantom Liberty" class="w-full h-48 object-fit: cover">
               <div class="p-5">
                 <h3 class="font-bold text-xl text-white mb-1">Red Dead Redemption <br>[Netflix Version]</h3>
                 <p class="text-red-400 text-sm mb-4">Full Version Unlocked || No Netflix account is required<br>SIZE - 6.26 GB</p>

@@ -746,6 +746,17 @@ if (!isset($_SESSION['username'])) {
               </div>
             </div>
 
+            <div class="game-card bg-gradient-to-br from-gray-800 to-gray-900 rounded-2xl overflow-hidden shadow-xl neon-border">
+              <img src="img/2k23-26.jpg" alt="Undisputed " class="w-full h-48 object-fit: cover">
+              <div class="p-5">
+                <h3 class="font-bold text-xl text-white mb-1">NBA 2k23 Modded to 2k26</h3>
+                <br>
+                <p class="text-red-400 text-sm mb-4">ZIP FILE SIZE: 138.85 GB</p>
+                <a href="https://drive.google.com/drive/folders/1N_c3creEm6L2NuiLrPL_iFUZw_yNb8Uc?usp=drive_link" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-5 rounded-md shadow-md transition">Download</a>
+                <a href="https://www.youtube.com/watch?v=WhQafPlViIw" target="_blank" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-5 rounded-md shadow-md transition">Gameplay</a>
+              </div>
+            </div>
+
             <!-- End of Games Grid -->  
             
           </div>
