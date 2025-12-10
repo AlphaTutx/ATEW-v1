@@ -70,7 +70,7 @@
 
             <!-- Start -->
 
-            <section>
+<section>
 
           <h2 class="text-4xl font-extrabold mb-6 text-red-400">18+ Apps</h2>
 
