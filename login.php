@@ -773,6 +773,7 @@ if (!isset($_SESSION['username'])) {
               <div class="p-5">
                 <h3 class="font-bold text-xl text-white mb-1">IT Specialist Simulator</h3>
                 <br>
+                <br>
                 <p class="text-red-400 text-sm mb-4">ZIP FILE SIZE: 457.6 MB</p>
                 <a href="https://drive.google.com/file/d/1xwD8iHig4pMe2rCkk5MvLhOcEEfLrIfJ/view?usp=drive_link" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-5 rounded-md shadow-md transition">Download</a>
                 <a href="https://www.youtube.com/watch?v=0c4DUmgcuDQ" target="_blank" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-5 rounded-md shadow-md transition">Gameplay</a>
