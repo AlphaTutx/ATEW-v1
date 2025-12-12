@@ -125,7 +125,7 @@
   <!-- SAMSARA -->
     <div>
       <p>PREVIEW :
-        <a href="https://drive.google.com/drive/folders/1aif_0alHHYhsXvC6cR7oiPxMmAFYWXX1?usp=drive_link" 
+        <a href="https://drive.google.com/drive/folders/1aif_0alHHYhsXvC6cR7oiPxMmAFYWXX1?usp=drive_link"
            target="_blank"
            class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-4 rounded-md shadow-md transition">
           SAMSARA
@@ -133,14 +133,10 @@
       </p>
 
       <p class="mt-4">VIDEO LINK/S :
-<<<<<<< HEAD
-        <a href="https://drive.google.com/drive/folders/1q5jum9b4PhxVOMtwP9_uZiSiibRg4DcZ?usp=drive_link" target="_blank" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-4 rounded-md shadow-md transition">Source: Gdrive</a>
-=======
-        <a href="https://drive.google.com/drive/folders/1q5jum9b4PhxVOMtwP9_uZiSiibRg4DcZ?usp=drive_link" target="_blank" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-4 rounded-md shadow-md transition">Sauce_1</a>
->>>>>>> parent of e0f2fe8 (fix samsara vid caption)
+        <a href="https://drive.google.com/drive/folders/1q5jum9b4PhxVOMtwP9_uZiSiibRg4DcZ?usp=drive_link" target="_blank"
+           class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-4 rounded-md shadow-md transition">Source: Gdrive</a>
       </p>
     </div>
-
 
     <!-- SHAYNA CHUA -->
     <div>
@@ -172,7 +168,7 @@
 
       <p class="mt-4">VIDEO LINK/S :
         <a href="https://terabox.com/s/1qy4Tfm35TQoeV7R_c3_ugA" target="_blank"
-           class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-4 rounded-md shadow-md transition">Source: Terabox</a>
+           class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-4 rounded-md shadow-md transition">Source1: Terabox</a>
       </p>
     </div>
 

@@ -1,5 +1,5 @@
 <?php
-$db = mysqli_connect('sql100.infinityfree.com', 'if0_40507997', 'JWtgJvb8Zyyql', 'if0_40507997_project');
+$db = mysqli_connect('localhost', 'root', '', 'project');
 
 // Timeout: 20 seconds
 $timeout = 20;
