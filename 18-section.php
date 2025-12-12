@@ -122,6 +122,22 @@
 
   <div class="grid grid-cols-1 md:grid-cols-2 gap-y-16 gap-x-20">
 
+  <!-- SAMSARA -->
+    <div>
+      <p>PREVIEW :
+        <a href="https://drive.google.com/drive/folders/1aif_0alHHYhsXvC6cR7oiPxMmAFYWXX1?usp=drive_link" 
+           target="_blank"
+           class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-4 rounded-md shadow-md transition">
+          SAMSARA
+        </a>
+      </p>
+
+      <p class="mt-4">VIDEO LINK/S :
+        <a href="https://drive.google.com/drive/folders/1q5jum9b4PhxVOMtwP9_uZiSiibRg4DcZ?usp=drive_link" target="_blank" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-4 rounded-md shadow-md transition">Sauce_1</a>
+      </p>
+    </div>
+
+
     <!-- SHAYNA CHUA -->
     <div>
       <p>PREVIEW :
