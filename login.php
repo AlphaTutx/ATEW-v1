@@ -135,11 +135,13 @@ if (!isset($_SESSION['username'])) {
 
           <div id="gamesGrid" class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-10">
 
+
             <!-- Game Card Template -->
             <div class="game-card bg-gradient-to-br from-gray-800 to-gray-900 rounded-2xl overflow-hidden shadow-xl neon-border">
               <img src="img/CYBERPUNK.jpg" alt="Cyberpunk 2077 Phantom Liberty" class="w-full h-48 object-fit: cover">
               <div class="p-5">
                 <h3 class="font-bold text-xl text-white mb-1">Cyberpunk 2077 Phantom Liberty</h3>
+                <br>
                 <p class="text-red-400 text-sm mb-4">ZIP FILE SIZE: 89.08 GB</p>
                 <a href="https://drive.google.com/file/d/17nxPJZOwzZtrKimHDfWH49F61mYhkQXx/view?usp=drive_link" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-5 rounded-md shadow-md transition">Download</a>
                 <a href="https://www.youtube.com/watch?v=DV_ekMpWNb0" target="_blank" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-5 rounded-md shadow-md transition">Gameplay</a>
@@ -164,6 +166,7 @@ if (!isset($_SESSION['username'])) {
               <img src="img/hl-de.jpg" alt="Hogwarts Legacy Definitive Edition" class="w-full h-48 object-fit: cover">
               <div class="p-5">
                 <h3 class="font-bold text-xl text-white mb-1">Hogwarts Legacy Definitive Edition</h3>
+                <br>
                 <p class="text-red-400 text-sm mb-4">ZIP FILE SIZE: 72.37 GB</p>
                 <a href="https://drive.google.com/file/d/1We0FWlvyOAx4BCXkw3UWrV7koFJ0AXIa/view?usp=drive_link" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-5 rounded-md shadow-md transition">Download</a>
                 <a href="https://www.youtube.com/watch?v=ugEh2RWQP9Y" target="_blank" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-5 rounded-md shadow-md transition">Gameplay</a>
@@ -187,6 +190,7 @@ if (!isset($_SESSION['username'])) {
               <img src="img/cod-w2.png" alt="Call of Duty Modern Warfare 2" class="w-full h-48 object-fit: cover">
               <div class="p-5">
                 <h3 class="font-bold text-xl text-white mb-1">Call of Duty Modern Warfare 2</h3>
+                <br>
                 <p class="text-red-400 text-sm mb-4">ZIP FILE SIZE: 14.44 GB</p>
                 <a href="https://drive.google.com/file/d/1JG1jX5rN3rPIJaaz1qgrMCr0rwyedtAO/view?usp=drive_link" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-5 rounded-md shadow-md transition">Download</a>
                 <a href="https://www.youtube.com/watch?v=r2ut6_aoRIE&list=PLyex3XU-d_c8Ah_QWWcYu8Sffbpc6VoGw" target="_blank" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-5 rounded-md shadow-md transition">Gameplay</a>
@@ -198,6 +202,7 @@ if (!isset($_SESSION['username'])) {
               <img src="img/cod-w3.jpg" alt="Call of Duty Modern Warfare 3" class="w-full h-48 object-fit: cover">
               <div class="p-5">
                 <h3 class="font-bold text-xl text-white mb-1">Call of Duty Modern Warfare 3</h3>
+                <br>
                 <p class="text-red-400 text-sm mb-4">ZIP FILE SIZE: 13.68 GB</p>
                 <a href="https://drive.google.com/file/d/1e7xq5z1_Wm6IqHSt74Jfr8S0tP1TMJyc/view?usp=drive_link" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-5 rounded-md shadow-md transition">Download</a>
                 <a href="https://www.youtube.com/watch?v=g4YrAF8atdE" target="_blank" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-5 rounded-md shadow-md transition">Gameplay</a>
@@ -257,6 +262,7 @@ if (!isset($_SESSION['username'])) {
               <img src="img/m3de.jpg" alt="Mafia III Definitive Edition" class="w-full h-48 object-fit: cover">
               <div class="p-5">
                 <h3 class="font-bold text-xl text-white mb-1">Mafia III Definitive Edition</h3>
+                <br>
                 <p class="text-red-400 text-sm mb-4">ZIP FILE SIZE: 36.99 GB</p>
                 <a href="https://drive.google.com/file/d/1AJJNF6ratNOTeoM7Q-cMcokAnZJNe5rr/view?usp=drive_link" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-5 rounded-md shadow-md transition">Download</a>
                 <a href="https://www.youtube.com/watch?v=SdKc1hHZwvQ" target="_blank" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-5 rounded-md shadow-md transition">Gameplay</a>
@@ -449,7 +455,6 @@ if (!isset($_SESSION['username'])) {
               <div class="p-5">
                 <h3 class="font-bold text-xl text-white mb-1">Little Nightmares III</h3>
                 <br>
-                <br>
                 <p class="text-red-400 text-sm mb-4">ZIP FILE SIZE: 12.59 GB</p>
                 <a href="https://www.mediafire.com/file_premium/8hw5b6vii3onpee/Little.Nightmares.3.v1.0.rar/file" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-5 rounded-md shadow-md transition">Download</a>
                 <a href="https://www.youtube.com/watch?v=Ts5dvymVL48" target="_blank" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-5 rounded-md shadow-md transition">Gameplay</a>
@@ -460,7 +465,6 @@ if (!isset($_SESSION['username'])) {
               <img src="img/ufc-u3.png" alt="UFC: Undisputed 3 + Mods" class="w-full h-48 object-fit: cover">
               <div class="p-5">
                 <h3 class="font-bold text-xl text-white mb-1">UFC: Undisputed 3 + Mods</h3>
-                <br>
                 <br>
                 <p class="text-red-400 text-sm mb-4">ZIP FILE SIZE: 7.49 GB</p>
                 <a href="https://www.mediafire.com/file/6mxgbnr2unt7ul4/UUC+5-+Shock+The+System+V+0.2.0+(The+Stat+Update).rar/file" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-5 rounded-md shadow-md transition">Download</a>
@@ -473,7 +477,6 @@ if (!isset($_SESSION['username'])) {
               <div class="p-5">
                 <h3 class="font-bold text-xl text-white mb-1">Tekken 7 Ultimate Edition</h3>
                 <br>
-                <br>
                 <p class="text-red-400 text-sm mb-4">ZIP FILE SIZE: 47.2 GB</p>
                 <a href="https://buzzheavier.com/dwvu7c0fuz4k" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-5 rounded-md shadow-md transition">Download</a>
                 <a href="https://www.youtube.com/watch?v=m_VsNxPSuok" target="_blank" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-5 rounded-md shadow-md transition">Gameplay</a>
@@ -484,7 +487,6 @@ if (!isset($_SESSION['username'])) {
               <img src="img/nba2k14-26.jpg" alt="NBA 2k14 Modded to 2k26" class="w-full h-48 object-fit: cover">
               <div class="p-5">
                 <h3 class="font-bold text-xl text-white mb-1">NBA 2k14 Modded to 2k26</h3>
-                <br>
                 <br>
                 <p class="text-red-400 text-sm mb-4">ZIP FILE SIZE: 11.6 GB</p>
                 <a href="https://drive.google.com/drive/folders/1BxPatnUwgeyZqRLFe7Z8kIMnvHJr3TCU?usp=drive_link" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-5 rounded-md shadow-md transition">Download</a>
@@ -497,7 +499,6 @@ if (!isset($_SESSION['username'])) {
               <div class="p-5">
                 <h3 class="font-bold text-xl text-white mb-1">Age Of Empire-II + Expansion</h3>
                 <br>
-                <br>
                 <p class="text-red-400 text-sm mb-4">ZIP FILE SIZE: 326.31 MB</p>
                 <a href="https://www.mediafire.com/file/ayo7qlxrr7c8ptp/Age_Of_Empire-II%252B_Expansion_%255BDirect_Play%255D.rar/file" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-5 rounded-md shadow-md transition">Download</a>
                 <a href="https://www.youtube.com/watch?v=IFRMEPPjIZ4&list=PLRsZpGqBy2tw6GsgPyXiFlq8hnQZMbRoF" target="_blank" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-5 rounded-md shadow-md transition">Gameplay</a>
@@ -508,7 +509,6 @@ if (!isset($_SESSION['username'])) {
               <img src="img/cod-2.jpg" alt="Call of Duty 2" class="w-full h-48 object-fit: cover">
               <div class="p-5">
                 <h3 class="font-bold text-xl text-white mb-1">Call of Duty 2</h3>
-                <br>
                 <br>
                 <p class="text-red-400 text-sm mb-4">ZIP FILE SIZE: 3.48 GB</p>
                 <a href="https://www.mediafire.com/file/6wmiejtxxibs66t/Call_of_Duty_2.rar/file" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-5 rounded-md shadow-md transition">Download</a>
@@ -531,7 +531,6 @@ if (!isset($_SESSION['username'])) {
               <img src="img/bs-rem.jpg" alt="Bioshock Remastered" class="w-full h-48 object-fit: cover">
               <div class="p-5">
                 <h3 class="font-bold text-xl text-white mb-1">Bioshock Remastered</h3>
-                <br>
                 <br>
                 <p class="text-red-400 text-sm mb-4">ZIP FILE SIZE: 9.87 GB</p>
                 <a href="https://www.mediafire.com/file/yd3nbeyp2se8e4g/BioShock_Remastered__%255BDODI_Repack%255D.rar/file" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-5 rounded-md shadow-md transition">Download</a>
@@ -566,7 +565,6 @@ if (!isset($_SESSION['username'])) {
               <div class="p-5">
                 <h3 class="font-bold text-xl text-white mb-1">Dead Space 3</h3>
                 <br>
-                <br>
                 <p class="text-red-400 text-sm mb-4">ZIP FILE SIZE: 6.25 GB</p>
                 <a href="https://www.mediafire.com/file/bezoy4swrmp0bpp/Dead_Space_3_-_baka_naman__follow_and_sub_kay_johntech.rar/file" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-5 rounded-md shadow-md transition">Download</a>
                 <a href="https://www.youtube.com/watch?v=cZ3mad7SOBg" target="_blank" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-5 rounded-md shadow-md transition">Gameplay</a>
@@ -577,7 +575,6 @@ if (!isset($_SESSION['username'])) {
               <img src="img/dh.png" alt="Diablo: Hell Fire" class="w-full h-48 object-fit: cover">
               <div class="p-5">
                 <h3 class="font-bold text-xl text-white mb-1">Diablo: Hell Fire</h3>
-                <br>
                 <br>
                 <p class="text-red-400 text-sm mb-4">ZIP FILE SIZE: 824.58 MB</p>
                 <a href="https://www.mediafire.com/file/rhyxscqtzypcpvx/Diablo.Hellfire.GOG.rar/file" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-5 rounded-md shadow-md transition">Download</a>
@@ -623,7 +620,6 @@ if (!isset($_SESSION['username'])) {
               <div class="p-5">
                 <h3 class="font-bold text-xl text-white mb-1">Prototype</h3>
                 <br>
-                <br>
                 <p class="text-red-400 text-sm mb-4">ZIP FILE SIZE: 7.31 GB</p>
                 <a href="https://www.mediafire.com/file/n77spmzodh3o3yq/Prototype.v2009.zip/file" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-5 rounded-md shadow-md transition">Download</a>
                 <a href="https://www.youtube.com/watch?v=Mf4hoe25azM" target="_blank" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-5 rounded-md shadow-md transition">Gameplay</a>
@@ -634,7 +630,6 @@ if (!isset($_SESSION['username'])) {
               <img src="img/pt-2.jpg" alt="Prototype 2" class="w-full h-48 object-fit: cover">
               <div class="p-5">
                 <h3 class="font-bold text-xl text-white mb-1">Prototype 2</h3>
-                <br>
                 <br>
                 <p class="text-red-400 text-sm mb-4">ZIP FILE SIZE: 8.4 GB</p>
                 <a href="https://www.mediafire.com/file/mj5zx861ikf10fb/Prototype_2.rar/file" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-5 rounded-md shadow-md transition">Download</a>
@@ -658,7 +653,6 @@ if (!isset($_SESSION['username'])) {
               <div class="p-5">
                 <h3 class="font-bold text-xl text-white mb-1">Red Alert 2</h3>
                 <br>
-                <br>
                 <p class="text-red-400 text-sm mb-4">ZIP FILE SIZE: 510.38 MB</p>
                 <a href="https://www.mediafire.com/file/els07d2ks6c0ng4/Red_Alert_2_%255BDODI_Repack%255D.rar/file" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-5 rounded-md shadow-md transition">Download</a>
                 <a href="https://www.youtube.com/watch?v=7tOTBjanf-U" target="_blank" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-5 rounded-md shadow-md transition">Gameplay</a>
@@ -669,7 +663,6 @@ if (!isset($_SESSION['username'])) {
               <img src="img/ra-3.jpg" alt="Red Alert 2" class="w-full h-48 object-fit: cover">
               <div class="p-5">
                 <h3 class="font-bold text-xl text-white mb-1">Red Alert 3 HD</h3>
-                <br>
                 <br>
                 <p class="text-red-400 text-sm mb-4">ZIP FILE SIZE: 6.62 GB</p>
                 <a href="https://www.mediafire.com/file/9n4xso899fb9ase/R_E_D_A_L_E_R_T.iso/file" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-5 rounded-md shadow-md transition">Download</a>
@@ -693,7 +686,6 @@ if (!isset($_SESSION['username'])) {
               <div class="p-5">
                 <h3 class="font-bold text-xl text-white mb-1">Starcraft 2</h3>
                 <br>
-                <br>
                 <p class="text-red-400 text-sm mb-4">ZIP FILE SIZE: 1.19 GB</p>
                 <a href="https://www.mediafire.com/file/e4kll8uc4tmylxp/Starcraft_No_Install.7z/file" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-5 rounded-md shadow-md transition">Download</a>
                 <a href="https://www.youtube.com/watch?v=rclNMra4fb8" target="_blank" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-5 rounded-md shadow-md transition">Gameplay</a>
@@ -716,7 +708,6 @@ if (!isset($_SESSION['username'])) {
               <div class="p-5">
                 <h3 class="font-bold text-xl text-white mb-1">Deadpool</h3>
                 <br>
-                <br>
                 <p class="text-red-400 text-sm mb-4">ZIP FILE SIZE: 5.63 GB</p>
                 <a href="https://download2266.mediafire.com/.../bb5nm.../Deadpool.rar" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-5 rounded-md shadow-md transition">Download</a>
                 <a href="https://www.youtube.com/watch?v=2BHHY9BavCI" target="_blank" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-5 rounded-md shadow-md transition">Gameplay</a>
@@ -727,7 +718,6 @@ if (!isset($_SESSION['username'])) {
               <img src="img/undisputed.jpg" alt="Undisputed " class="w-full h-48 object-fit: cover">
               <div class="p-5">
                 <h3 class="font-bold text-xl text-white mb-1">Undisputed</h3>
-                <br>
                 <br>
                 <p class="text-red-400 text-sm mb-4">ZIP FILE SIZE: 18.5 GB</p>
                 <a href="https://docs.google.com/document/d/1m7lnYosfSmRNx6mmqaC0H993zp8KfpiWhMKPCEKoN-U/edit?usp=drive_link" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-5 rounded-md shadow-md transition">Download</a>
@@ -772,7 +762,6 @@ if (!isset($_SESSION['username'])) {
               <img src="img/it-ss.jpg" alt="IT Specialist Simulator " class="w-full h-48 object-fit: cover">
               <div class="p-5">
                 <h3 class="font-bold text-xl text-white mb-1">IT Specialist Simulator</h3>
-                <br>
                 <br>
                 <p class="text-red-400 text-sm mb-4">ZIP FILE SIZE: 457.6 MB</p>
                 <a href="https://drive.google.com/file/d/1xwD8iHig4pMe2rCkk5MvLhOcEEfLrIfJ/view?usp=drive_link" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-5 rounded-md shadow-md transition">Download</a>
