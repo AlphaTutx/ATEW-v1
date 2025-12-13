@@ -81,6 +81,17 @@
             <br><br><br><br><br><br>PLEASE CLICK HEREEE!!!</a>
 
             <!-- Game Card Template -->
+
+            <div class="game-card bg-gradient-to-br from-gray-800 to-gray-900 rounded-2xl overflow-hidden shadow-xl neon-border">
+              <img src="img2/internet.jpeg" alt="Cyberpunk 2077 Phantom Liberty" class="w-full h-48 object-fit: cover">
+              <div class="p-5">
+                <h3 class="font-bold text-xl text-white mb-1">For IOS | DITO SIM</h3>
+                <br>
+                <p class="text-red-400 text-sm mb-4">Unlimited data connection</p>
+                <a href="https://play.google.com/store/apps/details?id=com.napsternetlabs.napsternetv" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-4 rounded-md shadow-md transition">Download</a>
+                <a href="https://drive.google.com/file/d/1mKNqOu2bBXzCCDtPLhsMpalP4H1BnaxV/view?usp=drive_link" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-4 rounded-md shadow-md transition">Config</a>
+            </div>
+            </div>
             
             <div class="game-card bg-gradient-to-br from-gray-800 to-gray-900 rounded-2xl overflow-hidden shadow-xl neon-border">
               <img src="img2/internet.jpeg" alt="Cyberpunk 2077 Phantom Liberty" class="w-full h-48 object-fit: cover">
