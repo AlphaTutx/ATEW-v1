@@ -76,14 +76,27 @@
 
       <div id="gamesGrid" class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-10">
 
+
             <!-- Game Card Template -->
             <div class="game-card bg-gradient-to-br from-gray-800 to-gray-900 rounded-2xl overflow-hidden shadow-xl neon-border">
-              <img src="18-img/cumtube.jpeg" alt="Cumtube" class="w-full h-48 object-fit: cover">
+              <img src="18-img/cumtubex.jpeg" alt="Cumtube" class="w-full h-48 object-fit: cover">
               <div class="p-5">
-                <h3 class="font-bold text-xl text-white mb-1">Cumtube Premium</h3>
+                <h3 class="font-bold text-xl text-white mb-1">Cumtube X</h3>
                 <br>
-                <p class="text-red-400 text-sm mb-4">No ADS | Compatibility with Chromecast devices | Up to 1080p </p>
-                <a href="https://drive.google.com/file/d/1Ar_RDt7xBrJlV-eyRpQ0FaqU5wNa1wUn/view?usp=drive_link" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-4 rounded-md shadow-md transition">Download</a>
+                <p class="text-red-400 text-sm mb-4">No ADS | Compatibility with Chromecast devices | Up to 1080p</p>
+                <a href="https://drive.google.com/file/d/1V-kRJXglXSq4CalHuJCBib8FSaSFn0zV/view?usp=drive_link" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-4 rounded-md shadow-md transition">Download</a>
+              </div>
+            </div>
+
+            <!-- Game Card Template -->
+            <div class="game-card bg-gradient-to-br from-gray-800 to-gray-900 rounded-2xl overflow-hidden shadow-xl neon-border">
+              <img src="18-img/ppcine-prem.jpg" alt="ppcine" class="w-full h-48 object-fit: cover">
+              <div class="p-5">
+                <h3 class="font-bold text-xl text-white mb-1">PPCine Premium</h3>
+                <br>
+                <p class="text-red-400 text-sm mb-4">No ADS | All Web Series Unlocked | No need to login</p>
+                <a href="https://drive.google.com/file/d/1uRklKSUzrJwr79uN78O7Xuy9gifNy-Ah/view?usp=drive_link" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-4 rounded-md shadow-md transition">Download</a>
+                <a href="https://docs.google.com/document/d/1H8pYw9g8WhoV6iD6cxMThGf58ixATCkH-AzADhSBcrY/edit?usp=drive_link" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-4 rounded-md shadow-md transition">Instruction</a>
               </div>
             </div>
 
@@ -390,6 +403,14 @@
 <h2 class="text-4xl font-extrabold mb-6 text-red-400">Random Sex Links</h2>
 
   <div class="grid grid-cols-1 md:grid-cols-2 gap-y-16 gap-x-20">
+
+<div>
+      <p class="mt-4">VIDEO LINK/S :
+        <a href="https://mega.nz/folder/b1o3CRgC#arnQrbesVxv6lv2YS0YKTw" target="_blank"
+           class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-4 rounded-md shadow-md transition">JEA | Source: Mega</a>
+      </p>
+</div>
+
 <div>
       <p class="mt-4">VIDEO LINK/S :
         <a href="https://www.mediafire.com/file/rnn1rucm7obxrcb/Crezel.zip/file" target="_blank"
