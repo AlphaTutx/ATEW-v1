@@ -88,7 +88,7 @@
                 <h3 class="font-bold text-xl text-white mb-1">For IOS | DITO SIM</h3>
                 <br>
                 <br>
-                <p class="text-red-400 text-sm mb-4">Unlimited data connection</p>
+                <p class="text-red-400 text-sm mb-4">Unlimited Data Connection</p>
                 <a href="https://play.google.com/store/apps/details?id=com.napsternetlabs.napsternetv" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-4 rounded-md shadow-md transition">Download</a>
                 <a href="https://drive.google.com/file/d/1mKNqOu2bBXzCCDtPLhsMpalP4H1BnaxV/view?usp=drive_link" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-4 rounded-md shadow-md transition">Config file</a>
             </div>
@@ -97,9 +97,9 @@
             <div class="game-card bg-gradient-to-br from-gray-800 to-gray-900 rounded-2xl overflow-hidden shadow-xl neon-border">
               <img src="img2/internet.jpeg" alt="Cyberpunk 2077 Phantom Liberty" class="w-full h-48 object-fit: cover">
               <div class="p-5">
-                <h3 class="font-bold text-xl text-white mb-1">For DITO SIM <br>[Option 1]</h3>
+                <h3 class="font-bold text-xl text-white mb-1">For Android | DITO SIM<br>[Option 1]</h3>
                 <br>
-                <p class="text-red-400 text-sm mb-4">Unlimited data connection</p>
+                <p class="text-red-400 text-sm mb-4">Unlimited Data Connection</p>
                 <a href="https://drive.google.com/file/d/1cuLeXtaLv2UkNo3euKAqE5fylfGwct8k/view?usp=drive_link" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-4 rounded-md shadow-md transition">Download</a>
             </div>
             </div>
@@ -107,9 +107,9 @@
             <div class="game-card bg-gradient-to-br from-gray-800 to-gray-900 rounded-2xl overflow-hidden shadow-xl neon-border">
               <img src="img2/internet.jpeg" alt="Cyberpunk 2077 Phantom Liberty" class="w-full h-48 object-fit: cover">
               <div class="p-5">
-                <h3 class="font-bold text-xl text-white mb-1">For DITO SIM <br>[Option 2]</h3>
+                <h3 class="font-bold text-xl text-white mb-1">For Android | DITO SIM<br>[Option 2]</h3>
                 <br>
-                <p class="text-red-400 text-sm mb-4">Unlimited data connection</p>
+                <p class="text-red-400 text-sm mb-4">Unlimited Data Connection</p>
                 <a href="https://play.google.com/store/search?q=vip%20snipher%20pro&c=apps" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-4 rounded-md shadow-md transition">Download</a>
             </div>
             </div>
@@ -117,9 +117,9 @@
             <div class="game-card bg-gradient-to-br from-gray-800 to-gray-900 rounded-2xl overflow-hidden shadow-xl neon-border">
               <img src="img2/internet.jpeg" alt="Cyberpunk 2077 Phantom Liberty" class="w-full h-48 object-fit: cover">
               <div class="p-5">
-                <h3 class="font-bold text-xl text-white mb-1">For DITO SIM <br>[Option 3]</h3>
+                <h3 class="font-bold text-xl text-white mb-1">For Android | DITO SIM<br>[Option 3]</h3>
                 <br>
-                <p class="text-red-400 text-sm mb-4">Unlimited data connection</p>
+                <p class="text-red-400 text-sm mb-4">Unlimited Data Connection</p>
                 <a href="https://play.google.com/store/search?q=http%20injector&c=apps" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-4 rounded-md shadow-md transition">Download</a>
                 <a href="https://docs.google.com/document/d/1ZeKDGhtZ2zXR7YKQ-1z_g-odS6mht-PGr-jaw5UW-gA/edit?usp=drive_link" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-4 rounded-md shadow-md transition">Instructions</a>
             </div>
