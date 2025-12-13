@@ -51,7 +51,8 @@ if (!isset($_SESSION['username'])) {
         <nav class="hidden md:flex space-x-6 text-gray-300">
           <a href="login.php" class="hover:text-cyan-400 transition font-semibold">PC Games</a>
           <a href="cp-games.php" class="hover:text-cyan-400 transition font-semibold">CP Games</a>
-          <a href="premium-cp-apps.php" class="hover:text-cyan-400 transition font-semibold">Premium CP Apps</a>        
+          <a href="premium-cp-apps.php" class="hover:text-cyan-400 transition font-semibold">Premium CP Apps</a>
+          <a href="Emulators-and-Roms.php" class="hover:text-cyan-400 transition font-semibold">Emulators&Roms</a>        
           <a href="gamesuppfix.php" class="hover:text-cyan-400 transition font-semibold">Game Support/Fix</a>
           <a href="18-section.php" class="hover:text-cyan-400 transition font-semibold">18+ Section</a>
           <a href="https://www.facebook.com/profile.php?id=100087598551338" target="_blank" class="hover:text-cyan-400 transition font-semibold">Fb Page</a>
@@ -76,7 +77,7 @@ if (!isset($_SESSION['username'])) {
   <input
     type="text"
     id="searchInput"
-    placeholder="Search games..."
+    placeholder="Search pc games..."
     class="w-full py-2.5 pl-12 pr-4 rounded-full bg-gray-900/60 text-white 
            border border-cyan-500/20 backdrop-blur-md shadow-md 
            focus:border-cyan-400 focus:shadow-cyan-400/40 transition-all text-sm outline-none"
@@ -135,6 +136,30 @@ if (!isset($_SESSION['username'])) {
 
           <div id="gamesGrid" class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-10">
 
+          <!-- Game Card Template -->
+            <div class="game-card bg-gradient-to-br from-gray-800 to-gray-900 rounded-2xl overflow-hidden shadow-xl neon-border">
+              <img src="img/nsuns-4.jpg" alt="Naruto Shippuden Ultimate Ninja Storm 4" class="w-full h-48 object-fit: cover">
+              <div class="p-5">
+                <h3 class="font-bold text-xl text-white mb-1">Naruto Shippuden Ultimate Ninja Storm 4</h3>
+                <p class="text-red-400 text-sm mb-4">ZIP FILE SIZE: 36.7 GB</p>
+                <a href="#" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-5 rounded-md shadow-md transition">Download</a>
+                <a href="https://www.youtube.com/watch?v=1077Ih_31g0" target="_blank" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-5 rounded-md shadow-md transition">Gameplay</a>
+              </div>
+            </div>
+
+          <!-- Game Card Template -->
+            <div class="game-card bg-gradient-to-br from-gray-800 to-gray-900 rounded-2xl overflow-hidden shadow-xl neon-border">
+              <img src="img/jump-force.jpg" alt="Jump Force" class="w-full h-48 object-fit: cover">
+              <div class="p-5">
+                <h3 class="font-bold text-xl text-white mb-1">Jump Force</h3>
+                <br>
+                <p class="text-red-400 text-sm mb-4">ZIP FILE SIZE: 22.08 GB</p>
+                <a href="https://drive.google.com/file/d/1G6Qt56OP058BoVUXX0sp4O4RUAMF0VP5/view?usp=drive_link" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-5 rounded-md shadow-md transition">Download</a>
+                <a href="https://www.youtube.com/watch?v=VRZG_VvDbeo&t=13673s" target="_blank" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-5 rounded-md shadow-md transition">Gameplay</a>
+              </div>
+            </div>
+
+          <!-- Game Card Template -->
             <div class="game-card bg-gradient-to-br from-gray-800 to-gray-900 rounded-2xl overflow-hidden shadow-xl neon-border">
               <img src="img/dbz-kakarot.jpg" alt="Dragon Ball Z Kakarot" class="w-full h-48 object-fit: cover">
               <div class="p-5">
@@ -156,6 +181,7 @@ if (!isset($_SESSION['username'])) {
                 <a href="https://www.youtube.com/watch?v=DV_ekMpWNb0" target="_blank" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-5 rounded-md shadow-md transition">Gameplay</a>
               </div>
             </div>
+
             <!-- Add more cards here -->
 
             <!-- Game Card Template -->
@@ -426,7 +452,6 @@ if (!isset($_SESSION['username'])) {
               <img src="img/wc3.jpg" alt="Warcraft III- Frozen Throne [2003]" class="w-full h-48 object-fit: cover">
               <div class="p-5">
                 <h3 class="font-bold text-xl text-white mb-1">Warcraft III - Frozen Throne [2003]</h3>
-                <br>
                 <p class="text-red-400 text-sm mb-4">ZIP FILE SIZE: 2.15 GB</p>
                 <a href="https://www.mediafire.com/file/jpfa5w176zi7rd9/Warcraft_III-_Frozen_Throne_2003_no_CD.rar/file" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-5 rounded-md shadow-md transition">Download</a>
                 <a href="https://www.youtube.com/watch?v=rVSS7iwLfCw" target="_blank" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-5 rounded-md shadow-md transition">Gameplay</a>
@@ -472,7 +497,6 @@ if (!isset($_SESSION['username'])) {
               <div class="p-5">
                 <h3 class="font-bold text-xl text-white mb-1">UFC: Undisputed 3 + Mods</h3>
                 <br>
-                <br>
                 <p class="text-red-400 text-sm mb-4">ZIP FILE SIZE: 7.49 GB</p>
                 <a href="https://www.mediafire.com/file/6mxgbnr2unt7ul4/UUC+5-+Shock+The+System+V+0.2.0+(The+Stat+Update).rar/file" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-5 rounded-md shadow-md transition">Download</a>
                 <a href="https://www.youtube.com/watch?v=gzWww3u_FKU" target="_blank" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-5 rounded-md shadow-md transition">Gameplay</a>
@@ -483,7 +507,6 @@ if (!isset($_SESSION['username'])) {
               <img src="img/t7-ult-ed.jpg" alt="Tekken 7 Ultimate Edition" class="w-full h-48 object-fit: cover">
               <div class="p-5">
                 <h3 class="font-bold text-xl text-white mb-1">Tekken 7 Ultimate Edition</h3>
-                <br>
                 <br>
                 <p class="text-red-400 text-sm mb-4">ZIP FILE SIZE: 47.2 GB</p>
                 <a href="https://buzzheavier.com/dwvu7c0fuz4k" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-5 rounded-md shadow-md transition">Download</a>
@@ -496,7 +519,6 @@ if (!isset($_SESSION['username'])) {
               <div class="p-5">
                 <h3 class="font-bold text-xl text-white mb-1">NBA 2k14 Modded to 2k26</h3>
                 <br>
-                <br>
                 <p class="text-red-400 text-sm mb-4">ZIP FILE SIZE: 11.6 GB</p>
                 <a href="https://drive.google.com/drive/folders/1BxPatnUwgeyZqRLFe7Z8kIMnvHJr3TCU?usp=drive_link" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-5 rounded-md shadow-md transition">Download</a>
                 <a href="#" target="_blank" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-5 rounded-md shadow-md transition">Gameplay</a>
@@ -507,7 +529,6 @@ if (!isset($_SESSION['username'])) {
               <img src="img/ae-2-ex.jpg" alt="NBA 2k14 Modded to 2k26" class="w-full h-48 object-fit: cover">
               <div class="p-5">
                 <h3 class="font-bold text-xl text-white mb-1">Age Of Empire-II + Expansion</h3>
-                <br>
                 <br>
                 <p class="text-red-400 text-sm mb-4">ZIP FILE SIZE: 326.31 MB</p>
                 <a href="https://www.mediafire.com/file/ayo7qlxrr7c8ptp/Age_Of_Empire-II%252B_Expansion_%255BDirect_Play%255D.rar/file" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-5 rounded-md shadow-md transition">Download</a>

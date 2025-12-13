@@ -52,7 +52,7 @@
   <input
     type="text"
     id="searchInput"
-    placeholder="Search games..."
+    placeholder="Search cp apps..."
     class="w-full py-2.5 pl-12 pr-4 rounded-full bg-gray-900/60 text-white 
            border border-cyan-500/20 backdrop-blur-md shadow-md 
            focus:border-cyan-400 focus:shadow-cyan-400/40 transition-all text-sm outline-none"
@@ -86,7 +86,6 @@
               <div class="p-5">
                 <h3 class="font-bold text-xl text-white mb-1">For DITO SIM <br>[Option 1]</h3>
                 <br>
-                <br>
                 <p class="text-red-400 text-sm mb-4">Unlimited data connection</p>
                 <a href="https://drive.google.com/file/d/1cuLeXtaLv2UkNo3euKAqE5fylfGwct8k/view?usp=drive_link" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-4 rounded-md shadow-md transition">Download</a>
             </div>
@@ -97,7 +96,6 @@
               <div class="p-5">
                 <h3 class="font-bold text-xl text-white mb-1">For DITO SIM <br>[Option 2]</h3>
                 <br>
-                <br>
                 <p class="text-red-400 text-sm mb-4">Unlimited data connection</p>
                 <a href="https://play.google.com/store/search?q=vip%20snipher%20pro&c=apps" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-4 rounded-md shadow-md transition">Download</a>
             </div>
@@ -107,7 +105,6 @@
               <img src="img2/internet.jpeg" alt="Cyberpunk 2077 Phantom Liberty" class="w-full h-48 object-fit: cover">
               <div class="p-5">
                 <h3 class="font-bold text-xl text-white mb-1">For DITO SIM <br>[Option 3]</h3>
-                <br>
                 <br>
                 <p class="text-red-400 text-sm mb-4">Unlimited data connection</p>
                 <a href="https://play.google.com/store/search?q=http%20injector&c=apps" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-4 rounded-md shadow-md transition">Download</a>
@@ -215,6 +212,16 @@
                 <h3 class="font-bold text-xl text-white mb-1">Anilab Premium</h3> 
                 <p class="text-red-400 text-sm mb-4">No ads | Up to 1080P | TV cast (Choose AniLab player) | Subbed & Dubbed options</p>
                 <a href="https://www.mediafire.com/file/2cy1kxi3m1wqf72/Anilab_v1.1.2.apk/file" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-4 rounded-md shadow-md transition">Download</a>
+              </div>
+            </div>
+
+            <div class="game-card bg-gradient-to-br from-gray-800 to-gray-900 rounded-2xl overflow-hidden shadow-xl neon-border">
+              <img src="img2/hianime.jpg" alt="Warcraft_III Frozen Throne - CD keys" class="w-full h-48 object-fit: cover">
+              <div class="p-5">
+                <h3 class="font-bold text-xl text-white mb-1">hiAnime Premium</h3> 
+                <p class="text-red-400 text-sm mb-4">Premium Crunchyroll Content | Add free | No need to login</p>
+                <br>
+                <a href="https://drive.google.com/file/d/1Quizx_ZIQTdHyoG-daqBv9hf8BAGIYCt/view?usp=drive_link" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-4 rounded-md shadow-md transition">Download</a>
               </div>
             </div>
 

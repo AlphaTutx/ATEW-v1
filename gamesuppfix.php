@@ -52,7 +52,7 @@
   <input
     type="text"
     id="searchInput"
-    placeholder="Search games..."
+    placeholder="Search here..."
     class="w-full py-2.5 pl-12 pr-4 rounded-full bg-gray-900/60 text-white 
            border border-cyan-500/20 backdrop-blur-md shadow-md 
            focus:border-cyan-400 focus:shadow-cyan-400/40 transition-all text-sm outline-none"
