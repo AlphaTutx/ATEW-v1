@@ -87,6 +87,7 @@
               <div class="p-5">
                 <h3 class="font-bold text-xl text-white mb-1">For IOS | DITO SIM</h3>
                 <br>
+                <br>
                 <p class="text-red-400 text-sm mb-4">Unlimited data connection</p>
                 <a href="https://play.google.com/store/apps/details?id=com.napsternetlabs.napsternetv" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-4 rounded-md shadow-md transition">Download</a>
                 <a href="https://drive.google.com/file/d/1mKNqOu2bBXzCCDtPLhsMpalP4H1BnaxV/view?usp=drive_link" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-4 rounded-md shadow-md transition">Config</a>
