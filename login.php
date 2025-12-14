@@ -142,7 +142,7 @@ if (!isset($_SESSION['username'])) {
               <div class="p-5">
                 <h3 class="font-bold text-xl text-white mb-1">Naruto Shippuden Ultimate Ninja Storm 4</h3>
                 <p class="text-red-400 text-sm mb-4">ZIP FILE SIZE: 36.7 GB</p>
-                <a href="#" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-5 rounded-md shadow-md transition">Download</a>
+                <a href="https://drive.google.com/file/d/1mtyzc_kWu2S_WK7ve-yRkAqbnw9XcmkC/view?usp=drive_link" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-5 rounded-md shadow-md transition">Download</a>
                 <a href="https://www.youtube.com/watch?v=1077Ih_31g0" target="_blank" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-5 rounded-md shadow-md transition">Gameplay</a>
               </div>
             </div>
