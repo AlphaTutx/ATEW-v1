@@ -74,6 +74,57 @@
 
           <div id="gamesGrid" class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-10">
 
+          <!-- Game Card Template -->
+
+            <div class="game-card bg-gradient-to-br from-gray-800 to-gray-900 rounded-2xl overflow-hidden shadow-xl neon-border">
+              <img src="img3/sf.jpg" alt="WWE 2K25" class="w-full h-48 object-fit: cover">
+              <div class="p-5">
+                <h3 class="font-bold text-xl text-white mb-1">Spider Fuser</h3>
+                <br>                
+                <p class="text-red-400 text-sm mb-4">Full version<br><br>SIZE - 134.8 MB</p>                
+                <a href="https://drive.google.com/file/d/1IO8cimRPe_hgwC5c63Dit0ennodyYAnR/view?usp=drive_link" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-5 rounded-md shadow-md transition">Download</a>
+                <a href="https://www.youtube.com/watch?v=T1-Z4SP5Y98" target="_blank" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-5 rounded-md shadow-md transition">Gameplay</a>
+              </div>
+            </div>
+
+          <!-- Game Card Template -->
+
+            <div class="game-card bg-gradient-to-br from-gray-800 to-gray-900 rounded-2xl overflow-hidden shadow-xl neon-border">
+              <img src="img3/www-2k25.jpg" alt="WWE 2K25" class="w-full h-48 object-fit: cover">
+              <div class="p-5">
+                <h3 class="font-bold text-xl text-white mb-1">WWE 2K25<br>[Netflix Edition]</h3>                
+                <p class="text-red-400 text-sm mb-4">Commentary Included<br><br>SIZE - 4.58 GB</p>                
+                <a href="https://www.mediafire.com/file/044pasmflckgsed/WWE-2K25-v0.1157.0-commentary-unlocked-apkvision.apks/file" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-5 rounded-md shadow-md transition">Download</a>
+                <a href="https://www.youtube.com/watch?v=3d7UuIlYEWo" target="_blank" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-5 rounded-md shadow-md transition">Gameplay</a>
+              </div>
+            </div>
+
+          <!-- Game Card Template -->
+
+            <div class="game-card bg-gradient-to-br from-gray-800 to-gray-900 rounded-2xl overflow-hidden shadow-xl neon-border">
+              <img src="img3/hn.jpeg" alt="Hollow Knight" class="w-full h-48 object-fit: cover">
+              <div class="p-5">
+                <h3 class="font-bold text-xl text-white mb-1">Hollow Knight</h3>
+                <br>                
+                <p class="text-red-400 text-sm mb-4">Full Version<br><br>SIZE - 931.55 MB</p>                
+                <a href="https://www.mediafire.com/file/uqm2ukuoqlomxg0/hollow-knight-mobile-1.5.78.11833-mod-apkvision.apk/file" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-5 rounded-md shadow-md transition">Download</a>
+                <a href="https://www.youtube.com/watch?v=MKW9ocWSOMs" target="_blank" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-5 rounded-md shadow-md transition">Gameplay</a>
+              </div>
+            </div>
+
+          <!-- Game Card Template -->
+
+            <div class="game-card bg-gradient-to-br from-gray-800 to-gray-900 rounded-2xl overflow-hidden shadow-xl neon-border">
+              <img src="img3/pp-4.jpg" alt="Cyberpunk 2077 Phantom Liberty" class="w-full h-48 object-fit: cover">
+              <div class="p-5">
+                <h3 class="font-bold text-xl text-white mb-1">Poppy Playtime 4</h3>
+                <br>                
+                <p class="text-red-400 text-sm mb-4">Full Version<br><br>SIZE - 1.78 GB</p>                
+                <a href="https://www.mediafire.com/file/lu4fawamtxvtp6a/Poppy-Playtime-Chapter-4-v1.0.5-full-apkvision.apk/file" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-5 rounded-md shadow-md transition">Download</a>
+                <a href="https://www.youtube.com/watch?v=hpdU1o99Sls" target="_blank" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-5 rounded-md shadow-md transition">Gameplay</a>
+              </div>
+            </div>
+
             <!-- Game Card Template -->
 
             <div class="game-card bg-gradient-to-br from-gray-800 to-gray-900 rounded-2xl overflow-hidden shadow-xl neon-border">
@@ -193,6 +244,7 @@
               <img src="img3/gta-sa-defi.jpg" alt="SpongeBob SquarePants - Battle for Bikini Bottom" class="w-full h-48 object-fit: cover">
               <div class="p-5">
                 <h3 class="font-bold text-xl text-white mb-1">GTA San Andreas - Definitive Edition</h3>
+                <br>
                 <p class="text-red-400 text-sm mb-4">Full Version Unlocked | 60 fps<br><br>SIZE - 13 GB</p>
                 <a href="https://www.mediafire.com/file_premium/besfl3k3fjb8eut/60FPS-GTA-SA-DE-1.86.44544238-full-apkvision.apks/file" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-5 rounded-md shadow-md transition">Download</a>
                 <a href="https://www.youtube.com/watch?v=8yIwuSQQMjE&list=PLeryE-e3frBD57R0CVgct2PO66Y41pkvU" target="_blank" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-5 rounded-md shadow-md transition">Gameplay</a>
@@ -203,7 +255,8 @@
               <img src="img3/pop.jpg" alt="SpongeBob SquarePants - Battle for Bikini Bottom" class="w-full h-48 object-fit: cover">
               <div class="p-5">
                 <h3 class="font-bold text-xl text-white mb-1">Prince of Persia - The Lost Crown</h3>
-                <p class="text-red-400 text-sm mb-4">Full Version Unlocked<BR></BR><BR></BR><br>SIZE - 2 GB</p>
+                <br>
+                <p class="text-red-400 text-sm mb-4">Full Version Unlocked<br><br>SIZE - 2 GB</p>
                 <a href="https://drive.google.com/file/d/1McrR81HVZTTmf3ndMfi4hvvUrbtfXf02/view" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-5 rounded-md shadow-md transition">Download</a>
                 <a href="https://www.youtube.com/watch?v=bURUf1XxHZM&list=PL0q_sjjswpJgqlQ-G5jU9GZ419iFY1YyI" target="_blank" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-5 rounded-md shadow-md transition">Gameplay</a>
               </div>
@@ -213,7 +266,9 @@
               <img src="img3/uns.jpg" alt="Ultimate Ninja STORM" class="w-full h-48 object-fit: cover">
               <div class="p-5">
                 <h3 class="font-bold text-xl text-white mb-1">Ultimate Ninja STORM + MOD</h3>
-                <p class="text-red-400 text-sm mb-4">All Characters Unlocked<BR></BR> <BR></BR><br>SIZE - 3.23 GB</p>
+                <br>
+                <br>
+                <p class="text-red-400 text-sm mb-4">All Characters Unlocked<br><br>SIZE - 3.23 GB</p>
                 <a href="https://www.mediafire.com/file/nth4my91znxg8wz/Ultimate_Ninja_STORM_v1.2.9_Unlocked_Mod_Menu_lore.apk/file" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-5 rounded-md shadow-md transition">Download</a>
                 <a href="https://www.youtube.com/watch?v=QtjRZTKUcdc&list=PLGtZwVE-T07sCDGlkr2MyS51ICYInqgdb" target="_blank" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-5 rounded-md shadow-md transition">Gameplay</a>
               </div>
@@ -223,7 +278,8 @@
               <img src="img3/hw-ss.jpg" alt="Ultimate Ninja STORM" class="w-full h-48 object-fit: cover">
               <div class="p-5">
                 <h3 class="font-bold text-xl text-white mb-1">Hollow Knight: Silksong + MOD Menu</h3>
-                <p class="text-red-400 text-sm mb-4"> No internet connection, login or password required <BR></BR> <BR></BR>SIZE - 1.82 GB</p>
+                <br>
+                <p class="text-red-400 text-sm mb-4"> No internet connection, login or password required<br><br>SIZE - 1.82 GB</p>
                 <a href="https://www.mediafire.com/file/uy0c0be6pykr5sz/Hollow_Knight_Silksong_v1.1.5-Mod_Menu.apk/file" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-5 rounded-md shadow-md transition">Download</a>
                 <a href="https://www.youtube.com/watch?v=Y-drJT5MxgM" target="_blank" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-5 rounded-md shadow-md transition">Gameplay</a>
               </div>
@@ -233,7 +289,7 @@
               <img src="img3/ss-cs.jpg" alt="SpongeBob - The Cosmic Shake" class="w-full h-48 object-fit: cover">
               <div class="p-5">
                 <h3 class="font-bold text-xl text-white mb-1">SpongeBob - The Cosmic Shake</h3>
-                <p class="text-red-400 text-sm mb-4">NOTE: The first time you open the game, it will take a while because it is unpacking the resources. Do not close the app<br><br>SIZE - 3.9 GB</p>
+                <p class="text-red-400 text-sm mb-4">NOTE: The first time you open the game, it will take a while because it is unpacking the resources. Do not close the app.<br>SIZE - 3.9 GB</p>
                 <a href="https://www.mediafire.com/file/4b64gr4hbyn6m1a/Spongebob_The_Cosmic_Shake_v1.1.2_Full_Version.apk/file" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-5 rounded-md shadow-md transition">Download</a>
                 <a href="https://www.youtube.com/watch?v=WMG5NdBdJL0" target="_blank" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-5 rounded-md shadow-md transition">Gameplay</a>
               </div>
@@ -243,6 +299,7 @@
               <img src="img3/gta-sa-vc-defi.jpg" alt="GTA Vice City Definitive Edition" class="w-full h-48 object-fit: cover">
               <div class="p-5">
                 <h3 class="font-bold text-xl text-white mb-1">GTA Vice City Definitive Edition</h3>
+                <br>
                 <br>
                 <p class="text-red-400 text-sm mb-4">Mod Unlocked Netflix 60FPS<br><br>SIZE - 3.48 GB</p>
                 <a href="https://www.mediafire.com/file/qxsb5l2tb7ivb0s/GTA-Vice-City-Definitiveeee-60-FPS-v1.90.0-mod-apkvision.apk/file" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-5 rounded-md shadow-md transition">Download</a>
@@ -255,7 +312,7 @@
               <div class="p-5">
                 <h3 class="font-bold text-xl text-white mb-1">Little Nightmares</h3>
                 <br>
-                <p class="text-red-400 text-sm mb-4"><br>60FPS<br><br>SIZE - 1.05 GB</p>
+                <p class="text-red-400 text-sm mb-4">60FPS<br><br>SIZE - 1.05 GB</p>
                 <a href="https://www.mediafire.com/file/25qac2mpnrzx23g/little-nightmaressss_144-.apk/file" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-5 rounded-md shadow-md transition">Download</a>
                 <a href="https://www.youtube.com/watch?v=O4JdtO-GTeQ" target="_blank" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-5 rounded-md shadow-md transition">Gameplay</a>
               </div>
@@ -265,7 +322,7 @@
               <img src="img/nba2k14-26.jpg" alt="Little Nightmares" class="w-full h-48 object-fit: cover">
               <div class="p-5">
                 <h3 class="font-bold text-xl text-white mb-1">NBA 2k20 Modded to 2k26</h3>
-                <p class="text-red-400 text-sm mb-4"><br>Updated as of now<br><br>SIZE - APK: 83.09 MB | OBB: 2.95 GB</p>
+                <p class="text-red-400 text-sm mb-4">Updated as of now<br><br>SIZE - APK: 83.09 MB | OBB: 2.95 GB</p>
                 <a href="https://docs.google.com/document/d/1pN-vpjSMyH4oOr_dqKW6rKvjPMFPr7yH_wfWcsk6djI/edit?usp=drive_link" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-5 rounded-md shadow-md transition">Download</a>
                 <a href="https://www.youtube.com/watch?v=9mF7nnF9mY4&t=17s" target="_blank" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-5 rounded-md shadow-md transition">Gameplay</a>
               </div>
@@ -276,7 +333,7 @@
               <img src="img3/gl-del-ed.jpeg" alt="Little Nightmares" class="w-full h-48 object-fit: cover">
               <div class="p-5">
                 <h3 class="font-bold text-xl text-white mb-1">Grid Legends Deluxe Edition</h3>
-                <p class="text-red-400 text-sm mb-4"><br>Updated as of now<br><br>SIZE - APK: 4.1 GB</p>
+                <p class="text-red-400 text-sm mb-4">Updated as of now<br><br>SIZE - APK: 4.1 GB</p>
                 <a href="https://dl.apkvision.org/grid-legends-deluxe-edition/grid-legends-1.1.4RC7-mod-apkvision.apks" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-5 rounded-md shadow-md transition">Download</a>
                 <a href="https://www.youtube.com/watch?v=pG2xZS-S50k" target="_blank" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-5 rounded-md shadow-md transition">Gameplay</a>
               </div>

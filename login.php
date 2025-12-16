@@ -138,6 +138,28 @@ if (!isset($_SESSION['username'])) {
 
           <!-- Game Card Template -->
             <div class="game-card bg-gradient-to-br from-gray-800 to-gray-900 rounded-2xl overflow-hidden shadow-xl neon-border">
+              <img src="img/tlous-1.jpg" alt="Naruto Shippuden Ultimate Ninja Storm 4" class="w-full h-48 object-fit: cover">
+              <div class="p-5">
+                <h3 class="font-bold text-xl text-white mb-1">The Last of Us<br>Part 1</h3>
+                <p class="text-red-400 text-sm mb-4">ZIP FILE SIZE: 80 GB</p>
+                <a href="https://docs.google.com/document/d/1gICybs0wtP2DoO5k-GXZy2hiaDLD95yQGuyqNDohYZU/edit?usp=drive_link" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-5 rounded-md shadow-md transition">Download</a>
+                <a href="https://www.youtube.com/watch?v=aGBPysEgDb0" target="_blank" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-5 rounded-md shadow-md transition">Gameplay</a>
+              </div>
+            </div>
+
+            <!-- Game Card Template -->
+            <div class="game-card bg-gradient-to-br from-gray-800 to-gray-900 rounded-2xl overflow-hidden shadow-xl neon-border">
+              <img src="img/tlous-2.jpg" alt="Naruto Shippuden Ultimate Ninja Storm 4" class="w-full h-48 object-fit: cover">
+              <div class="p-5">
+                <h3 class="font-bold text-xl text-white mb-1">The Last of Us Remastered Part 2</h3>
+                <p class="text-red-400 text-sm mb-4">ZIP FILE SIZE: 55.6 GB</p>
+                <a href="https://docs.google.com/document/d/12pvtCrBqB8Et-kZqsR36hGQQwizPpDKg_chbYxFmaAE/edit?usp=drive_link" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-5 rounded-md shadow-md transition">Download</a>
+                <a href="https://www.youtube.com/watch?v=x7dZRIhnsWc" target="_blank" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-5 rounded-md shadow-md transition">Gameplay</a>
+              </div>
+            </div>
+
+          <!-- Game Card Template -->
+            <div class="game-card bg-gradient-to-br from-gray-800 to-gray-900 rounded-2xl overflow-hidden shadow-xl neon-border">
               <img src="img/nsuns-4.jpg" alt="Naruto Shippuden Ultimate Ninja Storm 4" class="w-full h-48 object-fit: cover">
               <div class="p-5">
                 <h3 class="font-bold text-xl text-white mb-1">Naruto Shippuden Ultimate Ninja Storm 4</h3>

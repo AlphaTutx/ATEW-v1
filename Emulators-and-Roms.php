@@ -72,7 +72,7 @@
                               <!-- START OF EMU for CP -->
 <section>
 
-          <h2 class="text-4xl font-extrabold mb-6 text-red-400">Emulators for CP</h2>
+          <h2 class="text-4xl font-extrabold mb-6 text-cyan-400">Emulators for CP</h2>
 
       <div id="gamesGrid" class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-10">
 
@@ -83,7 +83,42 @@
                 <h3 class="font-bold text-xl text-white mb-1">GameHub</h3>
                 <br>
                 <p class="text-red-400 text-sm mb-4">Windows Emulator</p>
-                <a href="https://gamehub.xiaoji.com/" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-4 rounded-md shadow-md transition">Download</a>
+                <a href="https://gamehub.xiaoji.com/download/" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-4 rounded-md shadow-md transition">Download</a>
+              </div>
+            </div>
+
+            <!-- Game Card Template -->
+            <div class="game-card bg-gradient-to-br from-gray-800 to-gray-900 rounded-2xl overflow-hidden shadow-xl neon-border">
+              <img src="img4/yuzu-pc.jpg" alt="Warcraft_III Frozen Throne - CD keys" class="w-full h-48 object-fit: cover">
+              <div class="p-5">
+                <h3 class="font-bold text-xl text-white mb-1">YUZU</h3>
+                <br>
+                <p class="text-red-400 text-sm mb-4">Nintendo Switch Emulator</p>
+                <a href="https://files.yuzuemulators.com/yuzu-emulator-for-android-by-yuzuemulators.com.apk" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-4 rounded-md shadow-md transition">Download</a>
+                <a href="https://files.yuzuemulators.com/yuzu-emulator-for-android-by-yuzuemulators.com.apk" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-4 rounded-md shadow-md transition">Prodkey/firm</a>
+              </div>
+            </div>
+
+            <!-- Game Card Template -->
+            <div class="game-card bg-gradient-to-br from-gray-800 to-gray-900 rounded-2xl overflow-hidden shadow-xl neon-border">
+              <img src="img4/ppsspp-g.jpeg" alt="Warcraft_III Frozen Throne - CD keys" class="w-full h-48 object-fit: cover">
+              <div class="p-5">
+                <h3 class="font-bold text-xl text-white mb-1">PPSSPP Gold</h3>
+                <br>
+                <p class="text-red-400 text-sm mb-4">PSP Emulator</p>
+                <a href="https://drive.google.com/file/d/1EhuTb7UUeLLwyHjqwwefpGK12Xa9pRqQ/view?usp=drive_link" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-4 rounded-md shadow-md transition">Download</a>
+              </div>
+            </div>
+
+            <!-- Game Card Template -->
+            <div class="game-card bg-gradient-to-br from-gray-800 to-gray-900 rounded-2xl overflow-hidden shadow-xl neon-border">
+              <img src="img4/aethersx2.jpg" alt="Warcraft_III Frozen Throne - CD keys" class="w-full h-48 object-fit: cover">
+              <div class="p-5">
+                <h3 class="font-bold text-xl text-white mb-1">AetherSX2</h3>
+                <br>
+                <p class="text-red-400 text-sm mb-4">PS2 Emulator</p>
+                <a href="https://drive.google.com/file/d/10LBEbLxuVEQDrw-Ln0xyhg6AutWUIWKQ/view?usp=drive_link" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-4 rounded-md shadow-md transition">Download</a>
+                <a href="https://drive.google.com/file/d/15dyAE8FBI-qcElRiuWkQfffdWZf___Sa/view?usp=drive_link" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-4 rounded-md shadow-md transition">BIOS Link</a>
               </div>
             </div>
 
@@ -96,7 +131,7 @@
                               <!-- START OF EMU for PC -->
 <section>
 
-          <h2 class="text-4xl font-extrabold mb-6 text-red-400">Emulators with Roms for PC</h2>
+          <h2 class="text-4xl font-extrabold mb-6 text-cyan-400">Emulators with Roms for PC</h2>
 
       <div id="gamesGrid" class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-10">
 
@@ -127,6 +162,172 @@
 </section>
                               <!-- END OF EMU for PC -->
 
+
+
+<section>
+
+<h2 class="text-4xl font-extrabold mb-6 text-cyan-400">ROMS</h2>
+
+<!-- PPSSPP ROMS -->
+
+<h3 class="text-4xl mb-6 text-red-400">PPSSPP</h3>
+
+<div class="grid grid-cols-1 md:grid-cols-2 gap-y-16 gap-x-20">
+
+  <div>
+      <p>Final fantasy - DISSIDIA 012 :
+        <a href="https://www.youtube.com/watch?v=fkDRRR_gmOY" 
+           target="_blank"
+           class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-4 rounded-md shadow-md transition">
+          Gameplay
+        </a>
+      </p>
+
+      <p class="mt-4">Download Link/s :
+        <a href="https://drive.google.com/file/d/1eNOAfwo8br-KFi6zBH7J4iKWSzJF1Bt3/view?usp=drive_link" target="_blank" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-4 rounded-md shadow-md transition">ISO file</a>
+        <a href="https://drive.google.com/file/d/11cGxmXbCbURcXcbM2x4dPcgivZbsdkfi/view?usp=drive_link" target="_blank" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-4 rounded-md shadow-md transition">SaveData: UNLOCK ALL CHAR</a>
+      </p>
+
+  </div>
+
+  <div>
+      <p>Ratchet & Clank- Size Matters :
+        <a href="https://www.youtube.com/watch?v=J6fYnBOrULs" 
+           target="_blank"
+           class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-4 rounded-md shadow-md transition">
+          Gameplay
+        </a>
+      </p>
+
+      <p class="mt-4">Download Link/s :
+        <a href="https://www.mediafire.com/folder/cv4aw5cpt5g6r/Ratchet+&+Clank-+Size+Matters" target="_blank" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-4 rounded-md shadow-md transition">ISO file</a>
+      </p>
+
+  </div>
+</div>
+
+<!-- END of PPSSPP ROMS -->
+
+<!-- PS2 ROMS -->
+
+<BR></BR>
+
+<h3 class="text-4xl mb-6 text-red-400">PS2</h3>
+
+<div class="grid grid-cols-1 md:grid-cols-2 gap-y-16 gap-x-20">
+
+  <div>
+      <p>Shadow of Colossus : 
+        <a href="https://www.youtube.com/watch?v=EOJwDeAV_mc&list=PLrVlvcyP9YsC0Tfre61EzprUSQJ9tl5og" 
+           target="_blank"
+           class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-4 rounded-md shadow-md transition">
+          Gameplay
+        </a>
+      </p>
+
+      <p class="mt-4">Download Link/s :
+        <a href="https://www.mediafire.com/file/wigv882sdwehsoq/Shadow_of_the_Colossus_%2528USA%2529.rar/file" target="_blank" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-4 rounded-md shadow-md transition">ISO file</a>
+      </p>
+
+  </div>
+
+  <div>
+      <p>Silent Hill 2 : 
+        <a href="https://www.youtube.com/watch?v=k7Kr15i7qeI" 
+           target="_blank"
+           class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-4 rounded-md shadow-md transition">
+          Gameplay
+        </a>
+      </p>
+
+      <p class="mt-4">Download Link/s :
+        <a href="https://www.mediafire.com/file/3omzg2i2j20ybwj/Silent+Hill+2+(USA)+(En,Ja,Fr,De,Es,It)+(v2.01).rar/file" target="_blank" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-4 rounded-md shadow-md transition">ISO file</a>
+      </p>
+
+  </div>
+
+</div>
+
+<BR></BR>
+
+
+
+<!-- NINTENDO SWITCH ROMS -->
+
+<h3 class="text-4xl mb-6 text-red-400">NINTENDO SWITCH</h3>
+
+<div class="grid grid-cols-1 md:grid-cols-2 gap-y-16 gap-x-20">
+
+  <div>
+      <p>Luigi's Mansion 3 : 
+        <a href="https://www.youtube.com/watch?v=yEWtIFdvhMo" 
+           target="_blank"
+           class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-4 rounded-md shadow-md transition">
+          Gameplay
+        </a>
+      </p>
+
+      <p class="mt-4">Download Link/s : 
+        <a href="https://drive.google.com/file/d/1eNOAfwo8br-KFi6zBH7J4iKWSzJF1Bt3/view?usp=drive_link" target="_blank" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-4 rounded-md shadow-md transition">BASE</a>
+        <a href="https://drive.google.com/file/d/1eNOAfwo8br-KFi6zBH7J4iKWSzJF1Bt3/view?usp=drive_link" target="_blank" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-4 rounded-md shadow-md transition">UPDATE</a>
+        <a href="https://drive.google.com/file/d/11cGxmXbCbURcXcbM2x4dPcgivZbsdkfi/view?usp=drive_link" target="_blank" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-4 rounded-md shadow-md transition">DLC's</a>
+      </p>
+
+  </div>
+
+  <div>
+      <p>Mario Kart 8 Deluxe : 
+        <a href="https://www.youtube.com/watch?v=GHz6s5iVpYU" 
+           target="_blank"
+           class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-4 rounded-md shadow-md transition">
+          Gameplay
+        </a>
+      </p>
+
+      <p class="mt-4">Download Link/s : 
+        <a href="https://drive.google.com/file/d/1eNOAfwo8br-KFi6zBH7J4iKWSzJF1Bt3/view?usp=drive_link" target="_blank" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-4 rounded-md shadow-md transition">BASE</a>
+        <a href="https://drive.google.com/file/d/1eNOAfwo8br-KFi6zBH7J4iKWSzJF1Bt3/view?usp=drive_link" target="_blank" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-4 rounded-md shadow-md transition">UPDATE</a>
+        <a href="https://drive.google.com/file/d/11cGxmXbCbURcXcbM2x4dPcgivZbsdkfi/view?usp=drive_link" target="_blank" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-4 rounded-md shadow-md transition">DLC's</a>
+      </p>
+
+  </div>
+
+  <div>
+      <p>Pokemon Legends Arceus : 
+        <a href="https://www.youtube.com/watch?v=0VE-XviiLWk" 
+           target="_blank"
+           class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-4 rounded-md shadow-md transition">
+          Gameplay
+        </a>
+      </p>
+
+      <p class="mt-4">Download Link/s : 
+        <a href="https://drive.google.com/file/d/1eNOAfwo8br-KFi6zBH7J4iKWSzJF1Bt3/view?usp=drive_link" target="_blank" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-4 rounded-md shadow-md transition">BASE</a>
+        <a href="https://drive.google.com/file/d/1eNOAfwo8br-KFi6zBH7J4iKWSzJF1Bt3/view?usp=drive_link" target="_blank" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-4 rounded-md shadow-md transition">UPDATE</a>
+      </p>
+
+  </div>
+
+  <div>
+      <p>Kirby and the Forgotten Land : 
+        <a href="https://www.youtube.com/watch?v=DkngORlTRdI" 
+           target="_blank"
+           class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-4 rounded-md shadow-md transition">
+          Gameplay
+        </a>
+      </p>
+
+      <p class="mt-4">Download Link/s : 
+        <a href="https://drive.google.com/file/d/16zWvC7s5T3hncOCsY4tJ-FJyDrgUh8hj/view?usp=drive_link" target="_blank" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-4 rounded-md shadow-md transition">BASE</a>
+      </p>
+
+  </div>
+
+</div>
+          
+</section>
+
+<!-- END of PPSSPP ROMS -->
 
 </main>
 
