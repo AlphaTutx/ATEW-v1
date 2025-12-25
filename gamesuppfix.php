@@ -70,6 +70,28 @@
 
 <section>
 
+          <h2 class="text-4xl font-extrabold mb-6 text-red-400">CP Games Fix</h2>
+
+      <div id="gamesGrid" class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-10">
+
+            <!-- Game Card Template -->
+            <div class="game-card bg-gradient-to-br from-gray-800 to-gray-900 rounded-2xl overflow-hidden shadow-xl neon-border">
+              <img src="img2/missing dll's 2k14.png" alt="Cyberpunk 2077 Phantom Liberty" class="w-full h-48 object-fit: cover">
+              <div class="p-5">
+                <h3 class="font-bold text-xl text-white mb-1">CP Games fix</h3>
+                <br>
+                <br>
+                <p class="text-red-400 text-sm mb-4">Crashing or not installed properly fix</p>
+                <a href="https://docs.google.com/document/d/1UsT80I8_2_dPptxnz1eD0lSGOv2aNjkrMu8eEEwypFw/edit?usp=drive_link" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-4 rounded-md shadow-md transition">Download</a>
+              </div>
+            </div>
+
+      </div>
+            
+</section>
+
+<section>
+
           <h2 class="text-4xl font-extrabold mb-6 text-red-400">NBA 2k14</h2>
 
       <div id="gamesGrid" class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-10">

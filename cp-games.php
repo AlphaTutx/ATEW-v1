@@ -77,6 +77,157 @@
           <!-- Game Card Template -->
 
             <div class="game-card bg-gradient-to-br from-gray-800 to-gray-900 rounded-2xl overflow-hidden shadow-xl neon-border">
+              <img src="img3/dls-2025.jpg" alt="WWE 2K25" class="w-full h-48 object-fit: cover">
+              <div class="p-5">
+                <h3 class="font-bold text-xl text-white mb-1">Dream League Soccer 2025</h3>                
+                <p class="text-red-400 text-sm mb-4">Full Version Unlocked<br><br>SIZE - 184.04 MB</p>                
+                <a href="https://dl.apkvision.org/dream-league-soccer-2025/Dream%20League%20Soccer%202026_13.040_apkvision.xapk" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-5 rounded-md shadow-md transition">Download</a>
+                <a href="https://www.youtube.com/watch?v=uQNBpGmSnLw" target="_blank" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-5 rounded-md shadow-md transition">Gameplay</a>
+              </div>
+            </div>
+
+          <!-- Game Card Template -->
+
+            <div class="game-card bg-gradient-to-br from-gray-800 to-gray-900 rounded-2xl overflow-hidden shadow-xl neon-border">
+              <img src="img3/efb.jpg" alt="WWE 2K25" class="w-full h-48 object-fit: cover">
+              <div class="p-5">
+                <h3 class="font-bold text-xl text-white mb-1">eFootball™</h3>
+                <br>                
+                <p class="text-red-400 text-sm mb-4">Full Version Unlocked<br><br>SIZE - 2.36 GB</p>                
+                <a href="https://dl.apkvision.org/efootball/eFootball%E2%84%A2%202024_10.2.1_apkvision.xapk" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-5 rounded-md shadow-md transition">Download</a>
+                <a href="https://www.youtube.com/watch?v=BwYZrgDpUco" target="_blank" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-5 rounded-md shadow-md transition">Gameplay</a>
+              </div>
+            </div>
+
+          <!-- Game Card Template -->
+
+            <div class="game-card bg-gradient-to-br from-gray-800 to-gray-900 rounded-2xl overflow-hidden shadow-xl neon-border">
+              <img src="img3/hbmr.jpeg" alt="WWE 2K25" class="w-full h-48 object-fit: cover">
+              <div class="p-5">
+                <h3 class="font-bold text-xl text-white mb-1">Hitman: Blood Money Reprisal</h3>                
+                <p class="text-red-400 text-sm mb-4">Full Version Unlocked<br><br>SIZE - 3.06 GB</p>                
+                <a href="https://dl.apkvision.org/hitman-blood-money-reprisal/hitman-bmr-v1.2RC13-apkvision.apks" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-5 rounded-md shadow-md transition">Download</a>
+                <a href="https://www.youtube.com/watch?v=hwl_teK4lv0&list=PLlTQsdwUVyRmnXQhVfEIHypkfkMzq4pB4" target="_blank" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-5 rounded-md shadow-md transition">Gameplay</a>
+              </div>
+            </div>
+
+          <!-- Game Card Template -->
+
+            <div class="game-card bg-gradient-to-br from-gray-800 to-gray-900 rounded-2xl overflow-hidden shadow-xl neon-border">
+              <img src="img3/scsv.jpg" alt="WWE 2K25" class="w-full h-48 object-fit: cover">
+              <div class="p-5">
+                <h3 class="font-bold text-xl text-white mb-1">Shin chan: Summer Vacation</h3>                
+                <p class="text-red-400 text-sm mb-4">Full Version Unlocked<br><br>SIZE - 1.9 GB</p>                
+                <a href="https://dl.apkvision.org/shin-chan-summer-vacation/Shin-chan-Summer-Vacation-v1.0.2-unlocked-apkvision.apk" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-5 rounded-md shadow-md transition">Download</a>
+                <a href="https://www.youtube.com/watch?v=Oj2jnXL6ByU" target="_blank" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-5 rounded-md shadow-md transition">Gameplay</a>
+              </div>
+            </div>
+
+          <!-- Game Card Template -->
+
+            <div class="game-card bg-gradient-to-br from-gray-800 to-gray-900 rounded-2xl overflow-hidden shadow-xl neon-border">
+              <img src="img3/woi2.jpg" alt="WWE 2K25" class="w-full h-48 object-fit: cover">
+              <div class="p-5">
+                <h3 class="font-bold text-xl text-white mb-1">Wall Of Insanity 2</h3>
+                <br>               
+                <p class="text-red-400 text-sm mb-4">Full Version Unlocked<br><br>SIZE - 1 GB</p>                
+                <a href="https://dl.apkvision.org/wall-of-insanity-2/Wall-Of-Insanity-2-v1.3-full-apkvision.apk" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-5 rounded-md shadow-md transition">Download</a>
+                <a href="https://www.youtube.com/watch?v=AouFcln7VWs&list=PLyucSNUrI7OtlL4tRXMDOeB2Ge91-80aa" target="_blank" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-5 rounded-md shadow-md transition">Gameplay</a>
+              </div>
+            </div>
+
+          <!-- Game Card Template -->
+
+            <div class="game-card bg-gradient-to-br from-gray-800 to-gray-900 rounded-2xl overflow-hidden shadow-xl neon-border">
+              <img src="img3/ark-ult.jpg" alt="WWE 2K25" class="w-full h-48 object-fit: cover">
+              <div class="p-5">
+                <h3 class="font-bold text-xl text-white mb-1">ARK: Ultimate Mobile Edition</h3>                
+                <p class="text-red-400 text-sm mb-4">All Paid DLC Unlocked (Maps & God Console) | License Check Removed<br>SIZE - 2.24 GB</p>                
+                <a href="https://dl.apkvision.org/ark-ultimate-mobile-edition/ARK-Ultimate-Mobile-Edition-v1.0-b28-unlocked-apkvision.apk" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-5 rounded-md shadow-md transition">Download</a>
+                <a href="https://www.youtube.com/watch?v=UpKy4F1jcV0" target="_blank" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-5 rounded-md shadow-md transition">Gameplay</a>
+              </div>
+            </div>
+
+          <!-- Game Card Template -->
+
+            <div class="game-card bg-gradient-to-br from-gray-800 to-gray-900 rounded-2xl overflow-hidden shadow-xl neon-border">
+              <img src="img3/sm2.jpg" alt="WWE 2K25" class="w-full h-48 object-fit: cover">
+              <div class="p-5">
+                <h3 class="font-bold text-xl text-white mb-1">The Amazing Spider-Man 2</h3>                
+                <p class="text-red-400 text-sm mb-4">Premium version<br><br>SIZE - 635 MB</p>                
+                <a href="https://docs.google.com/document/d/1XxamwRiwm7C0SevyGuKIbXc2nJdtgFf2eGdljN_F8SY/edit?usp=drive_link" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-5 rounded-md shadow-md transition">Download</a>
+                <a href="https://www.youtube.com/watch?v=0zo5eqV2I-w" target="_blank" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-5 rounded-md shadow-md transition">Gameplay</a>
+              </div>
+            </div>
+
+          <!-- Game Card Template -->
+
+            <div class="game-card bg-gradient-to-br from-gray-800 to-gray-900 rounded-2xl overflow-hidden shadow-xl neon-border">
+              <img src="img3/prow-z.jpg" alt="WWE 2K25" class="w-full h-48 object-fit: cover">
+              <div class="p-5">
+                <h3 class="font-bold text-xl text-white mb-1">PROW Z</h3>
+                <br>                
+                <p class="text-red-400 text-sm mb-4">Premium version<br><br>SIZE - 1.01 GB</p>                
+                <a href="https://dl.apkvision.org/prow-z-open-world-premium/PROW-Z-v1.0-full-apkvision.apk" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-5 rounded-md shadow-md transition">Download</a>
+                <a href="https://www.youtube.com/watch?v=9P4axnhebLU" target="_blank" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-5 rounded-md shadow-md transition">Gameplay</a>
+              </div>
+            </div>
+
+            <!-- Game Card Template -->
+
+            <div class="game-card bg-gradient-to-br from-gray-800 to-gray-900 rounded-2xl overflow-hidden shadow-xl neon-border">
+              <img src="img3/tabs.jpg" alt="WWE 2K25" class="w-full h-48 object-fit: cover">
+              <div class="p-5"> 
+                <h3 class="font-bold text-xl text-white mb-1">TABS Pocket Edition</h3>
+                <br>                
+                <p class="text-red-400 text-sm mb-4">Premium version<br><br>SIZE - 1.24 GB</p>                
+                <a href="https://dl.apkvision.org/tabs-pocket-edition/TABS-Pocket-Edition-v1.1.05-full-apkvision.apk" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-5 rounded-md shadow-md transition">Download</a>
+                <a href="https://www.youtube.com/watch?v=BG3h6vdtVWQ&list=PLwkM9SypJALtVQjx2j8cJxRpSQXd-2MAW" target="_blank" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-5 rounded-md shadow-md transition">Gameplay</a>
+              </div>
+            </div>
+
+            <!-- Game Card Template -->
+
+            <div class="game-card bg-gradient-to-br from-gray-800 to-gray-900 rounded-2xl overflow-hidden shadow-xl neon-border">
+              <img src="img3/mc-pe.jpg" alt="WWE 2K25" class="w-full h-48 object-fit: cover">
+              <div class="p-5">
+                <h3 class="font-bold text-xl text-white mb-1">Minecraft PE</h3>
+                <br>                
+                <p class="text-red-400 text-sm mb-4">Premium version<br><br>SIZE - 876.43 MB</p>                
+                <a href="https://dl.apkvision.org/minecraft/Minecraft-v1.21.131.1-full-apkvision.apk" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-5 rounded-md shadow-md transition">Download</a>
+                <a href="https://www.youtube.com/watch?v=s4uyRWolZ3Q" target="_blank" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-5 rounded-md shadow-md transition">Gameplay</a>
+              </div>
+            </div>
+
+          <!-- Game Card Template -->
+
+            <div class="game-card bg-gradient-to-br from-gray-800 to-gray-900 rounded-2xl overflow-hidden shadow-xl neon-border">
+              <img src="img3/m-e.jpg" alt="WWE 2K25" class="w-full h-48 object-fit: cover">
+              <div class="p-5">
+                <h3 class="font-bold text-xl text-white mb-1">ManEater</h3>
+                <br>                
+                <p class="text-red-400 text-sm mb-4">Premium version<br><br>SIZE - 5.33 GB</p>                
+                <a href="https://dl.apkvision.org/maneater/Maneater-v1.3-full-apkvision.apks" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-5 rounded-md shadow-md transition">Download</a>
+                <a href="https://www.youtube.com/watch?v=ik8kJ2G0vpo" target="_blank" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-5 rounded-md shadow-md transition">Gameplay</a>
+              </div>
+            </div>
+
+            <!-- Game Card Template -->
+
+            <div class="game-card bg-gradient-to-br from-gray-800 to-gray-900 rounded-2xl overflow-hidden shadow-xl neon-border">
+              <img src="img3/t6.jpg" alt="WWE 2K25" class="w-full h-48 object-fit: cover">
+              <div class="p-5">
+                <h3 class="font-bold text-xl text-white mb-1">Tekken 6</h3>
+                <br>                
+                <p class="text-red-400 text-sm mb-4">Full version<br><br>SIZE - 37.75MB</p>                
+                <a href="https://dl.apkvision.org/tekken-6/tekken6_v1.0.0.apk" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-5 rounded-md shadow-md transition">Download</a>
+                <a href="https://www.youtube.com/watch?v=9x0SvPhT8NQ&t=475s" target="_blank" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-5 rounded-md shadow-md transition">Gameplay</a>
+              </div>
+            </div>
+
+          <!-- Game Card Template -->
+
+            <div class="game-card bg-gradient-to-br from-gray-800 to-gray-900 rounded-2xl overflow-hidden shadow-xl neon-border">
               <img src="img3/sf.jpg" alt="WWE 2K25" class="w-full h-48 object-fit: cover">
               <div class="p-5">
                 <h3 class="font-bold text-xl text-white mb-1">Spider Fuser</h3>
@@ -244,7 +395,6 @@
               <img src="img3/gta-sa-defi.jpg" alt="SpongeBob SquarePants - Battle for Bikini Bottom" class="w-full h-48 object-fit: cover">
               <div class="p-5">
                 <h3 class="font-bold text-xl text-white mb-1">GTA San Andreas - Definitive Edition</h3>
-                <br>
                 <p class="text-red-400 text-sm mb-4">Full Version Unlocked | 60 fps<br><br>SIZE - 13 GB</p>
                 <a href="https://www.mediafire.com/file_premium/besfl3k3fjb8eut/60FPS-GTA-SA-DE-1.86.44544238-full-apkvision.apks/file" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-5 rounded-md shadow-md transition">Download</a>
                 <a href="https://www.youtube.com/watch?v=8yIwuSQQMjE&list=PLeryE-e3frBD57R0CVgct2PO66Y41pkvU" target="_blank" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-5 rounded-md shadow-md transition">Gameplay</a>
@@ -255,7 +405,6 @@
               <img src="img3/pop.jpg" alt="SpongeBob SquarePants - Battle for Bikini Bottom" class="w-full h-48 object-fit: cover">
               <div class="p-5">
                 <h3 class="font-bold text-xl text-white mb-1">Prince of Persia - The Lost Crown</h3>
-                <br>
                 <p class="text-red-400 text-sm mb-4">Full Version Unlocked<br><br>SIZE - 2 GB</p>
                 <a href="https://drive.google.com/file/d/1McrR81HVZTTmf3ndMfi4hvvUrbtfXf02/view" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-5 rounded-md shadow-md transition">Download</a>
                 <a href="https://www.youtube.com/watch?v=bURUf1XxHZM&list=PL0q_sjjswpJgqlQ-G5jU9GZ419iFY1YyI" target="_blank" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-5 rounded-md shadow-md transition">Gameplay</a>
@@ -266,8 +415,6 @@
               <img src="img3/uns.jpg" alt="Ultimate Ninja STORM" class="w-full h-48 object-fit: cover">
               <div class="p-5">
                 <h3 class="font-bold text-xl text-white mb-1">Ultimate Ninja STORM + MOD</h3>
-                <br>
-                <br>
                 <p class="text-red-400 text-sm mb-4">All Characters Unlocked<br><br>SIZE - 3.23 GB</p>
                 <a href="https://www.mediafire.com/file/nth4my91znxg8wz/Ultimate_Ninja_STORM_v1.2.9_Unlocked_Mod_Menu_lore.apk/file" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-5 rounded-md shadow-md transition">Download</a>
                 <a href="https://www.youtube.com/watch?v=QtjRZTKUcdc&list=PLGtZwVE-T07sCDGlkr2MyS51ICYInqgdb" target="_blank" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-5 rounded-md shadow-md transition">Gameplay</a>
@@ -278,8 +425,7 @@
               <img src="img3/hw-ss.jpg" alt="Ultimate Ninja STORM" class="w-full h-48 object-fit: cover">
               <div class="p-5">
                 <h3 class="font-bold text-xl text-white mb-1">Hollow Knight: Silksong + MOD Menu</h3>
-                <br>
-                <p class="text-red-400 text-sm mb-4"> No internet connection, login or password required<br><br>SIZE - 1.82 GB</p>
+                <p class="text-red-400 text-sm mb-4"> No internet connection, login or password required<br>SIZE - 1.82 GB</p>
                 <a href="https://www.mediafire.com/file/uy0c0be6pykr5sz/Hollow_Knight_Silksong_v1.1.5-Mod_Menu.apk/file" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-5 rounded-md shadow-md transition">Download</a>
                 <a href="https://www.youtube.com/watch?v=Y-drJT5MxgM" target="_blank" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-5 rounded-md shadow-md transition">Gameplay</a>
               </div>
@@ -289,7 +435,7 @@
               <img src="img3/ss-cs.jpg" alt="SpongeBob - The Cosmic Shake" class="w-full h-48 object-fit: cover">
               <div class="p-5">
                 <h3 class="font-bold text-xl text-white mb-1">SpongeBob - The Cosmic Shake</h3>
-                <p class="text-red-400 text-sm mb-4">NOTE: The first time you open the game, it will take a while because it is unpacking the resources. Do not close the app.<br>SIZE - 3.9 GB</p>
+                <p class="text-red-400 text-sm mb-4">Full version<br><br>SIZE - 3.9 GB</p>
                 <a href="https://www.mediafire.com/file/4b64gr4hbyn6m1a/Spongebob_The_Cosmic_Shake_v1.1.2_Full_Version.apk/file" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-5 rounded-md shadow-md transition">Download</a>
                 <a href="https://www.youtube.com/watch?v=WMG5NdBdJL0" target="_blank" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-5 rounded-md shadow-md transition">Gameplay</a>
               </div>
@@ -299,8 +445,6 @@
               <img src="img3/gta-sa-vc-defi.jpg" alt="GTA Vice City Definitive Edition" class="w-full h-48 object-fit: cover">
               <div class="p-5">
                 <h3 class="font-bold text-xl text-white mb-1">GTA Vice City Definitive Edition</h3>
-                <br>
-                <br>
                 <p class="text-red-400 text-sm mb-4">Mod Unlocked Netflix 60FPS<br><br>SIZE - 3.48 GB</p>
                 <a href="https://www.mediafire.com/file/qxsb5l2tb7ivb0s/GTA-Vice-City-Definitiveeee-60-FPS-v1.90.0-mod-apkvision.apk/file" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-5 rounded-md shadow-md transition">Download</a>
                 <a href="https://www.youtube.com/watch?v=k1wMs_6ehws&list=PLeryE-e3frBBPhrO8_17EeararoTb62Vq" target="_blank" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-5 rounded-md shadow-md transition">Gameplay</a>

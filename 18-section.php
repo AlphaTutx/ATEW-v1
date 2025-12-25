@@ -182,7 +182,7 @@
 
       <p class="mt-4">VIDEO LINK/S :
         <a href="https://terabox.com/s/1qy4Tfm35TQoeV7R_c3_ugA" target="_blank"
-           class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-4 rounded-md shadow-md transition">Source1: Terabox</a>
+           class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-4 rounded-md shadow-md transition">Source: Terabox</a>
       </p>
     </div>
 
