@@ -331,7 +331,7 @@
             <div class="game-card bg-gradient-to-br from-gray-800 to-gray-900 rounded-2xl overflow-hidden shadow-xl neon-border">
               <img src="img2/capcut-pro.png" alt="Warcraft_III Frozen Throne - CD keys" class="w-full h-48 object-fit: cover">
               <div class="p-5">
-                <h3 class="font-bold text-xl text-white mb-1">Capcut Pro APK</h3>
+                <h3 class="font-bold text-xl text-white mb-1">Capcut Pro</h3>
                 <p class="text-red-400 text-sm mb-4">No login required | Templates, effects, library & more are working | Export video up to 1080P (2K & 4K not working) | No ads | Some AI, hidden tools & features unlocked</p>
                 <a href="https://www.mediafire.com/file/pbitp1kwkl42f0r/CapCut_Pro_v15.3.0.apk/file" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-4 rounded-md shadow-md transition">Download</a>
               </div>
@@ -340,7 +340,7 @@
             <div class="game-card bg-gradient-to-br from-gray-800 to-gray-900 rounded-2xl overflow-hidden shadow-xl neon-border">
               <img src="img2/z-pro.jpg" alt="Warcraft_III Frozen Throne - CD keys" class="w-full h-48 object-fit: cover">
               <div class="p-5">
-                <h3 class="font-bold text-xl text-white mb-1">ZArchiver Pro APK</h3>
+                <h3 class="font-bold text-xl text-white mb-1">ZArchiver Pro</h3>
                 <BR><BR>
                 <p class="text-red-400 text-sm mb-4">Pro features Unlocked</p><br>
                 <a href="https://www.mediafire.com/file/br9qd95joaf5mhy/ZArchiver_Pro.apk/file" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-4 rounded-md shadow-md transition">Download</a>

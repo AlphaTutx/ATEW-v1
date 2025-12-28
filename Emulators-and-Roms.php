@@ -268,9 +268,9 @@
       </p>
 
       <p class="mt-4">Download Link/s : 
-        <a href="https://drive.google.com/file/d/1eNOAfwo8br-KFi6zBH7J4iKWSzJF1Bt3/view?usp=drive_link" target="_blank" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-4 rounded-md shadow-md transition">BASE</a>
-        <a href="https://drive.google.com/file/d/1eNOAfwo8br-KFi6zBH7J4iKWSzJF1Bt3/view?usp=drive_link" target="_blank" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-4 rounded-md shadow-md transition">UPDATE</a>
-        <a href="https://drive.google.com/file/d/11cGxmXbCbURcXcbM2x4dPcgivZbsdkfi/view?usp=drive_link" target="_blank" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-4 rounded-md shadow-md transition">DLC's</a>
+        <a href="https://drive.google.com/file/d/1MDRj4zHvKlI3bnYg9a006Hdz6qndi_sP/view?usp=drive_link" target="_blank" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-4 rounded-md shadow-md transition">BASE</a>
+        <a href="https://drive.google.com/file/d/1-abZHX-8HT46KoZVPQ41sqkSF6GKLAgH/view?usp=drive_link" target="_blank" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-4 rounded-md shadow-md transition">UPDATE</a>
+        <a href="https://drive.google.com/file/d/1nxYQit2Isu_6stuKXicO-DSsQuXrzSnU/view?usp=drive_link" target="_blank" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-4 rounded-md shadow-md transition">DLC's</a>
       </p>
 
   </div>

@@ -95,6 +95,17 @@ if (!isset($_SESSION['username'])) {
         <h2 class="text-4xl font-extrabold mb-6 text-cyan-400">Hot Games</h2>
         <div class="carousel flex space-x-6 overflow-x-auto pb-4">
 
+                  <!-- Featured Game 0 -->
+ 
+  <div class="relative game-card min-w-[300px] rounded-2xl overflow-hidden shadow-2xl cursor-pointer neon-border">
+    <img src="img/fnf.jpg" alt="Batman Arkham Knight Premium Edition" class="w-full h-48 object-fit: cover">
+    <div class="overlay absolute inset-0 backdrop-blur-md bg-black/60 flex flex-col justify-end p-4 text-white">
+      <h3 class="text-xl font-bold">Fight Night Forever</h3>
+      <p class="text-sm text-red-300">ZIP FILE SIZE: 6.28 GB</p>
+      <a href="https://drive.google.com/file/d/1sdhU_8_hM_-npYlZm5OmlkQ9a2sC5uB6/view?usp=drive_link" target="_blank" class="mt-3 inline-block bg-cyan-600 hover:bg-cyan-700 px-4 py-2 rounded-md text-sm font-semibold transition shadow-lg">Download</a>
+    </div>
+  </div>
+
           <!-- Featured Game 1 -->
  
   <div class="relative game-card min-w-[300px] rounded-2xl overflow-hidden shadow-2xl cursor-pointer neon-border">
