@@ -95,7 +95,25 @@ if (!isset($_SESSION['username'])) {
         <h2 class="text-4xl font-extrabold mb-6 text-cyan-400">Hot Games</h2>
         <div class="carousel flex space-x-6 overflow-x-auto pb-4">
 
-                  <!-- Featured Game 0 -->
+         <!-- Start of Featured Games -->
+
+  <div class="relative game-card min-w-[300px] rounded-2xl overflow-hidden shadow-2xl cursor-pointer neon-border">
+    <img src="img/motogp-22.jpg" alt="Batman Arkham Knight Premium Edition" class="w-full h-48 object-fit: cover">
+    <div class="overlay absolute inset-0 backdrop-blur-md bg-black/60 flex flex-col justify-end p-4 text-white">
+      <h3 class="text-xl font-bold">MotoGP 22</h3>
+      <p class="text-sm text-red-300">ZIP FILE SIZE: 27.15 GB</p>
+      <a href="https://drive.google.com/file/d/1kcUQoGJIE0kh_qXTkuu7hRNk024zYEUH/view?usp=drive_link" target="_blank" class="mt-3 inline-block bg-cyan-600 hover:bg-cyan-700 px-4 py-2 rounded-md text-sm font-semibold transition shadow-lg">Download</a>
+    </div>
+  </div>
+
+  <div class="relative game-card min-w-[300px] rounded-2xl overflow-hidden shadow-2xl cursor-pointer neon-border">
+    <img src="img/t8-ult-ed.jpg" alt="Batman Arkham Knight Premium Edition" class="w-full h-48 object-fit: cover">
+    <div class="overlay absolute inset-0 backdrop-blur-md bg-black/60 flex flex-col justify-end p-4 text-white">
+      <h3 class="text-xl font-bold">Tekken 8 Ultimate Edition</h3>
+      <p class="text-sm text-red-300">ZIP FILE SIZE: 101.98 GB</p>
+      <a href="https://drive.google.com/file/d/1UrZJlh6QDp_JI24JKm-qsApBJw6N90zX/view?usp=drive_link" target="_blank" class="mt-3 inline-block bg-cyan-600 hover:bg-cyan-700 px-4 py-2 rounded-md text-sm font-semibold transition shadow-lg">Download</a>
+    </div>
+  </div>
  
   <div class="relative game-card min-w-[300px] rounded-2xl overflow-hidden shadow-2xl cursor-pointer neon-border">
     <img src="img/fnf.jpg" alt="Batman Arkham Knight Premium Edition" class="w-full h-48 object-fit: cover">
@@ -106,37 +124,8 @@ if (!isset($_SESSION['username'])) {
     </div>
   </div>
 
-          <!-- Featured Game 1 -->
- 
-  <div class="relative game-card min-w-[300px] rounded-2xl overflow-hidden shadow-2xl cursor-pointer neon-border">
-    <img src="img/batman-arkham-premium.jpg" alt="Batman Arkham Knight Premium Edition" class="w-full h-48 object-fit: cover">
-    <div class="overlay absolute inset-0 backdrop-blur-md bg-black/60 flex flex-col justify-end p-4 text-white">
-      <h3 class="text-xl font-bold">Batman Arkham Knight Premium Edition</h3>
-      <p class="text-sm text-red-300">ZIP FILE SIZE: 50.35 GB</p>
-      <a href="https://drive.google.com/file/d/1A7nzFnYkmFvk7DV93IsjuGwIJmryKUMs/view?usp=drive_link" target="_blank" class="mt-3 inline-block bg-cyan-600 hover:bg-cyan-700 px-4 py-2 rounded-md text-sm font-semibold transition shadow-lg">Download</a>
-    </div>
-  </div>
-
-  <!-- Featured Game 2 -->
-  <div class="relative game-card min-w-[300px] rounded-2xl overflow-hidden shadow-2xl cursor-pointer neon-border">
-    <img src="img/gow-rag-deluxe.jpg" alt="God of War Ragnarok Deluxe Edition" class="w-full h-48 object-fit: cover">
-    <div class="overlay absolute inset-0 backdrop-blur-md bg-black/60 flex flex-col justify-end p-4 text-white">
-      <h3 class="text-xl font-bold">God of War Ragnarok Deluxe Edition</h3>
-      <p class="text-sm text-red-300">ZIP FILE SIZE: 110.09 GB</p>
-      <a href="https://drive.google.com/file/d/1yZsTmM7gRjtpKgQqZ8WCjfMm8dVZYOzI/view?usp=drive_link" target="_blank" class="mt-3 inline-block bg-cyan-600 hover:bg-cyan-700 px-4 py-2 rounded-md text-sm font-semibold transition shadow-lg">Download</a>
-    </div>
-  </div>
-
-  <!-- Featured Game 3 -->
-  <div class="relative game-card min-w-[300px] rounded-2xl overflow-hidden shadow-2xl cursor-pointer neon-border">
-    <img src="img/got-director's-cut.jpeg" alt="Ghost of Tsushima Director's Cut" class="w-full h-48 object-fit: cover">
-    <div class="overlay absolute inset-0 backdrop-blur-md bg-black/60 flex flex-col justify-end p-4 text-white">
-      <h3 class="text-xl font-bold">Ghost of Tsushima Director's Cut</h3>
-      <p class="text-sm text-red-300">ZIP FILE SIZE: 45.97 GB</p>
-      <a href="https://drive.google.com/file/d/1CfIB34dGlA875YJO9_O20BSnUANe7bbD/view?usp=drive_link" target="_blank" class="mt-3 inline-block bg-cyan-600 hover:bg-cyan-700 px-4 py-2 rounded-md text-sm font-semibold transition shadow-lg">Download</a>
-    </div>
-  </div>
 </div>
+
 
   <!-- End of featured Games -->
 
@@ -146,6 +135,42 @@ if (!isset($_SESSION['username'])) {
           <h2 class="text-4xl font-extrabold mb-6 text-cyan-400">🎮 All PC Games</h2>
 
           <div id="gamesGrid" class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-10">
+
+          <!-- Game Card Template -->
+            <div class="game-card bg-gradient-to-br from-gray-800 to-gray-900 rounded-2xl overflow-hidden shadow-xl neon-border">
+              <img src="img/batman-arkham-premium.jpg" alt="Naruto Shippuden Ultimate Ninja Storm 4" class="w-full h-48 object-fit: cover">
+              <div class="p-5">
+                <h3 class="font-bold text-xl text-white mb-1">Batman Arkham Knight Premium Edition</h3>
+                <br>
+                <p class="text-red-400 text-sm mb-4">ZIP FILE SIZE: 50.35 GB</p>
+                <a href="https://drive.google.com/file/d/1A7nzFnYkmFvk7DV93IsjuGwIJmryKUMs/view?usp=drive_link" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-5 rounded-md shadow-md transition">Download</a>
+                <a href="https://www.youtube.com/watch?v=9cViXIp1zYU" target="_blank" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-5 rounded-md shadow-md transition">Gameplay</a>
+              </div>
+            </div>
+
+          <!-- Game Card Template -->
+            <div class="game-card bg-gradient-to-br from-gray-800 to-gray-900 rounded-2xl overflow-hidden shadow-xl neon-border">
+              <img src="img/gow-rag-deluxe.jpg" alt="Naruto Shippuden Ultimate Ninja Storm 4" class="w-full h-48 object-fit: cover">
+              <div class="p-5">
+                <h3 class="font-bold text-xl text-white mb-1">God of War Ragnarok Deluxe Edition</h3>
+                <br>
+                <p class="text-red-400 text-sm mb-4">ZIP FILE SIZE: 110.09 GB</p>
+                <a href="https://drive.google.com/file/d/1yZsTmM7gRjtpKgQqZ8WCjfMm8dVZYOzI/view?usp=drive_link" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-5 rounded-md shadow-md transition">Download</a>
+                <a href="https://www.youtube.com/watch?v=OHy6Zz6YXOU" target="_blank" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-5 rounded-md shadow-md transition">Gameplay</a>
+              </div>
+            </div>
+
+          <!-- Game Card Template -->
+            <div class="game-card bg-gradient-to-br from-gray-800 to-gray-900 rounded-2xl overflow-hidden shadow-xl neon-border">
+              <img src="img/got-director's-cut.jpeg" alt="Naruto Shippuden Ultimate Ninja Storm 4" class="w-full h-48 object-fit: cover">
+              <div class="p-5">
+                <h3 class="font-bold text-xl text-white mb-1">Ghost of Tsushima Director's Cut</h3>
+                <br>
+                <p class="text-red-400 text-sm mb-4">ZIP FILE SIZE: 45.97 GB</p>
+                <a href="https://drive.google.com/file/d/1CfIB34dGlA875YJO9_O20BSnUANe7bbD/view?usp=drive_link" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-5 rounded-md shadow-md transition">Download</a>
+                <a href="https://www.youtube.com/watch?v=zHw9aIxirJ4&list=PLHvnuL-DiXkjLn6bgErkzXY14uFItlwye" target="_blank" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-5 rounded-md shadow-md transition">Gameplay</a>
+              </div>
+            </div>
 
           <!-- Game Card Template -->
             <div class="game-card bg-gradient-to-br from-gray-800 to-gray-900 rounded-2xl overflow-hidden shadow-xl neon-border">

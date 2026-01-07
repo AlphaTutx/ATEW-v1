@@ -72,53 +72,53 @@
                               <!-- START OF EMU for CP -->
 <section>
 
-          <h2 class="text-4xl font-extrabold mb-6 text-cyan-400">Emulators for CP</h2>
+          <h2 class="text-4xl font-extrabold mb-6 text-cyan-400">EMULATORS FOR PHONES</h2>
 
       <div id="gamesGrid" class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-10">
 
             <!-- Game Card Template -->
             <div class="game-card bg-gradient-to-br from-gray-800 to-gray-900 rounded-2xl overflow-hidden shadow-xl neon-border">
-              <img src="img4/gamehub.jpg" alt="Warcraft_III Frozen Throne - CD keys" class="w-full h-48 object-fit: cover">
+              <img src="img4/cp-gamehub.jpg" alt="Warcraft_III Frozen Throne - CD keys" class="w-full h-48 object-fit: cover">
               <div class="p-5">
                 <h3 class="font-bold text-xl text-white mb-1">GameHub</h3>
                 <br>
-                <p class="text-red-400 text-sm mb-4">Windows Emulator</p>
+                <p class="text-red-400 text-sm mb-4">For CP | Windows Emulator</p>
                 <a href="https://gamehub.xiaoji.com/download/" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-4 rounded-md shadow-md transition">Download</a>
               </div>
             </div>
 
             <!-- Game Card Template -->
             <div class="game-card bg-gradient-to-br from-gray-800 to-gray-900 rounded-2xl overflow-hidden shadow-xl neon-border">
-              <img src="img4/yuzu-pc.jpg" alt="Warcraft_III Frozen Throne - CD keys" class="w-full h-48 object-fit: cover">
+              <img src="img4/cp-yuzu.jpg" alt="Warcraft_III Frozen Throne - CD keys" class="w-full h-48 object-fit: cover">
               <div class="p-5">
                 <h3 class="font-bold text-xl text-white mb-1">YUZU</h3>
                 <br>
-                <p class="text-red-400 text-sm mb-4">Nintendo Switch Emulator</p>
+                <p class="text-red-400 text-sm mb-4">For CP | Nintendo Switch Emulator</p>
                 <a href="https://files.yuzuemulators.com/yuzu-emulator-for-android-by-yuzuemulators.com.apk" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-4 rounded-md shadow-md transition">Download</a>
-                <a href="https://files.yuzuemulators.com/yuzu-emulator-for-android-by-yuzuemulators.com.apk" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-4 rounded-md shadow-md transition">Prodkey/firm</a>
+                <a href="https://docs.google.com/document/d/1_TwgiLhEqx3WMdj5EGsxXcFB8NkhfT-opBuCM18Y5ps/edit?usp=drive_link" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-3 rounded-md shadow-md transition">Prodkey/Firm</a>
               </div>
             </div>
 
             <!-- Game Card Template -->
             <div class="game-card bg-gradient-to-br from-gray-800 to-gray-900 rounded-2xl overflow-hidden shadow-xl neon-border">
-              <img src="img4/ppsspp-g.jpeg" alt="Warcraft_III Frozen Throne - CD keys" class="w-full h-48 object-fit: cover">
+              <img src="img4/cp-ppsspp-g.jpeg" alt="Warcraft_III Frozen Throne - CD keys" class="w-full h-48 object-fit: cover">
               <div class="p-5">
                 <h3 class="font-bold text-xl text-white mb-1">PPSSPP Gold</h3>
                 <br>
-                <p class="text-red-400 text-sm mb-4">PSP Emulator</p>
+                <p class="text-red-400 text-sm mb-4">For CP | PSP Emulator</p>
                 <a href="https://drive.google.com/file/d/1EhuTb7UUeLLwyHjqwwefpGK12Xa9pRqQ/view?usp=drive_link" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-4 rounded-md shadow-md transition">Download</a>
               </div>
             </div>
 
             <!-- Game Card Template -->
             <div class="game-card bg-gradient-to-br from-gray-800 to-gray-900 rounded-2xl overflow-hidden shadow-xl neon-border">
-              <img src="img4/aethersx2.jpg" alt="Warcraft_III Frozen Throne - CD keys" class="w-full h-48 object-fit: cover">
+              <img src="img4/cp-aethersx2.jpg" alt="Warcraft_III Frozen Throne - CD keys" class="w-full h-48 object-fit: cover">
               <div class="p-5">
                 <h3 class="font-bold text-xl text-white mb-1">AetherSX2</h3>
                 <br>
-                <p class="text-red-400 text-sm mb-4">PS2 Emulator</p>
+                <p class="text-red-400 text-sm mb-4">For CP | PS2 Emulator</p>
                 <a href="https://drive.google.com/file/d/10LBEbLxuVEQDrw-Ln0xyhg6AutWUIWKQ/view?usp=drive_link" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-4 rounded-md shadow-md transition">Download</a>
-                <a href="https://drive.google.com/file/d/15dyAE8FBI-qcElRiuWkQfffdWZf___Sa/view?usp=drive_link" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-4 rounded-md shadow-md transition">BIOS Link</a>
+                <a href="https://drive.google.com/file/d/15dyAE8FBI-qcElRiuWkQfffdWZf___Sa/view?usp=drive_link" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-7 rounded-md shadow-md transition">BIOS Link</a>
               </div>
             </div>
 
@@ -128,10 +128,163 @@
 
                               <!-- END OF EMU for CP -->
 
+
                               <!-- START OF EMU for PC -->
 <section>
 
-          <h2 class="text-4xl font-extrabold mb-6 text-cyan-400">Emulators with Roms for PC</h2>
+          <h2 class="text-4xl font-extrabold mb-6 text-cyan-400">EMULATORS FOR COMPUTER</h2>
+
+      <div id="gamesGrid" class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-10">
+
+            <!-- Game Card Template -->
+            <div class="game-card bg-gradient-to-br from-gray-800 to-gray-900 rounded-2xl overflow-hidden shadow-xl neon-border">
+              <img src="img4/pc-yuzu.jpeg" alt="Warcraft_III Frozen Throne - CD keys" class="w-full h-48 object-fit: cover">
+              <div class="p-5">
+                <h3 class="font-bold text-xl text-white mb-1">YUZU</h3>
+                <br>
+                <p class="text-red-400 text-sm mb-4">For PC | Nintendo Switch Emulator</p>
+                <a href="https://files.yuzuemulators.com/yuzu-emulator-by-yuzuemulators.com.zip" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-4 rounded-md shadow-md transition">Download</a>
+                <a href="https://docs.google.com/document/d/1_TwgiLhEqx3WMdj5EGsxXcFB8NkhfT-opBuCM18Y5ps/edit?usp=drive_link" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-3 rounded-md shadow-md transition">Prodkey/Firm</a>
+              </div>
+            </div>
+
+            <!-- Game Card Template -->
+            <div class="game-card bg-gradient-to-br from-gray-800 to-gray-900 rounded-2xl overflow-hidden shadow-xl neon-border">
+              <img src="img4/pc-ryujinx.jpg" alt="Warcraft_III Frozen Throne - CD keys" class="w-full h-48 object-fit: cover">
+              <div class="p-5">
+                <h3 class="font-bold text-xl text-white mb-1">RYUJINX</h3>
+                <br>
+                <p class="text-red-400 text-sm mb-4">For PC | Nintendo Switch Emulator</p>
+                <a href="https://ryujinx.app/" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-4 rounded-md shadow-md transition">Download</a>
+                <a href="https://docs.google.com/document/d/1_TwgiLhEqx3WMdj5EGsxXcFB8NkhfT-opBuCM18Y5ps/edit?usp=drive_link" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-3 rounded-md shadow-md transition">Prodkey/Firm</a>
+              </div>
+            </div>
+
+            <!-- Game Card Template -->
+            <div class="game-card bg-gradient-to-br from-gray-800 to-gray-900 rounded-2xl overflow-hidden shadow-xl neon-border">
+              <img src="img4/pc-rpcs3.jpg" alt="Warcraft_III Frozen Throne - CD keys" class="w-full h-48 object-fit: cover">
+              <div class="p-5">
+                <h3 class="font-bold text-xl text-white mb-1">RPCS3</h3>
+                <br>
+                <p class="text-red-400 text-sm mb-4">For PC | PS3 Emulator</p>
+                <a href="https://github.com/RPCS3/rpcs3-binaries-win/releases/download/build-9b3a878c189e4e688b6025de0d0ff659116dcade/rpcs3-v0.0.28-15417-9b3a878c_win64.7z" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-4 rounded-md shadow-md transition">Download</a>
+                <a href="https://www.techspot.com/drivers/downloadnow/17026/?evp=e5872941eb4981c88edf5911074dd059&file=25800" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-7 rounded-md shadow-md transition">Firmware</a>
+              </div>
+            </div>
+
+            <!-- Game Card Template -->
+            <div class="game-card bg-gradient-to-br from-gray-800 to-gray-900 rounded-2xl overflow-hidden shadow-xl neon-border">
+              <img src="img4/pc-dolphin.jpg" alt="Warcraft_III Frozen Throne - CD keys" class="w-full h-48 object-fit: cover">
+              <div class="p-5">
+                <h3 class="font-bold text-xl text-white mb-1">Dolphin</h3>
+                <br>
+                <p class="text-red-400 text-sm mb-4">For PC | GameCube and Wii Emulator</p>
+                <a href="https://dl.dolphin-emu.org/releases/2512/dolphin-2512-x64.7z" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-4 rounded-md shadow-md transition">Download</a>
+              </div>
+            </div>
+
+            <!-- Game Card Template -->
+            <div class="game-card bg-gradient-to-br from-gray-800 to-gray-900 rounded-2xl overflow-hidden shadow-xl neon-border">
+              <img src="img4/pc-pcsx2.png" alt="Warcraft_III Frozen Throne - CD keys" class="w-full h-48 object-fit: cover">
+              <div class="p-5">
+                <h3 class="font-bold text-xl text-white mb-1">PCSX2</h3>
+                <br>
+                <p class="text-red-400 text-sm mb-4">For PC | PS2 Emulator</p>
+                <a href="https://github.com/PCSX2/pcsx2/releases/download/v2.6.1/PCSX2-v2.6.1-windows-x64-installer.exe" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-4 rounded-md shadow-md transition">Download</a>
+                <a href="https://archive.org/download/ps2-bios-megadump/PS2_BIOS.zip" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-7 rounded-md shadow-md transition">BIOS Link</a>
+              </div>
+            </div>
+
+            <!-- Game Card Template -->
+            <div class="game-card bg-gradient-to-br from-gray-800 to-gray-900 rounded-2xl overflow-hidden shadow-xl neon-border">
+              <img src="img4/pc-ppsspp.png" alt="Warcraft_III Frozen Throne - CD keys" class="w-full h-48 object-fit: cover">
+              <div class="p-5">
+                <h3 class="font-bold text-xl text-white mb-1">PPSSPP</h3>
+                <br>
+                <p class="text-red-400 text-sm mb-4">For PC | PSP Emulator</p>
+                <a href="https://www.ppsspp.org/files/1_19_3/PPSSPPSetup.exe" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-4 rounded-md shadow-md transition">Download</a>
+              </div>
+            </div>
+
+            <!-- Game Card Template -->
+            <div class="game-card bg-gradient-to-br from-gray-800 to-gray-900 rounded-2xl overflow-hidden shadow-xl neon-border">
+              <img src="img4/pc-xenia.png" alt="Warcraft_III Frozen Throne - CD keys" class="w-full h-48 object-fit: cover">
+              <div class="p-5">
+                <h3 class="font-bold text-xl text-white mb-1">XENIA</h3>
+                <br>
+                <p class="text-red-400 text-sm mb-4">For PC | XBOX 360 Emulator</p>
+                <a href="https://xenia.jp/download/" target="_blank" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-4 rounded-md shadow-md transition">Download</a>
+              </div>
+            </div>
+
+            <!-- Game Card Template -->
+            <div class="game-card bg-gradient-to-br from-gray-800 to-gray-900 rounded-2xl overflow-hidden shadow-xl neon-border">
+              <img src="img4/pc-xemu.png" alt="Warcraft_III Frozen Throne - CD keys" class="w-full h-48 object-fit: cover">
+              <div class="p-5">
+                <h3 class="font-bold text-xl text-white mb-1">XEMU</h3>
+                <br>
+                <p class="text-red-400 text-sm mb-4">For PC | XBOX Emulator</p>
+                <a href="https://github.com/xemu-project/xemu/releases/latest/download/xemu-win-x86_64-release.zip" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-4 rounded-md shadow-md transition">Download</a>
+              </div>
+            </div>
+
+            <!-- Game Card Template -->
+            <div class="game-card bg-gradient-to-br from-gray-800 to-gray-900 rounded-2xl overflow-hidden shadow-xl neon-border">
+              <img src="img4/pc-project64.png" alt="Warcraft_III Frozen Throne - CD keys" class="w-full h-48 object-fit: cover">
+              <div class="p-5">
+                <h3 class="font-bold text-xl text-white mb-1">Project 64</h3>
+                <br>
+                <p class="text-red-400 text-sm mb-4">For PC | Nintendo 64 Emulator</p>
+                <a href="https://www.pj64-emu.com/download/project64-3-0-1-installer" target="_blank" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-4 rounded-md shadow-md transition">Download</a>
+              </div>
+            </div>
+
+            <!-- Game Card Template -->
+            <div class="game-card bg-gradient-to-br from-gray-800 to-gray-900 rounded-2xl overflow-hidden shadow-xl neon-border">
+              <img src="img4/pc-citra.png" alt="Warcraft_III Frozen Throne - CD keys" class="w-full h-48 object-fit: cover">
+              <div class="p-5">
+                <h3 class="font-bold text-xl text-white mb-1">Citra</h3>
+                <br>
+                <p class="text-red-400 text-sm mb-4">For PC | Nintendo 3DS Emulator</p>
+                <a href="https://archive.org/download/citra-emu_202403/citra-windows-msvc-20240303-0ff3440_nightly.zip" target="_blank" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-4 rounded-md shadow-md transition">Download</a>
+              </div>
+            </div>
+
+            <!-- Game Card Template -->
+            <div class="game-card bg-gradient-to-br from-gray-800 to-gray-900 rounded-2xl overflow-hidden shadow-xl neon-border">
+              <img src="img4/pc-vita3k.jpg" alt="Warcraft_III Frozen Throne - CD keys" class="w-full h-48 object-fit: cover">
+              <div class="p-5">
+                <h3 class="font-bold text-xl text-white mb-1">Vita3K</h3>
+                <br>
+                <p class="text-red-400 text-sm mb-4">For PC | PS Vita Emulator</p>
+                <a href="https://github.com/Vita3K/Vita3K/releases/download/continuous/windows-latest.zip?time=1767769481364" target="_blank" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-4 rounded-md shadow-md transition">Download</a>
+                <a href="https://www.techspot.com/drivers/downloadnow/16996/?evp=18a2ff72d899c9289ff282e7a9a6039a&file=21900" target="_blank" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-7 rounded-md shadow-md transition">Firmware</a>
+              </div>
+            </div>
+
+            <!-- Game Card Template -->
+            <div class="game-card bg-gradient-to-br from-gray-800 to-gray-900 rounded-2xl overflow-hidden shadow-xl neon-border">
+              <img src="img4/pc-redream.png" alt="Warcraft_III Frozen Throne - CD keys" class="w-full h-48 object-fit: cover">
+              <div class="p-5">
+                <h3 class="font-bold text-xl text-white mb-1">Redream</h3>
+                <br>
+                <p class="text-red-400 text-sm mb-4">For PC | Dreamcast Emulator</p>
+                <a href="https://redream.io/download/redream.x86_64-windows-v1.5.0.zip" target="_blank" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-4 rounded-md shadow-md transition">Download</a>
+              </div>
+            </div>
+
+      </div>
+          
+</section>
+
+                              <!-- END OF EMU for PC -->
+
+
+
+                              <!-- START OF EMU for PC -->
+<section>
+
+          <h2 class="text-4xl font-extrabold mb-6 text-cyan-400">EMULATORS WITH ROMS FOR PC | No set-up needed</h2>
 
       <div id="gamesGrid" class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-10">
 
@@ -166,13 +319,27 @@
 
 <section>
 
-<h2 class="text-4xl font-extrabold mb-6 text-cyan-400">ROMS</h2>
+<h2 class="text-4xl font-extrabold mb-6 text-cyan-400">ROMS DOWNLOAD AREA</h2>
 
 <!-- PPSSPP ROMS -->
 
 <h3 class="text-4xl mb-6 text-red-400">PPSSPP</h3>
 
 <div class="grid grid-cols-1 md:grid-cols-2 gap-y-16 gap-x-20">
+
+  <div>
+
+      <p>All PSP ROMS : 
+        <a href="https://romsfun.com/roms/playstation/" 
+           target="_blank"
+           class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-4 px-8 rounded-md shadow-md transition">
+          PSP ROMS
+        </a>
+      </p>
+
+  </div>
+
+  <BR>
 
   <div>
       <p>Final fantasy - DISSIDIA 012 :
@@ -210,11 +377,25 @@
 
 <!-- PS2 ROMS -->
 
-<BR></BR>
+<BR></BR><BR></BR>
 
 <h3 class="text-4xl mb-6 text-red-400">PS2</h3>
 
 <div class="grid grid-cols-1 md:grid-cols-2 gap-y-16 gap-x-20">
+
+  <div>
+
+      <p>All PS2 ROMS : 
+        <a href="https://romsfun.com/roms/playstation-2/" 
+           target="_blank"
+           class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-4 px-8 rounded-md shadow-md transition">
+          PS2 ROMS
+        </a>
+      </p>
+
+  </div>
+
+  <BR>
 
   <div>
       <p>Shadow of Colossus : 
@@ -248,15 +429,67 @@
 
 </div>
 
-<BR></BR>
+<BR></BR><BR></BR>
 
+<h3 class="text-4xl mb-6 text-red-400">PS3</h3>
 
+<div class="grid grid-cols-1 md:grid-cols-2 gap-y-16 gap-x-20">
+
+  <div>
+
+      <p>All PS3 ROMS : 
+        <a href="https://romsfun.com/roms/ps3/" 
+           target="_blank"
+           class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-4 px-8 rounded-md shadow-md transition">
+          PS3 ROMS
+        </a>
+      </p>
+
+  </div>
+
+</div>
+
+<BR></BR><BR></BR>
+
+<h3 class="text-4xl mb-6 text-red-400">PS VITA</h3>
+
+<div class="grid grid-cols-1 md:grid-cols-2 gap-y-16 gap-x-20">
+
+  <div>
+
+      <p>All PS VITA ROMS : 
+        <a href="https://romsfun.com/roms/ps-vita/" 
+           target="_blank"
+           class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-4 px-8 rounded-md shadow-md transition">
+          PS VITA ROMS
+        </a>
+      </p>
+
+  </div>
+
+</div>
+
+<BR></BR><BR></BR>
 
 <!-- NINTENDO SWITCH ROMS -->
 
 <h3 class="text-4xl mb-6 text-red-400">NINTENDO SWITCH</h3>
 
 <div class="grid grid-cols-1 md:grid-cols-2 gap-y-16 gap-x-20">
+
+  <div>
+
+      <p>All Nintendo Switch ROMS : 
+        <a href="https://switchrom.net/" 
+           target="_blank"
+           class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-4 px-8 rounded-md shadow-md transition">
+          Switch ROMS
+        </a>
+      </p>
+
+  </div>
+
+  <BR>
 
   <div>
       <p>Luigi's Mansion 3 : 
@@ -285,9 +518,9 @@
       </p>
 
       <p class="mt-4">Download Link/s : 
-        <a href="https://drive.google.com/file/d/1MDRj4zHvKlI3bnYg9a006Hdz6qndi_sP/view?usp=drive_link" target="_blank" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-4 rounded-md shadow-md transition">BASE</a>
-        <a href="https://drive.google.com/file/d/1-abZHX-8HT46KoZVPQ41sqkSF6GKLAgH/view?usp=drive_link" target="_blank" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-4 rounded-md shadow-md transition">UPDATE</a>
-        <a href="https://drive.google.com/file/d/1nxYQit2Isu_6stuKXicO-DSsQuXrzSnU/view?usp=drive_link" target="_blank" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-4 rounded-md shadow-md transition">DLC's</a>
+        <a href="https://drive.google.com/file/d/13-4pCKw8xENHBCOv9K247m2cOLBqVRUb/view?usp=drive_link" target="_blank" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-4 rounded-md shadow-md transition">BASE</a>
+        <a href="https://drive.google.com/file/d/1RZCBAv9gbLIDiXcaBK9UJ-PZhr2M4AGg/view?usp=drive_link" target="_blank" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-4 rounded-md shadow-md transition">UPDATE</a>
+        <a href="https://drive.google.com/file/d/1mHTF3yy_yM2GEh9pi67z89zj9qOClPq5/view?usp=drive_link" target="_blank" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-4 rounded-md shadow-md transition">DLC's</a>
       </p>
 
   </div>
@@ -302,8 +535,8 @@
       </p>
 
       <p class="mt-4">Download Link/s : 
-        <a href="https://drive.google.com/file/d/1eNOAfwo8br-KFi6zBH7J4iKWSzJF1Bt3/view?usp=drive_link" target="_blank" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-4 rounded-md shadow-md transition">BASE</a>
-        <a href="https://drive.google.com/file/d/1eNOAfwo8br-KFi6zBH7J4iKWSzJF1Bt3/view?usp=drive_link" target="_blank" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-4 rounded-md shadow-md transition">UPDATE</a>
+        <a href="https://drive.google.com/file/d/14NIuf5u_kHlaCyK5mOwBShGImIiwiUtO/view?usp=drive_link" target="_blank" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-4 rounded-md shadow-md transition">BASE</a>
+        <a href="https://drive.google.com/file/d/1BAiLFzzF62C5sa--xbFzrlDUG4rPqOyQ/view?usp=drive_link" target="_blank" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-4 rounded-md shadow-md transition">UPDATE</a>
       </p>
 
   </div>
@@ -324,10 +557,170 @@
   </div>
 
 </div>
+
+<BR></BR><BR></BR>
+
+<h3 class="text-4xl mb-6 text-red-400">GameCube</h3>
+
+<div class="grid grid-cols-1 md:grid-cols-2 gap-y-16 gap-x-20">
+
+  <div>
+
+      <p>All GameCube ROMS : 
+        <a href="https://romsfun.com/roms/gamecube/" 
+           target="_blank"
+           class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-4 px-8 rounded-md shadow-md transition">
+          GameCube ROMS
+        </a>
+      </p>
+
+  </div>
+
+</div>
+
+<BR></BR><BR></BR>
+
+<h3 class="text-4xl mb-6 text-red-400">Wii</h3>
+
+<div class="grid grid-cols-1 md:grid-cols-2 gap-y-16 gap-x-20">
+
+  <div>
+
+      <p>All Wii ROMS : 
+        <a href="https://romsfun.com/roms/gamecube/" 
+           target="_blank"
+           class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-4 px-8 rounded-md shadow-md transition">
+          Wii ROMS
+        </a>
+      </p>
+
+  </div>
+
+</div>
+
+<BR></BR><BR></BR>
+
+<h3 class="text-4xl mb-6 text-red-400">Nintendo 64</h3>
+
+<div class="grid grid-cols-1 md:grid-cols-2 gap-y-16 gap-x-20">
+
+  <div>
+
+      <p>All Nintendo 64 ROMS : 
+        <a href="https://romsfun.com/roms/nintendo-64/" 
+           target="_blank"
+           class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-4 px-8 rounded-md shadow-md transition">
+          Nintendo 64 ROMS
+        </a>
+      </p>
+
+  </div>
+
+</div>
+
+<BR></BR><BR></BR>
+
+<h3 class="text-4xl mb-6 text-red-400">Nintendo 3DS</h3>
+
+<div class="grid grid-cols-1 md:grid-cols-2 gap-y-16 gap-x-20">
+
+  <div>
+
+      <p>All Nintendo 3DS ROMS : 
+        <a href="https://romsfun.com/roms/nintendo-3ds/" 
+           target="_blank"
+           class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-4 px-8 rounded-md shadow-md transition">
+          Nintendo 3DS ROMS
+        </a>
+      </p>
+
+  </div>
+
+</div>
+
+<BR></BR><BR></BR>
+
+<h3 class="text-4xl mb-6 text-red-400">Nintendo Wii</h3>
+
+<div class="grid grid-cols-1 md:grid-cols-2 gap-y-16 gap-x-20">
+
+  <div>
+
+      <p>All Nintendo Wii ROMS : 
+        <a href="https://romsfun.com/roms/nintendo-wii/" 
+           target="_blank"
+           class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-4 px-8 rounded-md shadow-md transition">
+          Nintendo Wii ROMS
+        </a>
+      </p>
+
+  </div>
+
+</div>
+
+<BR></BR><BR></BR>
+
+<h3 class="text-4xl mb-6 text-red-400">XBOX</h3>
+
+<div class="grid grid-cols-1 md:grid-cols-2 gap-y-16 gap-x-20">
+
+  <div>
+
+      <p>All XBOX ROMS : 
+        <a href="https://romsfun.com/roms/xbox/" 
+           target="_blank"
+           class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-4 px-8 rounded-md shadow-md transition">
+          XBOX ROMS
+        </a>  
+      </p>
+
+  </div>
+
+</div>
+
+<BR></BR><BR></BR>
+
+<h3 class="text-4xl mb-6 text-red-400">XBOX 360</h3>
+
+<div class="grid grid-cols-1 md:grid-cols-2 gap-y-16 gap-x-20">
+
+  <div>
+
+      <p>All XBOX 360 ROMS : 
+        <a href="https://romsfun.com/roms/xbox-360/" 
+           target="_blank"
+           class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-4 px-8 rounded-md shadow-md transition">
+          XBOX 360 ROMS
+        </a>
+      </p>
+
+  </div>
+
+</div>
+
+<BR></BR><BR></BR>
+
+<h3 class="text-4xl mb-6 text-red-400">Dreamcast</h3>
+
+<div class="grid grid-cols-1 md:grid-cols-2 gap-y-16 gap-x-20">
+
+  <div>
+
+      <p>All Dreamcast ROMS : 
+        <a href="https://romsfun.com/roms/dreamcast/" 
+           target="_blank"
+           class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-4 px-8 rounded-md shadow-md transition">
+          Dreamcast ROMS
+        </a>
+      </p>
+
+  </div>
+
+</div>
           
 </section>
 
-<!-- END of PPSSPP ROMS -->
+<!-- END of ROMS -->
 
 </main>
 

@@ -70,6 +70,28 @@
 
 <section>
 
+          <h2 class="text-4xl font-extrabold mb-6 text-red-400">Emulator Tutorials</h2>
+
+      <div id="gamesGrid" class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-10">
+
+            <!-- Game Card Template -->
+            <div class="game-card bg-gradient-to-br from-gray-800 to-gray-900 rounded-2xl overflow-hidden shadow-xl neon-border">
+              <img src="img2/missing dll's 2k14.png" alt="Cyberpunk 2077 Phantom Liberty" class="w-full h-48 object-fit: cover">
+              <div class="p-5">
+                <h3 class="font-bold text-xl text-white mb-1">Guide for Xenia Emu</h3>
+                <br>
+                <br>
+                <p class="text-red-400 text-sm mb-4">XBOX 360 Emulator</p>
+                <a href="https://www.youtube.com/watch?v=0IRoWca_7Kw" target="_blank" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-4 rounded-md shadow-md transition">Video Tutorial</a>
+              </div>
+            </div>
+
+      </div>
+            
+</section>
+
+<section>
+
           <h2 class="text-4xl font-extrabold mb-6 text-red-400">CP Games Fix</h2>
 
       <div id="gamesGrid" class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-10">
