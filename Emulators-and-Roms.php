@@ -18,7 +18,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Premium CP Apps</title>
+    <title>Emulators & Roms</title>
     <script src="https://cdn.tailwindcss.com"></script>
     <link rel="stylesheet" href="style2.css">
 </head>
@@ -31,15 +31,14 @@
         <div class="text-3xl font-extrabold text-cyan-400 tracking-wider drop-shadow-md animate-pulse" >Emulators & Roms</div>
         
         <nav class="hidden md:flex space-x-6 text-gray-300">
-          <a href="login.php" class="hover:text-cyan-400 transition font-semibold">PC Games</a>
-          <a href="cp-games.php" class="hover:text-cyan-400 transition font-semibold">CP Games</a>
-          <a href="premium-cp-apps.php" class="hover:text-cyan-400 transition font-semibold">Premium CP Apps</a>
-          <a href="Emulators-and-Roms.php" class="hover:text-cyan-400 transition font-semibold">Emulators&Roms</a>        
-          <a href="gamesuppfix.php" class="hover:text-cyan-400 transition font-semibold">Game Support/Fix</a>
-          <a href="18-section.php" class="hover:text-cyan-400 transition font-semibold">18+ Section</a>
-          <a href="https://www.facebook.com/profile.php?id=100087598551338" target="_blank" class="hover:text-cyan-400 transition font-semibold">Fb Page</a>
-          <a href="https://docs.google.com/spreadsheets/d/14crWaue7VCDUBApUCCkyZkLNzjpLTrjKyMYSNzY_8jc/edit?usp=drive_link" target="_blank" class="hover:text-cyan-400 transition font-semibold">Request a game</a>
-          <a href="logout.php" class="text-red-500 hover:text-red-700 transition font-semibold">Logout</a>
+          <a href="login.php" class="hover:text-cyan-400 transition font-semibold">| PC Games |</a>
+          <a href="cp-games.php" class="hover:text-cyan-400 transition font-semibold">| CP Games |</a>
+          <a href="premium-cp-apps.php" class="hover:text-cyan-400 transition font-semibold">| Premium CP & PC Apps |</a>
+          <a href="Emulators-and-Roms.php" class="hover:text-cyan-400 transition font-semibold">| Emulators & Roms |</a>        
+          <a href="gamesuppfix.php" class="hover:text-cyan-400 transition font-semibold">| Game Support/Fix |</a>
+          <a href="18-section.php" class="hover:text-cyan-400 transition font-semibold">| 18+ Section |</a>
+          <a href="https://docs.google.com/spreadsheets/d/14crWaue7VCDUBApUCCkyZkLNzjpLTrjKyMYSNzY_8jc/edit?usp=drive_link" target="_blank" class="hover:text-cyan-400 transition font-semibold">| Request a game |</a>
+          <a href="logout.php" class="text-red-500 hover:text-red-700 transition font-semibold">| Logout |</a>
        
         
         </nav>
@@ -72,7 +71,7 @@
                               <!-- START OF EMU for CP -->
 <section>
 
-          <h2 class="text-4xl font-extrabold mb-6 text-cyan-400">EMULATORS FOR PHONES</h2>
+          <h2 class="text-4xl font-extrabold mb-6 text-cyan-400">EMULATORS FOR PHONE</h2>
 
       <div id="gamesGrid" class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-10">
 
@@ -284,7 +283,7 @@
                               <!-- START OF EMU for PC -->
 <section>
 
-          <h2 class="text-4xl font-extrabold mb-6 text-cyan-400">EMULATORS WITH ROMS FOR PC | No set-up needed</h2>
+          <h2 class="text-4xl font-extrabold mb-6 text-cyan-400">EMULATORS WITH ROMS FOR COMPUTER | No set-up needed</h2>
 
       <div id="gamesGrid" class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-10">
 
@@ -314,6 +313,26 @@
           
 </section>
                               <!-- END OF EMU for PC -->
+
+<section>
+
+          <h2 class="text-4xl font-extrabold mb-6 text-cyan-400">ROMS FOR PHONE</h2>
+
+      <div id="gamesGrid" class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-10">
+
+            <!-- Game Card Template -->
+            <div class="game-card bg-gradient-to-br from-gray-800 to-gray-900 rounded-2xl overflow-hidden shadow-xl neon-border">
+              <img src="img4/xgames-prem.png" alt="Warcraft_III Frozen Throne - CD keys" class="w-full h-48 object-fit: cover">
+              <div class="p-5">
+                <h3 class="font-bold text-xl text-white mb-1">XGAMES Premium</h3>             
+                <p class="text-red-400 text-sm mb-4">For Phones <br><br> All in 1 ROMS | AD Free | No Login</p>
+                <a href="https://www.https://drive.google.com/file/d/1WGbzgvfG9IqfGO3EbQFmOJiXAPRSC5PL/view?usp=drive_link" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-4 rounded-md shadow-md transition">Download</a>
+              </div>
+            </div>
+
+      </div>
+          
+</section>
 
 
 

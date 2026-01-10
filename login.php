@@ -49,15 +49,14 @@ if (!isset($_SESSION['username'])) {
         <div class="text-3xl font-extrabold text-cyan-400 tracking-wider drop-shadow-md animate-pulse" >Alpha Tutx GameVault</div>
 
         <nav class="hidden md:flex space-x-6 text-gray-300">
-          <a href="login.php" class="hover:text-cyan-400 transition font-semibold">PC Games</a>
-          <a href="cp-games.php" class="hover:text-cyan-400 transition font-semibold">CP Games</a>
-          <a href="premium-cp-apps.php" class="hover:text-cyan-400 transition font-semibold">Premium CP Apps</a>
-          <a href="Emulators-and-Roms.php" class="hover:text-cyan-400 transition font-semibold">Emulators&Roms</a>        
-          <a href="gamesuppfix.php" class="hover:text-cyan-400 transition font-semibold">Game Support/Fix</a>
-          <a href="18-section.php" class="hover:text-cyan-400 transition font-semibold">18+ Section</a>
-          <a href="https://www.facebook.com/profile.php?id=100087598551338" target="_blank" class="hover:text-cyan-400 transition font-semibold">Fb Page</a>
-          <a href="https://docs.google.com/spreadsheets/d/14crWaue7VCDUBApUCCkyZkLNzjpLTrjKyMYSNzY_8jc/edit?usp=drive_link" target="_blank" class="hover:text-cyan-400 transition font-semibold">Request a game</a>
-          <a href="logout.php" class="text-red-500 hover:text-red-700 transition font-semibold">Logout</a>
+          <a href="login.php" class="hover:text-cyan-400 transition font-semibold">| PC Games |</a>
+          <a href="cp-games.php" class="hover:text-cyan-400 transition font-semibold">| CP Games |</a>
+          <a href="premium-cp-apps.php" class="hover:text-cyan-400 transition font-semibold">| Premium CP & PC Apps |</a>
+          <a href="Emulators-and-Roms.php" class="hover:text-cyan-400 transition font-semibold">| Emulators & Roms |</a>        
+          <a href="gamesuppfix.php" class="hover:text-cyan-400 transition font-semibold">| Game Support/Fix |</a>
+          <a href="18-section.php" class="hover:text-cyan-400 transition font-semibold">| 18+ Section |</a>
+          <a href="https://docs.google.com/spreadsheets/d/14crWaue7VCDUBApUCCkyZkLNzjpLTrjKyMYSNzY_8jc/edit?usp=drive_link" target="_blank" class="hover:text-cyan-400 transition font-semibold">| Request a game |</a>
+          <a href="logout.php" class="text-red-500 hover:text-red-700 transition font-semibold">| Logout |</a>
 
 		  
 			 
@@ -92,35 +91,35 @@ if (!isset($_SESSION['username'])) {
 </div>
           <!-- End Search Bar -->
 
-        <h2 class="text-4xl font-extrabold mb-6 text-cyan-400">Hot Games</h2>
-        <div class="carousel flex space-x-6 overflow-x-auto pb-4">
+        <h2 class="text-4xl font-extrabold mb-6 text-cyan-400">Recently Added Games</h2>
+<div class="carousel flex space-x-6 overflow-x-auto pb-4">
 
          <!-- Start of Featured Games -->
 
   <div class="relative game-card min-w-[300px] rounded-2xl overflow-hidden shadow-2xl cursor-pointer neon-border">
-    <img src="img/motogp-22.jpg" alt="Batman Arkham Knight Premium Edition" class="w-full h-48 object-fit: cover">
+    <img src="img/tr-goty.png" alt="Batman Arkham Knight Premium Edition" class="w-full h-48 object-fit: cover">
     <div class="overlay absolute inset-0 backdrop-blur-md bg-black/60 flex flex-col justify-end p-4 text-white">
-      <h3 class="text-xl font-bold">MotoGP 22</h3>
+      <h3 class="text-xl font-bold">Tomb Raider GAME OF THE YEAR</h3>
       <p class="text-sm text-red-300">ZIP FILE SIZE: 27.15 GB</p>
-      <a href="https://drive.google.com/file/d/1kcUQoGJIE0kh_qXTkuu7hRNk024zYEUH/view?usp=drive_link" target="_blank" class="mt-3 inline-block bg-cyan-600 hover:bg-cyan-700 px-4 py-2 rounded-md text-sm font-semibold transition shadow-lg">Download</a>
+      <a href="https://drive.google.com/file/d/1yZwMvYgi8AwM5tLGoZyXRQPufMo1Vx_I/view?usp=drive_link" target="_blank" class="mt-3 inline-block bg-cyan-600 hover:bg-cyan-700 px-4 py-2 rounded-md text-sm font-semibold transition shadow-lg">Download</a>
     </div>
   </div>
 
   <div class="relative game-card min-w-[300px] rounded-2xl overflow-hidden shadow-2xl cursor-pointer neon-border">
-    <img src="img/t8-ult-ed.jpg" alt="Batman Arkham Knight Premium Edition" class="w-full h-48 object-fit: cover">
+    <img src="img/e-33.jpg" alt="Batman Arkham Knight Premium Edition" class="w-full h-48 object-fit: cover">
     <div class="overlay absolute inset-0 backdrop-blur-md bg-black/60 flex flex-col justify-end p-4 text-white">
-      <h3 class="text-xl font-bold">Tekken 8 Ultimate Edition</h3>
-      <p class="text-sm text-red-300">ZIP FILE SIZE: 101.98 GB</p>
-      <a href="https://drive.google.com/file/d/1UrZJlh6QDp_JI24JKm-qsApBJw6N90zX/view?usp=drive_link" target="_blank" class="mt-3 inline-block bg-cyan-600 hover:bg-cyan-700 px-4 py-2 rounded-md text-sm font-semibold transition shadow-lg">Download</a>
+      <h3 class="text-xl font-bold">Clair Obscur Expedition 33</h3>
+      <p class="text-sm text-red-300">ZIP FILE SIZE: 39.96 GB</p>
+      <a href="https://drive.google.com/file/d/15gwf9jgaGpfKN1iIOXYjNXOokdamFInc/view?usp=drive_link" target="_blank" class="mt-3 inline-block bg-cyan-600 hover:bg-cyan-700 px-4 py-2 rounded-md text-sm font-semibold transition shadow-lg">Download</a>
     </div>
   </div>
- 
+
   <div class="relative game-card min-w-[300px] rounded-2xl overflow-hidden shadow-2xl cursor-pointer neon-border">
-    <img src="img/fnf.jpg" alt="Batman Arkham Knight Premium Edition" class="w-full h-48 object-fit: cover">
+    <img src="img/nfs-heat.png" alt="Batman Arkham Knight Premium Edition" class="w-full h-48 object-fit: cover">
     <div class="overlay absolute inset-0 backdrop-blur-md bg-black/60 flex flex-col justify-end p-4 text-white">
-      <h3 class="text-xl font-bold">Fight Night Forever</h3>
-      <p class="text-sm text-red-300">ZIP FILE SIZE: 6.28 GB</p>
-      <a href="https://drive.google.com/file/d/1sdhU_8_hM_-npYlZm5OmlkQ9a2sC5uB6/view?usp=drive_link" target="_blank" class="mt-3 inline-block bg-cyan-600 hover:bg-cyan-700 px-4 py-2 rounded-md text-sm font-semibold transition shadow-lg">Download</a>
+      <h3 class="text-xl font-bold">Need for Speed Heat Deluxe Edition</h3>
+      <p class="text-sm text-red-300">ZIP FILE SIZE: 25.97 GB</p>
+      <a href="https://drive.google.com/file/d/1wsn8iaFaHdGmzJdI6O8bXb9KKrGd6D9E/view?usp=drive_link" target="_blank" class="mt-3 inline-block bg-cyan-600 hover:bg-cyan-700 px-4 py-2 rounded-md text-sm font-semibold transition shadow-lg">Download</a>
     </div>
   </div>
 
@@ -135,6 +134,83 @@ if (!isset($_SESSION['username'])) {
           <h2 class="text-4xl font-extrabold mb-6 text-cyan-400">🎮 All PC Games</h2>
 
           <div id="gamesGrid" class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-10">
+
+          <!-- Game Card Template -->
+            <div class="game-card bg-gradient-to-br from-gray-800 to-gray-900 rounded-2xl overflow-hidden shadow-xl neon-border">
+              <img src="img/sf.jpg" alt="Fight Night Forever" class="w-full h-48 object-fit: cover">
+              <div class="p-5">
+                <h3 class="font-bold text-xl text-white mb-1">Split Fiction</h3>
+                <br>
+                <br>
+                <p class="text-red-400 text-sm mb-4">ZIP FILE SIZE: 79.1 GB</p>
+                <a href="https://tunnel1.dlproxy.uk/download/pLY7i9H8fiD0pVYXWjxuovjRFjf8C2w5-wChqfdjKR_8LzLW1VVyDnrAqIwJ7u0nSpOB--e37GY8flfglEqimJ9ssYeH9f2nagpRLsd-LE5N5undrOiQWaxtkgM4qEUbRnDobSvs0eIvITE2X3lXmRU-0if8p7I6iFCBcHpiMHVFqzbL4lnmJWk2iBq6m_IN-32bDOl45h3nkAnSlMcwUTKfq_A0yYR9eH1lDQRjimxi8R5FSBjLCWnDuLpp9iEOssWFlNqE6MgIr0innOvUF5kLpPPgao89MaeaMIzqKQ0qCBoE4AS1cNQJ4ZZPR6wRmSYTgcwHWQ7AcA7LyLlfWD3XH0XyjMpHO8DwU4zhrZOaOWzPwgjxvnSj5qoXdb3GcD52As18qb_4LA5eTQCP6OdHhr7Tk8Eke9bmNUYyEQ-O_GZHSzAhLgADdJhy5o3-U9slw1a01DhYBfssYDrotgOvs5ApOWEPiomzQYEgVyLVecWgfK7PhiXBhNF-dIwbkL6KgCHqjd-u0sZBl3vCf7k3qhSoGPMXcwTpWKcZ8Q0I8TcxZAtl-mnESr4mcf6lmsBkd6qXbIiufb9Bpf4mA62i7RRpjauhGA8QBa0z8qM?sig=AkV_BUPv44aXhXQleX-91dk5Yh4sAxYK1TWGzd057Gc" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-5 rounded-md shadow-md transition">Download</a>
+                <a href="https://www.youtube.com/watch?v=TV4lLE08UeE" target="_blank" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-5 rounded-md shadow-md transition">Gameplay</a>
+              </div>
+            </div>
+
+          <!-- Game Card Template -->
+            <div class="game-card bg-gradient-to-br from-gray-800 to-gray-900 rounded-2xl overflow-hidden shadow-xl neon-border">
+              <img src="img/rdr2.jpg" alt="Fight Night Forever" class="w-full h-48 object-fit: cover">
+              <div class="p-5">
+                <h3 class="font-bold text-xl text-white mb-1">Red Dead Redemption 2</h3>
+                <br>
+                <br>
+                <p class="text-red-400 text-sm mb-4">ZIP FILE SIZE: 113.81 GB</p>
+                <a href="https://drive.google.com/file/d/193Q0cupL5Prk2eCqxxc9HW9I3S0BvnJS/view?usp=drive_link" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-5 rounded-md shadow-md transition">Download</a>
+                <a href="https://www.youtube.com/watch?v=_9V8SNNw75U&list=PLdtfOMa5CM3XFzSzuKIRvwu3fh40vAt6l" target="_blank" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-5 rounded-md shadow-md transition">Gameplay</a>
+              </div>
+            </div>
+
+          <!-- Game Card Template -->
+            <div class="game-card bg-gradient-to-br from-gray-800 to-gray-900 rounded-2xl overflow-hidden shadow-xl neon-border">
+              <img src="img/motogp-22.jpg" alt="Fight Night Forever" class="w-full h-48 object-fit: cover">
+              <div class="p-5">
+                <h3 class="font-bold text-xl text-white mb-1">MotoGP 22</h3>
+                <br>
+                <br>
+                <p class="text-red-400 text-sm mb-4">ZIP FILE SIZE: 27.15 GB</p>
+                <a href="https://drive.google.com/file/d/1kcUQoGJIE0kh_qXTkuu7hRNk024zYEUH/view?usp=drive_link" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-5 rounded-md shadow-md transition">Download</a>
+                <a href="https://www.youtube.com/watch?v=Agdbqwo2k2w&t=202s" target="_blank" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-5 rounded-md shadow-md transition">Gameplay</a>
+              </div>
+            </div>
+
+          <!-- Game Card Template -->
+            <div class="game-card bg-gradient-to-br from-gray-800 to-gray-900 rounded-2xl overflow-hidden shadow-xl neon-border">
+              <img src="img/cod-bops.jpg" alt="Fight Night Forever" class="w-full h-48 object-fit: cover">
+              <div class="p-5">
+                <h3 class="font-bold text-xl text-white mb-1">Call of Duty Black Ops</h3>
+                <br>
+                <br>
+                <p class="text-red-400 text-sm mb-4">ZIP FILE SIZE: 10.8 GB</p>
+                <a href="https://tunnel1.dlproxy.uk/download/XAJeWO15O4C19Ai3Jvuqitqg5l1_CCncB25Eaa4Z71JAAM2ppGVMblIY3AWDW8k1fY0JuJ6RuqfNreqTDOqV3ZNpqRZ8J8r9qy-NDNYXkXNTZuQ385fxXTdoV5mVSq3obE_E9FpCEPyfoNOeUpdKKdsE5D7d9QEy-Nm6XPTDSri8d8OdYCLn30CX-uTIluC3w7QVXXBjSXtgy5iQ_a7qvajopxu7r_afbz4b8af-U6lqDPN9KZBqRlKpPdDoJuNGlpPrjx75F2phAAmyA_uEky5e6wxSBzP6eZSvickFM2PZf0SpZELbQ8_O82_VkY-jHQCF3i7qP1JcHuZW_JpYaWyz7mt9wtLNNB-tV3UbTcKtWOrXD_KBBt_yauMa8UTKI55Q-P07NHe8ewNrwDrGoFdf1Up2UI5lqpxOKPidPf6cr0o0nSwtGk5J2yoLb_xPTexbdkZ48L4gq2Xy68hgaNGzI4XqYeqhw3HiHdao48Vu4U33jfli6484wmCb913lHCuN_0EWEMAJfowj2bNTbhaBYvie4RP-bWV74pxzsL-Erq6WCDGoKTceZHMgP8i396JXnK52JMGDjDWvUWh9HJjuBE60Z9b4gGMFxuI6dykhkCUeacgPGkO24Vee-etW?sig=76PUBTGKVvxFbNNu0aXhEWUUMcSS_V6GTR5NmMLAXqQ" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-5 rounded-md shadow-md transition">Download</a>
+                <a href="https://www.youtube.com/watch?v=1apGRqkfqoc&t=3732s" target="_blank" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-5 rounded-md shadow-md transition">Gameplay</a>
+              </div>
+            </div>
+
+          <!-- Game Card Template -->
+            <div class="game-card bg-gradient-to-br from-gray-800 to-gray-900 rounded-2xl overflow-hidden shadow-xl neon-border">
+              <img src="img/t8-ult-ed.jpg" alt="Fight Night Forever" class="w-full h-48 object-fit: cover">
+              <div class="p-5">
+                <h3 class="font-bold text-xl text-white mb-1">Tekken 8 Ultimate Edition</h3>
+                <br>
+                <p class="text-red-400 text-sm mb-4">ZIP FILE SIZE: 101.98 GB</p>
+                <a href="https://drive.google.com/file/d/1UrZJlh6QDp_JI24JKm-qsApBJw6N90zX/view?usp=drive_link" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-5 rounded-md shadow-md transition">Download</a>
+                <a href="https://www.youtube.com/watch?v=DAhXs8R6fW8" target="_blank" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-5 rounded-md shadow-md transition">Gameplay</a>
+              </div>
+            </div>
+
+          <!-- Game Card Template -->
+            <div class="game-card bg-gradient-to-br from-gray-800 to-gray-900 rounded-2xl overflow-hidden shadow-xl neon-border">
+              <img src="img/fnf.jpg" alt="Fight Night Forever" class="w-full h-48 object-fit: cover">
+              <div class="p-5">
+                <h3 class="font-bold text-xl text-white mb-1">Fight Night Forever</h3>
+                <br>
+                <br>
+                <p class="text-red-400 text-sm mb-4">ZIP FILE SIZE: 6.28 GB</p>
+                <a href="https://drive.google.com/file/d/1sdhU_8_hM_-npYlZm5OmlkQ9a2sC5uB6/view?usp=drive_link" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-5 rounded-md shadow-md transition">Download</a>
+                <a href="https://www.youtube.com/watch?v=9rhtOA1M8_Y" target="_blank" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-5 rounded-md shadow-md transition">Gameplay</a>
+              </div>
+            </div>
 
           <!-- Game Card Template -->
             <div class="game-card bg-gradient-to-br from-gray-800 to-gray-900 rounded-2xl overflow-hidden shadow-xl neon-border">

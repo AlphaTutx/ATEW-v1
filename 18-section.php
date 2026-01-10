@@ -31,15 +31,14 @@
         <div class="text-3xl font-extrabold text-cyan-400 tracking-wider drop-shadow-md animate-pulse" >18+ Section</div>
         
         <nav class="hidden md:flex space-x-6 text-gray-300">
-          <a href="login.php" class="hover:text-cyan-400 transition font-semibold">PC Games</a>
-          <a href="cp-games.php" class="hover:text-cyan-400 transition font-semibold">CP Games</a>
-          <a href="premium-cp-apps.php" class="hover:text-cyan-400 transition font-semibold">Premium CP Apps</a>
-          <a href="Emulators-and-Roms.php" class="hover:text-cyan-400 transition font-semibold">Emulators&Roms</a>        
-          <a href="gamesuppfix.php" class="hover:text-cyan-400 transition font-semibold">Game Support/Fix</a>
-          <a href="18-section.php" class="hover:text-cyan-400 transition font-semibold">18+ Section</a>
-          <a href="https://www.facebook.com/profile.php?id=100087598551338" target="_blank" class="hover:text-cyan-400 transition font-semibold">Fb Page</a>
-          <a href="https://docs.google.com/spreadsheets/d/14crWaue7VCDUBApUCCkyZkLNzjpLTrjKyMYSNzY_8jc/edit?usp=drive_link" target="_blank" class="hover:text-cyan-400 transition font-semibold">Request a game</a>
-          <a href="logout.php" class="text-red-500 hover:text-red-700 transition font-semibold">Logout</a>
+          <a href="login.php" class="hover:text-cyan-400 transition font-semibold">| PC Games |</a>
+          <a href="cp-games.php" class="hover:text-cyan-400 transition font-semibold">| CP Games |</a>
+          <a href="premium-cp-apps.php" class="hover:text-cyan-400 transition font-semibold">| Premium CP & PC Apps |</a>
+          <a href="Emulators-and-Roms.php" class="hover:text-cyan-400 transition font-semibold">| Emulators & Roms |</a>        
+          <a href="gamesuppfix.php" class="hover:text-cyan-400 transition font-semibold">| Game Support/Fix |</a>
+          <a href="18-section.php" class="hover:text-cyan-400 transition font-semibold">| 18+ Section |</a>
+          <a href="https://docs.google.com/spreadsheets/d/14crWaue7VCDUBApUCCkyZkLNzjpLTrjKyMYSNzY_8jc/edit?usp=drive_link" target="_blank" class="hover:text-cyan-400 transition font-semibold">| Request a game |</a>
+          <a href="logout.php" class="text-red-500 hover:text-red-700 transition font-semibold">| Logout |</a>
 		  
 
           
@@ -73,18 +72,61 @@
 
 <section>
 
+          <h2 class="text-4xl font-extrabold mb-6 text-red-400">18+ Streaming Site</h2>
+
+      <div id="gamesGrid" class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-10">
+
+            <!-- Game Card Template -->
+            <div class="game-card bg-gradient-to-br from-gray-800 to-gray-900 rounded-2xl overflow-hidden shadow-xl neon-border">
+              <img src="18-img/vivamax.jpg" alt="Cumtube" class="w-full h-48 object-fit: cover">
+              <div class="p-5">
+                <h3 class="font-bold text-xl text-white mb-1">Vivamax</h3>
+                <p class="text-red-400 text-sm mb-4 font-semibold">FOR PHONES AND COMPUTERS</p>
+                <p class="text-cyan-400 text-sm mb-4 font-semibold">No ADS</p>
+                <a href="https://bibamax.ph/" target="_blank" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-4 rounded-md shadow-md transition">Stream Now</a>
+              </div>
+            </div>
+
+      </div>
+            
+</section>
+
+
+
+<section>
+
           <h2 class="text-4xl font-extrabold mb-6 text-red-400">18+ Apps</h2>
 
       <div id="gamesGrid" class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-10">
 
+            <!-- Game Card Template -->
+            <div class="game-card bg-gradient-to-br from-gray-800 to-gray-900 rounded-2xl overflow-hidden shadow-xl neon-border">
+              <img src="18-img/xnxx-g.jpg" alt="Cumtube" class="w-full h-48 object-fit: cover">
+              <div class="p-5">
+                <h3 class="font-bold text-xl text-white mb-1">XNXX Gold</h3>
+                <p class="text-red-400 text-sm mb-4 font-semibold">FOR PHONES</p>
+                <p class="text-cyan-400 text-sm mb-4 font-semibold">No ADS | No need account | Premium Unlocked</p>
+                <a href="https://www.mediafire.com/file/aq77qpp2u85m1cv/Xnxx_v1.55_b10550_arm7%252Barm64_5.1_Patched_by_youarefinished.apk/file" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-4 rounded-md shadow-md transition">Download</a>
+              </div>
+            </div>
+
+            <div class="game-card bg-gradient-to-br from-gray-800 to-gray-900 rounded-2xl overflow-hidden shadow-xl neon-border">
+              <img src="18-img/pornhub.jpg" alt="Cumtube" class="w-full h-48 object-fit: cover">
+              <div class="p-5">
+                <h3 class="font-bold text-xl text-white mb-1">PHub Alternative</h3>
+                <p class="text-red-400 text-sm mb-4 font-semibold">FOR PHONES</p>
+                <p class="text-cyan-400 text-sm mb-4 font-semibold">No need account | No ADS | 1080p Quality</p>
+                <a href="https://www.mediafire.com/file/kxu5izc3e8yxgub/Hot_Movies_v3.8_%2528Ad-Free%2529.apk/file?dkey=c7giutrqzq3&r=1790" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-4 rounded-md shadow-md transition">Download</a>
+              </div>
+            </div>
 
             <!-- Game Card Template -->
             <div class="game-card bg-gradient-to-br from-gray-800 to-gray-900 rounded-2xl overflow-hidden shadow-xl neon-border">
               <img src="18-img/cumtubex.jpeg" alt="Cumtube" class="w-full h-48 object-fit: cover">
               <div class="p-5">
                 <h3 class="font-bold text-xl text-white mb-1">Cumtube X</h3>
-                <br>
-                <p class="text-red-400 text-sm mb-4">No ADS | Compatibility with Chromecast devices | Up to 1080p</p>
+                <p class="text-red-400 text-sm mb-4 font-semibold">FOR PHONES</p>
+                <p class="text-cyan-400 text-sm mb-4 font-semibold">No ADS | Compatibility with Chromecast devices | Up to 1080p</p>
                 <a href="https://drive.google.com/file/d/1V-kRJXglXSq4CalHuJCBib8FSaSFn0zV/view?usp=drive_link" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-4 rounded-md shadow-md transition">Download</a>
               </div>
             </div>
@@ -94,8 +136,8 @@
               <img src="18-img/ppcine-prem.jpg" alt="ppcine" class="w-full h-48 object-fit: cover">
               <div class="p-5">
                 <h3 class="font-bold text-xl text-white mb-1">PPCine Premium</h3>
-                <br>
-                <p class="text-red-400 text-sm mb-4">No ADS | All Web Series Unlocked | No need to login</p>
+                <p class="text-red-400 text-sm mb-4 font-semibold">FOR PHONES</p>
+                <p class="text-cyan-400 text-sm mb-4 font-semibold">No ADS | All Web Series Unlocked | No need to login</p>
                 <a href="https://drive.google.com/file/d/1uRklKSUzrJwr79uN78O7Xuy9gifNy-Ah/view?usp=drive_link" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-4 rounded-md shadow-md transition">Download</a>
                 <a href="https://docs.google.com/document/d/1H8pYw9g8WhoV6iD6cxMThGf58ixATCkH-AzADhSBcrY/edit?usp=drive_link" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-4 rounded-md shadow-md transition">Instruction</a>
               </div>
@@ -105,21 +147,10 @@
               <img src="18-img/sextube.png" alt="Cumtube" class="w-full h-48 object-fit: cover">
               <div class="p-5">
                 <h3 class="font-bold text-xl text-white mb-1">Sextube Pro</h3>
-                <br>
-                <p class="text-red-400 text-sm mb-4">Unlocked Pro Version | No ADS</p>
+                <p class="text-red-400 text-sm mb-4 font-semibold">FOR PHONES</p>
+                <p class="text-cyan-400 text-sm mb-4 font-semibold">Unlocked Pro Version | No ADS</p>
                 <br>
                 <a href="https://drive.google.com/file/d/1RTBppMPk9iMmqIYjziPO3n9huZ5KmaLA/view?usp=drive_link" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-4 rounded-md shadow-md transition">Download</a>
-              </div>
-            </div>
-
-            <div class="game-card bg-gradient-to-br from-gray-800 to-gray-900 rounded-2xl overflow-hidden shadow-xl neon-border">
-              <img src="18-img/rated-x.png" alt="Cumtube" class="w-full h-48 object-fit: cover">
-              <div class="p-5">
-                <h3 class="font-bold text-xl text-white mb-1">Hot Movies</h3>
-                <br>
-                <p class="text-red-400 text-sm mb-4">Unlocked VIP Version | No ADS</p>
-                <br>
-                <a href="https://drive.google.com/file/d/1poCwbBRedDVAKKTpuVUwB2Z0W-7Xb_Ik/view?usp=drive_link" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-4 rounded-md shadow-md transition">Download</a>
               </div>
             </div>
 
@@ -181,7 +212,7 @@
       </p>
 
       <p class="mt-4">VIDEO LINK/S :
-        <a href="https://terabox.com/s/1qy4Tfm35TQoeV7R_c3_ugA" target="_blank"
+        <a href="https://drive.google.com/file/d/1764nkSxxH5EV5NgRNbO8h_hJschQJaOt/view?usp=drive_link" target="_blank"
            class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-4 rounded-md shadow-md transition">Source: Terabox</a>
       </p>
     </div>
@@ -407,9 +438,38 @@
 
 <div>
       <p class="mt-4">VIDEO LINK/S :
+        <a href="https://www.mediafire.com/file/adp197s8pzxmvjr/Resharona.zip/file" target="_blank"
+           class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-4 rounded-md shadow-md transition">Resharona | Source: Mediafire</a>
+      </p>
+</div>
+
+<div>
+      <p class="mt-4">VIDEO LINK/S :
+        <a href="https://mega.nz/file/AQhH0JYI#fk0oFYeDzTPhnvOmT77bWoguXOAqOImIzEUw5x0kvRw" target="_blank"
+           class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-4 rounded-md shadow-md transition">Gladys Jane Jimenez | Password: Bonjing | Source: Mega</a>
+      </p>
+</div>
+
+<div>
+      <p class="mt-4">VIDEO LINK/S :
+        <a href="https://www.mediafire.com/file/2p3mlyhmvkbj8lr/Arimae.zip/file" target="_blank"
+           class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-4 rounded-md shadow-md transition">Arimae | Source: Mediafire</a>
+      </p>
+</div>
+
+<div>
+      <p class="mt-4">VIDEO LINK/S :
+        <a href="https://www.mediafire.com/file/bngqze0u0kwp2px/Janelle_Gloria.zip/file" target="_blank"
+           class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-4 rounded-md shadow-md transition">Janelle Gloria | Source: Mediafire</a>
+      </p>
+</div>
+
+<div>
+      <p class="mt-4">VIDEO LINK/S :
         <a href="https://mega.nz/folder/b1o3CRgC#arnQrbesVxv6lv2YS0YKTw" target="_blank"
            class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-4 rounded-md shadow-md transition">JEA | Source: Mega</a>
       </p>
+
 </div>
 
 <div>
