@@ -349,7 +349,7 @@
   <div>
 
       <p>All PSP ROMS : 
-        <a href="https://romsfun.com/roms/playstation/" 
+        <a href="https://www.romsgames.net/roms/playstation-portable/" 
            target="_blank"
            class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-4 px-8 rounded-md shadow-md transition">
           PSP ROMS
@@ -405,7 +405,7 @@
   <div>
 
       <p>All PS2 ROMS : 
-        <a href="https://romsfun.com/roms/playstation-2/" 
+        <a href="https://www.romsgames.net/roms/playstation-2/" 
            target="_blank"
            class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-4 px-8 rounded-md shadow-md transition">
           PS2 ROMS
@@ -586,7 +586,7 @@
   <div>
 
       <p>All GameCube ROMS : 
-        <a href="https://romsfun.com/roms/gamecube/" 
+        <a href="https://www.romsgames.net/roms/gamecube/" 
            target="_blank"
            class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-4 px-8 rounded-md shadow-md transition">
           GameCube ROMS
@@ -606,7 +606,7 @@
   <div>
 
       <p>All Wii ROMS : 
-        <a href="https://romsfun.com/roms/gamecube/" 
+        <a href="https://www.romsgames.net/roms/nintendo-wii/" 
            target="_blank"
            class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-4 px-8 rounded-md shadow-md transition">
           Wii ROMS
@@ -626,7 +626,7 @@
   <div>
 
       <p>All Nintendo 64 ROMS : 
-        <a href="https://romsfun.com/roms/nintendo-64/" 
+        <a href="https://www.romsgames.net/roms/nintendo-64/" 
            target="_blank"
            class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-4 px-8 rounded-md shadow-md transition">
           Nintendo 64 ROMS

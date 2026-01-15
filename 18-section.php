@@ -72,7 +72,7 @@
 
 <section>
 
-          <h2 class="text-4xl font-extrabold mb-6 text-red-400">18+ Streaming Site</h2>
+          <h2 class="text-4xl font-extrabold mb-6 text-cyan-400">18+ Streaming Site</h2>
 
       <div id="gamesGrid" class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-10">
 
@@ -91,13 +91,104 @@
             
 </section>
 
+<section>
 
+          <h2 class="text-4xl font-extrabold mb-6 text-cyan-400">18+ Games</h2>
+
+      <div id="gamesGrid" class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-10">
+
+            <!-- Game Card Template -->
+            <div class="game-card bg-gradient-to-br from-gray-800 to-gray-900 rounded-2xl overflow-hidden shadow-xl neon-border">
+              <img src="18-img/hd.jpg" alt="Cumtube" class="w-full h-48 object-fit: cover">
+              <div class="p-5">
+                <h3 class="font-bold text-xl text-white mb-1">Heaven's Door</h3>
+                <br>
+                <p class="text-red-400 text-sm mb-4 font-semibold">FOR PHONES</p>
+                <br>
+                <a href="https://www.mediafire.com/file/d5hqofro0djuykc/HeavensDoor-BE-0.3-release.apk/file" target="_blank" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-4 rounded-md shadow-md transition">Download</a>
+              </div>
+            </div>
+
+            <!-- Game Card Template -->
+            <div class="game-card bg-gradient-to-br from-gray-800 to-gray-900 rounded-2xl overflow-hidden shadow-xl neon-border">
+              <img src="18-img/awam.jpeg" alt="Cumtube" class="w-full h-48 object-fit: cover">
+              <div class="p-5">
+                <h3 class="font-bold text-xl text-white mb-1">A Wife and a Mother</h3>
+                <br>
+                <p class="text-red-400 text-sm mb-4 font-semibold">FOR PHONES</p>
+                <br>
+                <a href="https://www.mediafire.com/file/ir0w90xhh9l5uet/awifandmothpart1-v0.152.apk/file" target="_blank" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-4 rounded-md shadow-md transition">Download</a>
+              </div>
+            </div>
+
+            <!-- Game Card Template -->
+            <div class="game-card bg-gradient-to-br from-gray-800 to-gray-900 rounded-2xl overflow-hidden shadow-xl neon-border">
+              <img src="18-img/atc.jpg" alt="Cumtube" class="w-full h-48 object-fit: cover">
+              <div class="p-5">
+                <h3 class="font-bold text-xl text-white mb-1">Above the Clouds</h3>
+                <br>
+                <p class="text-red-400 text-sm mb-4 font-semibold">FOR PHONES</p>
+                <br>
+                <a href="https://www.mediafire.com/file/kbi0qdi658jwn88/AboveTheClouds-v0.8-DA.apk/file" target="_blank" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-4 rounded-md shadow-md transition">Download</a>
+              </div>
+            </div>
+
+            <!-- Game Card Template -->
+            <div class="game-card bg-gradient-to-br from-gray-800 to-gray-900 rounded-2xl overflow-hidden shadow-xl neon-border">
+              <img src="18-img/pl.jpg" alt="Cumtube" class="w-full h-48 object-fit: cover">
+              <div class="p-5">
+                <h3 class="font-bold text-xl text-white mb-1">Paradise Lust 1</h3>
+                <br>
+                <p class="text-red-400 text-sm mb-4 font-semibold">FOR PHONES</p>
+                <br>
+                <a href="https://www.mediafire.com/file/9y2lgj57ebe83h1/paradise_lust_1.1.5c.apk/file" target="_blank" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-4 rounded-md shadow-md transition">Download</a>
+              </div>
+            </div>
+
+            <!-- Game Card Template -->
+            <div class="game-card bg-gradient-to-br from-gray-800 to-gray-900 rounded-2xl overflow-hidden shadow-xl neon-border">
+              <img src="18-img/pl2.jpg" alt="Cumtube" class="w-full h-48 object-fit: cover">
+              <div class="p-5">
+                <h3 class="font-bold text-xl text-white mb-1">Paradise Lust 2</h3>
+                <br>
+                <p class="text-red-400 text-sm mb-4 font-semibold">FOR PHONES</p>
+                <br>
+                <a href="https://www.mediafire.com/file/1vzrqxjd78vsi94/paradise_lust2_1.0.1f.apk/file" target="_blank" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-4 rounded-md shadow-md transition">Download</a>
+              </div>
+            </div>
+
+            <!-- Game Card Template -->
+            <div class="game-card bg-gradient-to-br from-gray-800 to-gray-900 rounded-2xl overflow-hidden shadow-xl neon-border">
+              <img src="18-img/mc.jpg" alt="Cumtube" class="w-full h-48 object-fit: cover">
+              <div class="p-5">
+                <h3 class="font-bold text-xl text-white mb-1">Milfy City</h3>
+                <br>
+                <p class="text-red-400 text-sm mb-4 font-semibold">FOR PHONES</p>
+                <br>
+                <a href="https://www.mediafire.com/file/76y22smukygxpdu/milcit1.0e.apk/file" target="_blank" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-4 rounded-md shadow-md transition">Download</a>
+              </div>
+            </div>
+
+      </div>
+            
+</section>
 
 <section>
 
-          <h2 class="text-4xl font-extrabold mb-6 text-red-400">18+ Apps</h2>
+          <h2 class="text-4xl font-extrabold mb-6 text-cyan-400">18+ Apps</h2>
 
       <div id="gamesGrid" class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-10">
+
+            <!-- Game Card Template -->
+            <div class="game-card bg-gradient-to-br from-gray-800 to-gray-900 rounded-2xl overflow-hidden shadow-xl neon-border">
+              <img src="18-img/pt.png" alt="Cumtube" class="w-full h-48 object-fit: cover">
+              <div class="p-5">
+                <h3 class="font-bold text-xl text-white mb-1">PornTotal</h3>
+                <p class="text-red-400 text-sm mb-4 font-semibold">FOR PHONES</p>
+                <p class="text-cyan-400 text-sm mb-4 font-semibold">No ADS | No need account | Premium Unlocked</p>
+                <a href="https://www.mediafire.com/file/nfuzpryuxcf02kk/_Total.apk/file" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-4 rounded-md shadow-md transition">Download</a>
+              </div>
+            </div>
 
             <!-- Game Card Template -->
             <div class="game-card bg-gradient-to-br from-gray-800 to-gray-900 rounded-2xl overflow-hidden shadow-xl neon-border">
@@ -163,7 +254,7 @@
 
 
 <section>
-  <h2 class="text-4xl font-extrabold mb-6 text-red-400">Direct Links</h2>
+  <h2 class="text-4xl font-extrabold mb-6 text-cyan-400">Direct Links</h2>
 
   <div class="grid grid-cols-1 md:grid-cols-2 gap-y-16 gap-x-20">
 
@@ -432,7 +523,7 @@
 
 <section>
 
-<h2 class="text-4xl font-extrabold mb-6 text-red-400">Random Sex Links</h2>
+<h2 class="text-4xl font-extrabold mb-6 text-cyan-400">Random Sex Links</h2>
 
   <div class="grid grid-cols-1 md:grid-cols-2 gap-y-16 gap-x-20">
 

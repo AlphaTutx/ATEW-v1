@@ -66,58 +66,8 @@
   </svg>
 </div>
           <!-- End Search Bar -->
-           
-                  <!-- UNLIMITED INTERNET APPS -->
+          
 
-<section>
-
-          <h2 class="text-4xl font-extrabold mb-6 text-cyan-400">UNLIMITED INTERNET</h2>
-
-      <div id="gamesGrid" class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-10">
-
-        <a href="https://docs.google.com/document/d/1FqZaQjOfMrMXME9BKZhMsci8yE7nn_a5iu8KVS2RTHc/edit?usp=drive_link" target="_blank" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-4 rounded-md shadow-md transition">
-            First step before choosing your preferred UNLI DATA app.
-            <br><br><br><br><br><br>PLEASE CLICK HEREEE!!!</a>
-
-            <!-- Game Card Template -->
-
-            <div class="game-card bg-gradient-to-br from-gray-800 to-gray-900 rounded-2xl overflow-hidden shadow-xl neon-border">
-              <img src="img2/internet.jpeg" alt="Cyberpunk 2077 Phantom Liberty" class="w-full h-48 object-fit: cover">
-              <div class="p-5">
-                <h3 class="font-bold text-xl text-white mb-1">For IOS | DITO SIM</h3>
-                <br>
-                <p class="text-red-400 text-sm mb-4 font-semibold">FOR PHONES</p>
-                <p class="text-cyan-400 text-sm mb-4 font-semibold">Unlimited Data Connection</p>
-                <a href="https://play.google.com/store/apps/details?id=com.napsternetlabs.napsternetv" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-4 rounded-md shadow-md transition">Download</a>
-                <a href="https://drive.google.com/file/d/1c1x2IHAssk_ZSr7KkW58Q6AGd4MM7lLB/view?usp=drive_link" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-5 rounded-md shadow-md transition">Config file</a>
-            </div>
-            </div>
-            
-            <div class="game-card bg-gradient-to-br from-gray-800 to-gray-900 rounded-2xl overflow-hidden shadow-xl neon-border">
-              <img src="img2/internet.jpeg" alt="Cyberpunk 2077 Phantom Liberty" class="w-full h-48 object-fit: cover">
-              <div class="p-5">
-                <h3 class="font-bold text-xl text-white mb-1">For Android | DITO SIM<br>[Option 1]</h3>
-                <p class="text-red-400 text-sm mb-4 font-semibold">FOR PHONES</p>
-                <p class="text-cyan-400 text-sm mb-4 font-semibold">Unlimited Data Connection</p>
-                <a href="https://drive.google.com/file/d/1cuLeXtaLv2UkNo3euKAqE5fylfGwct8k/view?usp=drive_link" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-4 rounded-md shadow-md transition">Download</a>
-            </div>
-            </div>
-
-            <div class="game-card bg-gradient-to-br from-gray-800 to-gray-900 rounded-2xl overflow-hidden shadow-xl neon-border">
-              <img src="img2/internet.jpeg" alt="Cyberpunk 2077 Phantom Liberty" class="w-full h-48 object-fit: cover">
-              <div class="p-5">
-                <h3 class="font-bold text-xl text-white mb-1">For Android | DITO SIM<br>[Option 2]</h3>
-                <p class="text-red-400 text-sm mb-4 font-semibold">FOR PHONES</p>
-                <p class="text-cyan-400 text-sm mb-4 font-semibold">Unlimited Data Connection</p>
-                <a href="https://play.google.com/store/search?q=vip%20snipher%20pro&c=apps" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-4 rounded-md shadow-md transition">Download</a>
-            </div>
-            </div>
-
-      </div>
-            
-</section>
-
-                              <!-- END OF UNLIMITED INTERNET APPS -->
 
 
                               <!-- SPORTS STREAMING APPS -->
@@ -158,8 +108,9 @@
 <section>
 
           <h2 class="text-4xl font-extrabold mb-6 text-cyan-400">MOVIE STREAMING APPS</h2>
-
+          
       <div id="gamesGrid" class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-10">
+
 
             <!-- Game Card Template -->
 
@@ -185,20 +136,35 @@
               </div>
             </div>
 
+            <!-- Game Card Template -->
+
             <div class="game-card bg-gradient-to-br from-gray-800 to-gray-900 rounded-2xl overflow-hidden shadow-xl neon-border">
-              <img src="img2/netflix.png" alt="Warcraft_III Frozen Throne - CD keys" class="w-full h-48 object-fit: cover">
+              <img src="img2/h-prem.png" alt="Cyberpunk 2077 Phantom Liberty" class="w-full h-48 object-fit: cover">
               <div class="p-5">
-                <h3 class="font-bold text-xl text-white mb-1">NETFLIX Alternative [Option 3]</h3>
+                <h3 class="font-bold text-xl text-white mb-1">Hiku PREMIUM</h3>
+                <br>
                 <p class="text-red-400 text-sm mb-4 font-semibold">FOR PHONES</p>
-                <p class="text-cyan-400 text-sm mb-4 font-semibold">Movie Streaming App<br>No need to Sign Up/In</p>
-                <a href="https://abrehamrahi.ir/o/public/o0d1T96Z/" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-4 rounded-md shadow-md transition">Download</a>
+                <p class="text-cyan-400 text-sm mb-4 font-semibold">Premium features Unlocked<br>Rated 18+ Movies</p>
+                <a href="https://www.mediafire.com/file/cmy0jngqekhpu51/HIKU_1.0.20_40_Premium__41_.apk/file" target="_blank" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-4 rounded-md shadow-md transition">Download</a>
+              </div>
+            </div>
+
+            <!-- Game Card Template -->
+
+            <div class="game-card bg-gradient-to-br from-gray-800 to-gray-900 rounded-2xl overflow-hidden shadow-xl neon-border">
+              <img src="img2/dbl-prem.png" alt="Cyberpunk 2077 Phantom Liberty" class="w-full h-48 object-fit: cover">
+              <div class="p-5">
+                <h3 class="font-bold text-xl text-white mb-1">DramaBox Lite PREMIUM</h3>
+                <p class="text-red-400 text-sm mb-4 font-semibold">FOR PHONES</p>
+                <p class="text-cyan-400 text-sm mb-4 font-semibold">Premium features Unlocked<br>No need to Sign Up/In/Download</p>
+                <a href="https://www.mediafire.com/file/jrs5u4ouii1kyg5/DramaBox_Lite_1.0.1_40_Premium__41_.apk/file" target="_blank" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-4 rounded-md shadow-md transition">Download</a>
               </div>
             </div>
 
             <div class="game-card bg-gradient-to-br from-gray-800 to-gray-900 rounded-2xl overflow-hidden shadow-xl neon-border">
               <img src="img2/mb-vip.png" alt="Warcraft_III Frozen Throne - CD keys" class="w-full h-48 object-fit: cover">
               <div class="p-5">
-                <h3 class="font-bold text-xl text-white mb-1">Movie Streaming App <br> [Option 4]</h3>
+                <h3 class="font-bold text-xl text-white mb-1">Movie Streaming App <br> [Option 3]</h3>
                 <p class="text-red-400 text-sm mb-4 font-semibold">FOR PHONES</p>
                 <p class="text-cyan-400 text-sm mb-4 font-semibold">Movie Streaming App<br>No need to Sign Up/In</p>
                 <a href="https://www.mediafire.com/file/vcgg0facndnbzhj/MovieBox+VIP_v3.0.11.1230.03(50020080).apk/file" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-4 rounded-md shadow-md transition">Download</a>
@@ -208,7 +174,7 @@
             <div class="game-card bg-gradient-to-br from-gray-800 to-gray-900 rounded-2xl overflow-hidden shadow-xl neon-border">
               <img src="img2/hdo-box.png" alt="Warcraft_III Frozen Throne - CD keys" class="w-full h-48 object-fit: cover">
               <div class="p-5">
-                <h3 class="font-bold text-xl text-white mb-1">Movie Streaming App <br> [Option 5]</h3>
+                <h3 class="font-bold text-xl text-white mb-1">Movie Streaming App <br> [Option 4]</h3>
                 <p class="text-red-400 text-sm mb-4 font-semibold">FOR PHONES</p>
                 <p class="text-cyan-400 text-sm mb-4 font-semibold">No ads || For Tv & Mobile</p><br>
                 <a href="https://www.mediafire.com/file/k70o3xa36900b9d/HDO_Box_for_TV_MOD_By_JuanJade.apk/file" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-4 rounded-md shadow-md transition">Download</a>
@@ -233,7 +199,7 @@
             <div class="game-card bg-gradient-to-br from-gray-800 to-gray-900 rounded-2xl overflow-hidden shadow-xl neon-border">
               <img src="img2/anilab-prem.jpg" alt="Warcraft_III Frozen Throne - CD keys" class="w-full h-48 object-fit: cover">
               <div class="p-5">
-                <h3 class="font-bold text-xl text-white mb-1">Anilab Premium</h3>
+                <h3 class="font-bold text-xl text-white mb-1">Anilab PREMIUM</h3>
                 <p class="text-red-400 text-sm mb-4 font-semibold">FOR PHONES</p> 
                 <p class="text-cyan-400 text-sm mb-4 font-semibold">No ads | Up to 1080P | Subbed & Dubbed options</p>
                 <a href="https://www.mediafire.com/file/2cy1kxi3m1wqf72/Anilab_v1.1.2.apk/file" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-4 rounded-md shadow-md transition">Download</a>
@@ -243,7 +209,7 @@
             <div class="game-card bg-gradient-to-br from-gray-800 to-gray-900 rounded-2xl overflow-hidden shadow-xl neon-border">
               <img src="img2/hianime.jpg" alt="Warcraft_III Frozen Throne - CD keys" class="w-full h-48 object-fit: cover">
               <div class="p-5">
-                <h3 class="font-bold text-xl text-white mb-1">hiAnime Premium</h3>
+                <h3 class="font-bold text-xl text-white mb-1">hiAnime PREMIUM</h3>
                 <p class="text-red-400 text-sm mb-4 font-semibold">FOR PHONES</p> 
                 <p class="text-cyan-400 text-sm mb-4 font-semibold">Premium Crunchyroll Content | Add free | No need to login</p>
                 <a href="https://drive.google.com/file/d/1Quizx_ZIQTdHyoG-daqBv9hf8BAGIYCt/view?usp=drive_link" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-4 rounded-md shadow-md transition">Download</a>
@@ -259,15 +225,66 @@
                             <!-- PREMIUM APPS -->
 <section>
 
-          <h2 class="text-4xl font-extrabold mb-6 text-cyan-400">PREMIUM APPS</h2>
+          <h2 class="text-4xl font-extrabold mb-6 text-cyan-400">MUSIC APPS</h2>
 
-      <div id="gamesGrid" class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-10">
+          <div id="gamesGrid" class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-10">
+
+            <div class="game-card bg-gradient-to-br from-gray-800 to-gray-900 rounded-2xl overflow-hidden shadow-xl neon-border">
+              <img src="img2/deezer-prem.jpeg" alt="Warcraft_III Frozen Throne - CD keys" class="w-full h-48 object-fit: cover">
+              <div class="p-5">
+                <h3 class="font-bold text-xl text-white mb-1">Deezer Premium</h3>
+                <br>
+                <p class="text-red-400 text-sm mb-4 font-semibold">FOR PHONES</p>
+                <p class="text-cyan-400 text-sm mb-4 font-semibold">Premium features Unlocked | Enjoy offline music </p>
+                <br>
+                <a href="http://s3.us-east-2.amazonaws.com/digestgqlocate/ldwz141ogs/Deezer-v9.0.4.2-HQ.apk-370078.html" target="_blank" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-4 rounded-md shadow-md transition">Download</a>
+              </div>
+            </div>
+
+            <div class="game-card bg-gradient-to-br from-gray-800 to-gray-900 rounded-2xl overflow-hidden shadow-xl neon-border">
+              <img src="img2/ot.jpg" alt="Warcraft_III Frozen Throne - CD keys" class="w-full h-48 object-fit: cover">
+              <div class="p-5">
+                <h3 class="font-bold text-xl text-white mb-1">OpenTune</h3>
+                <br>
+                <p class="text-red-400 text-sm mb-4 font-semibold">FOR PHONES</p>
+                <p class="text-cyan-400 text-sm mb-4 font-semibold">Premium features Unlocked</p>
+                <br>
+                <br>
+                <a href="https://www.mediafire.com/file/0h9wu65747bprgg/OpenTune_v2.0.11%2528125%2529.apk/file" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-4 rounded-md shadow-md transition">Download</a>
+              </div>
+            </div>
+
+            <div class="game-card bg-gradient-to-br from-gray-800 to-gray-900 rounded-2xl overflow-hidden shadow-xl neon-border">
+              <img src="img2/magicsing-prem.jpg" alt="Warcraft_III Frozen Throne - CD keys" class="w-full h-48 object-fit: cover">
+              <div class="p-5">
+                <h3 class="font-bold text-xl text-white mb-1">Magic Sing PREMIUM</h3>
+                <br>
+                <p class="text-red-400 text-sm mb-4 font-semibold">FOR PHONES</p>
+                <p class="text-cyan-400 text-sm mb-4 font-semibold">Life time Karaoke Premium</p>
+                <br>
+                <br>
+                <a href="https://www.mediafire.com/file/69bimg5acwuis52/Karaoke_Premium.rar/file" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-4 rounded-md shadow-md transition">Download</a>
+              </div>
+            </div>
+
+            <div class="game-card bg-gradient-to-br from-gray-800 to-gray-900 rounded-2xl overflow-hidden shadow-xl neon-border">
+              <img src="img2/suno-prem.jpeg" alt="Warcraft_III Frozen Throne - CD keys" class="w-full h-48 object-fit: cover">
+              <div class="p-5">
+                <h3 class="font-bold text-xl text-white mb-1">Suno PREMIUM</h3>
+                <br>
+                <p class="text-red-400 text-sm mb-4 font-semibold">FOR PHONES</p>
+                <p class="text-cyan-400 text-sm mb-4 font-semibold">Premium features Unlocked</p>
+                <br>
+                <br>
+                <a href="https://www.mediafire.com/file/5nhscpj43kjwq2m/Suno_1.41.0_PR3MIUM%252B_%2528Safefileku%2529.apk/file" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-4 rounded-md shadow-md transition">Download</a>
+              </div>
+            </div>
 
             <!-- Game Card Template -->
             <div class="game-card bg-gradient-to-br from-gray-800 to-gray-900 rounded-2xl overflow-hidden shadow-xl neon-border">
               <img src="img2/yt-prem.jpg" alt="Warcraft_III Frozen Throne - CD keys" class="w-full h-48 object-fit: cover">
               <div class="p-5">
-                <h3 class="font-bold text-xl text-white mb-1">Youtube Premium</h3>
+                <h3 class="font-bold text-xl text-white mb-1">Youtube PREMIUM</h3>
                 <br>
                 <p class="text-red-400 text-sm mb-4 font-semibold">FOR PHONES</p>
                 <p class="text-cyan-400 text-sm mb-4 font-semibold">No need micro G | No ads | Pop-up play | Background | Play Up to 2160P quality</p>
@@ -278,20 +295,87 @@
             <div class="game-card bg-gradient-to-br from-gray-800 to-gray-900 rounded-2xl overflow-hidden shadow-xl neon-border">
               <img src="img2/spotify-prem.jpg" alt="Warcraft_III Frozen Throne - CD keys" class="w-full h-48 object-fit: cover">
               <div class="p-5">
-                <h3 class="font-bold text-xl text-white mb-1">Spotify Premium</h3>
+                <h3 class="font-bold text-xl text-white mb-1">Spotify PREMIUM</h3>
                 <br>
                 <p class="text-red-400 text-sm mb-4 font-semibold">FOR PHONES</p>
                 <p class="text-cyan-400 text-sm mb-4 font-semibold">No ads</p>
                 <br>
+                <br>
                 <a href="https://drive.google.com/file/d/1nrhNQu2NhmSwtKQVtAO5dO8Vjup3keiK/view?usp=drive_link" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-4 rounded-md shadow-md transition">Download</a>
               </div>
             </div> 
+
+            
 
       </div>
           
 </section>
 
                             <!-- END OF PREMIUM APPS -->    
+
+<section>
+
+          <h2 class="text-4xl font-extrabold mb-6 text-cyan-400">PHOTO AND VIDEO EDITING APPS</h2>
+
+      <div id="gamesGrid" class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-10">
+
+            
+
+            <!-- Game Card Template -->
+            <div class="game-card bg-gradient-to-br from-gray-800 to-gray-900 rounded-2xl overflow-hidden shadow-xl neon-border">
+              <img src="img2/pa-gold.jpg" alt="Warcraft_III Frozen Throne - CD keys" class="w-full h-48 object-fit: cover">
+              <div class="p-5">
+                <h3 class="font-bold text-xl text-white mb-1">Picsart GOLD</h3>
+                <br>
+                <p class="text-red-400 text-sm mb-4 font-semibold">FOR PHONES</p>
+                <p class="text-cyan-400 text-sm mb-4 font-semibold">Premium Unlocked</p>
+                <br>
+                <br>
+                <a href="https://www.mediafire.com/file/wz7yfskpf4budlb/Picsart_v29.1.4_%255BGold%255D_%25281%2529.apk/file" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-4 rounded-md shadow-md transition">Download</a>
+              </div>
+            </div>
+
+            <div class="game-card bg-gradient-to-br from-gray-800 to-gray-900 rounded-2xl overflow-hidden shadow-xl neon-border">
+              <img src="img2/pr.jpg" alt="Warcraft_III Frozen Throne - CD keys" class="w-full h-48 object-fit: cover">
+              <div class="p-5">
+                <h3 class="font-bold text-xl text-white mb-1">PhotoRoom MAX</h3>
+                <br>
+                <p class="text-red-400 text-sm mb-4 font-semibold">FOR PHONES</p>
+                <p class="text-cyan-400 text-sm mb-4 font-semibold">Premium Unlocked</p>
+                <br>
+                <br>
+                <a href="https://www.mediafire.com/file/mxcwwo7p2d9ea12/Photoroom_2026.01.01_Mod_By_ModRings.apk/file" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-4 rounded-md shadow-md transition">Download</a>
+              </div>
+            </div> 
+
+            <div class="game-card bg-gradient-to-br from-gray-800 to-gray-900 rounded-2xl overflow-hidden shadow-xl neon-border">
+              <img src="img2/remini.jpg" alt="Warcraft_III Frozen Throne - CD keys" class="w-full h-48 object-fit: cover">
+              <div class="p-5">
+                <h3 class="font-bold text-xl text-white mb-1">Remini PREMIUM</h3>
+                <br>
+                <p class="text-red-400 text-sm mb-4 font-semibold">FOR PHONES</p>
+                <p class="text-cyan-400 text-sm mb-4 font-semibold">No login required | Premium features Unlocked | Export video up to 1080P | No ads</p>
+                <a href="https://www.mediafire.com/file/pbitp1kwkl42f0r/CapCut_Pro_v15.3.0.apk/file" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-4 rounded-md shadow-md transition">Download</a>
+              </div>
+            </div>
+
+            <!-- Game Card Template -->
+            <div class="game-card bg-gradient-to-br from-gray-800 to-gray-900 rounded-2xl overflow-hidden shadow-xl neon-border">
+              <img src="img2/capcut-pro.png" alt="Warcraft_III Frozen Throne - CD keys" class="w-full h-48 object-fit: cover">
+              <div class="p-5">
+                <h3 class="font-bold text-xl text-white mb-1">Capcut PRO</h3>
+                <br>
+                <p class="text-red-400 text-sm mb-4 font-semibold">FOR PHONES</p>
+                <p class="text-cyan-400 text-sm mb-4 font-semibold">No login required | Premium features Unlocked | Export video up to 1080P</p>
+                <br>
+                <a href="https://www.mediafire.com/file/pbitp1kwkl42f0r/CapCut_Pro_v15.3.0.apk/file" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-4 rounded-md shadow-md transition">Download</a>
+              </div>
+            </div>
+
+      </div>
+          
+</section>
+
 
                           
                               <!-- END OF PRO APPS -->
@@ -301,6 +385,85 @@
           <h2 class="text-4xl font-extrabold mb-6 text-cyan-400">OTHER USEFUL APPS</h2>
 
       <div id="gamesGrid" class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-10">
+
+            <div class="game-card bg-gradient-to-br from-gray-800 to-gray-900 rounded-2xl overflow-hidden shadow-xl neon-border">
+              <img src="img2/di-prem.jpg" alt="Warcraft_III Frozen Throne - CD keys" class="w-full h-48 object-fit: cover">
+              <div class="p-5">
+                <h3 class="font-bold text-xl text-white mb-1">Dynamic Island</h3>
+                <br>
+                <p class="text-red-400 text-sm mb-4 font-semibold">FOR PHONES</p>
+                <p class="text-cyan-400 text-sm mb-4 font-semibold">Phone design</p><br>
+                <a href="https://www.mediafire.com/file/4czus8013irraod/Dynamic_Island_36.0_40_Premium__41_40_Mod_by_ElaMods__41__.apk/file" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-4 rounded-md shadow-md transition">Download</a>
+              </div>
+            </div>
+
+            <div class="game-card bg-gradient-to-br from-gray-800 to-gray-900 rounded-2xl overflow-hidden shadow-xl neon-border">
+              <img src="img2/tc-prem.jpg" alt="Warcraft_III Frozen Throne - CD keys" class="w-full h-48 object-fit: cover">
+              <div class="p-5">
+                <h3 class="font-bold text-xl text-white mb-1">True Caller Premium</h3>
+                <br>
+                <p class="text-red-400 text-sm mb-4 font-semibold">FOR PHONES</p>
+                <p class="text-cyan-400 text-sm mb-4 font-semibold">Premium features Unlocked</p><br>
+                <a href="https://www.mediafire.com/file/b8zvzqm64twlr6r/Truecaller-Premium-v16.8.6_build_1608006-Mod.apk/file" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-4 rounded-md shadow-md transition">Download</a>
+              </div>
+            </div>
+
+            <div class="game-card bg-gradient-to-br from-gray-800 to-gray-900 rounded-2xl overflow-hidden shadow-xl neon-border">
+              <img src="img2/wps-pro.jpg" alt="Warcraft_III Frozen Throne - CD keys" class="w-full h-48 object-fit: cover">
+              <div class="p-5">
+                <h3 class="font-bold text-xl text-white mb-1">WPS Office PRO</h3>
+                <br>
+                <p class="text-red-400 text-sm mb-4 font-semibold">FOR PHONES</p>
+                <p class="text-cyan-400 text-sm mb-4 font-semibold">Pro features Unlocked</p><br>
+                <a href="https://www.mediafire.com/file/9vs5nv5shw18mgm/WPS_Office_18.24_Mod_By_ModRings.apk/file" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-4 rounded-md shadow-md transition">Download</a>
+              </div>
+            </div>
+
+            <div class="game-card bg-gradient-to-br from-gray-800 to-gray-900 rounded-2xl overflow-hidden shadow-xl neon-border">
+              <img src="img2/wa-pro.jpg" alt="Warcraft_III Frozen Throne - CD keys" class="w-full h-48 object-fit: cover">
+              <div class="p-5">
+                <h3 class="font-bold text-xl text-white mb-1">Windy App PRO</h3>
+                <br>
+                <p class="text-red-400 text-sm mb-4 font-semibold">FOR PHONES</p>
+                <p class="text-cyan-400 text-sm mb-4 font-semibold">Pro features Unlocked</p><br>
+                <a href="https://www.mediafire.com/file/c8jngd4cll0k5u9/Windy.app-Pro-v87.0.1_build_836-Mod.apk/file" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-4 rounded-md shadow-md transition">Download</a>
+              </div>
+            </div>
+
+            <div class="game-card bg-gradient-to-br from-gray-800 to-gray-900 rounded-2xl overflow-hidden shadow-xl neon-border">
+              <img src="img2/vc-pro.png" alt="Warcraft_III Frozen Throne - CD keys" class="w-full h-48 object-fit: cover">
+              <div class="p-5">
+                <h3 class="font-bold text-xl text-white mb-1">Voice Changer PRO</h3>
+                <br>
+                <p class="text-red-400 text-sm mb-4 font-semibold">FOR PHONES</p>
+                <p class="text-cyan-400 text-sm mb-4 font-semibold">Pro features Unlocked</p><br>
+                <a href="https://www.mediafire.com/file/73ii3v65lklftp2/Voice_Changer_-_Tune_My_Voice_1.34.2.apk/file" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-4 rounded-md shadow-md transition">Download</a>
+              </div>
+            </div>
+
+            <div class="game-card bg-gradient-to-br from-gray-800 to-gray-900 rounded-2xl overflow-hidden shadow-xl neon-border">
+              <img src="img2/ps-pro.png" alt="Warcraft_III Frozen Throne - CD keys" class="w-full h-48 object-fit: cover">
+              <div class="p-5">
+                <h3 class="font-bold text-xl text-white mb-1">Parallel Space PRO</h3>
+                <br>
+                <p class="text-red-400 text-sm mb-4 font-semibold">FOR PHONES</p>
+                <p class="text-cyan-400 text-sm mb-4 font-semibold">Pro features Unlocked</p><br>
+                <a href="https://www.mediafire.com/file/woafwlhlrpoe05g/Parallel_Space_Pro_v4.0.9107_10920_Subscribed_Mod_%25281%2529.apk/file" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-4 rounded-md shadow-md transition">Download</a>
+              </div>
+            </div>
+
+            <!-- Game Card Template -->
+            <div class="game-card bg-gradient-to-br from-gray-800 to-gray-900 rounded-2xl overflow-hidden shadow-xl neon-border">
+              <img src="img2/gemini-pro.jpg" alt="Warcraft_III Frozen Throne - CD keys" class="w-full h-48 object-fit: cover">
+              <div class="p-5">
+                <h3 class="font-bold text-xl text-white mb-1">Gemini PRO</h3>
+                <br>
+                <p class="text-red-400 text-sm mb-4 font-semibold">FOR PHONES</p>                
+                <p class="text-cyan-400 text-sm mb-4 font-semibold">Pro features Unlocked</p>
+                <br>
+                <a href="https://www.mediafire.com/view/ygo6prf5t90jt67/GEMINIPRO.jpg/file" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-4 rounded-md shadow-md transition">Download</a>
+              </div>
+            </div>
 
             <!-- Game Card Template -->
             <div class="game-card bg-gradient-to-br from-gray-800 to-gray-900 rounded-2xl overflow-hidden shadow-xl neon-border">
@@ -315,50 +478,17 @@
               </div>
             </div>
 
-            <!-- Game Card Template -->
-            <div class="game-card bg-gradient-to-br from-gray-800 to-gray-900 rounded-2xl overflow-hidden shadow-xl neon-border">
-              <img src="img2/capcut-pro.png" alt="Warcraft_III Frozen Throne - CD keys" class="w-full h-48 object-fit: cover">
-              <div class="p-5">
-                <h3 class="font-bold text-xl text-white mb-1">Capcut Pro</h3>
-                <br>
-                <p class="text-red-400 text-sm mb-4 font-semibold">FOR PHONES</p>
-                <p class="text-cyan-400 text-sm mb-4 font-semibold">No login required | Premium features Unlocked | Export video up to 1080P</p>
-                <a href="https://www.mediafire.com/file/pbitp1kwkl42f0r/CapCut_Pro_v15.3.0.apk/file" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-4 rounded-md shadow-md transition">Download</a>
-              </div>
-            </div>
-
             <div class="game-card bg-gradient-to-br from-gray-800 to-gray-900 rounded-2xl overflow-hidden shadow-xl neon-border">
               <img src="img2/z-pro.jpg" alt="Warcraft_III Frozen Throne - CD keys" class="w-full h-48 object-fit: cover">
               <div class="p-5">
-                <h3 class="font-bold text-xl text-white mb-1">ZArchiver Pro</h3>
+                <h3 class="font-bold text-xl text-white mb-1">ZArchiver PRO</h3>
                 <br>
                 <p class="text-red-400 text-sm mb-4 font-semibold">FOR PHONES</p>
                 <p class="text-cyan-400 text-sm mb-4 font-semibold">Pro features Unlocked</p><br>
                 <a href="https://www.mediafire.com/file/br9qd95joaf5mhy/ZArchiver_Pro.apk/file" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-4 rounded-md shadow-md transition">Download</a>
               </div>
             </div>
-
-            <div class="game-card bg-gradient-to-br from-gray-800 to-gray-900 rounded-2xl overflow-hidden shadow-xl neon-border">
-              <img src="img2/pr.jpg" alt="" class="w-full h-48 object-fit: cover">
-              <div class="p-5">
-                <h3 class="font-bold text-xl text-white mb-1">Photo Room</h3>
-                <br>
-                <p class="text-red-400 text-sm mb-4 font-semibold">FOR PHONES</p>
-                <p class="text-cyan-400 text-sm mb-4 font-semibold">Unlocked Max Plan</p><br>
-                <a href="https://drive.google.com/file/d/1EVs2eylP59lnq8lvWPezn0Zzhq1307se/view" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-4 rounded-md shadow-md transition">Download</a>
-              </div>
-            </div>
-
-            <div class="game-card bg-gradient-to-br from-gray-800 to-gray-900 rounded-2xl overflow-hidden shadow-xl neon-border">
-              <img src="img2/remini.jpg" alt="Warcraft_III Frozen Throne - CD keys" class="w-full h-48 object-fit: cover">
-              <div class="p-5">
-                <h3 class="font-bold text-xl text-white mb-1">Remini Premium</h3>
-                <br>
-                <p class="text-red-400 text-sm mb-4 font-semibold">FOR PHONES</p>
-                <p class="text-cyan-400 text-sm mb-4 font-semibold">No login required | Premium features Unlocked | Export video up to 1080P | No ads</p>
-                <a href="https://www.mediafire.com/file/pbitp1kwkl42f0r/CapCut_Pro_v15.3.0.apk/file" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-4 rounded-md shadow-md transition">Download</a>
-              </div>
-            </div>
+            
 
       </div>
           
