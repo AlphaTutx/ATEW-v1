@@ -237,7 +237,7 @@
                 <p class="text-red-400 text-sm mb-4 font-semibold">FOR PHONES</p>
                 <p class="text-cyan-400 text-sm mb-4 font-semibold">Premium features Unlocked | Enjoy offline music </p>
                 <br>
-                <a href="http://s3.us-east-2.amazonaws.com/digestgqlocate/ldwz141ogs/Deezer-v9.0.4.2-HQ.apk-370078.html" target="_blank" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-4 rounded-md shadow-md transition">Download</a>
+                <a href="https://drive.google.com/file/d/1lXq0Rw6fNwmNzxtvSev8bs_fzj9UkhSu/view?usp=drive_link" target="_blank" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-4 rounded-md shadow-md transition">Download</a>
               </div>
             </div>
 
