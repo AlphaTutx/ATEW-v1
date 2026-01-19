@@ -97,6 +97,15 @@ if (!isset($_SESSION['username'])) {
          <!-- Start of Featured Games -->
 
   <div class="relative game-card min-w-[300px] rounded-2xl overflow-hidden shadow-2xl cursor-pointer neon-border">
+    <img src="img/db-x2.jpg" alt="Batman Arkham Knight Premium Edition" class="w-full h-48 object-fit: cover">
+    <div class="overlay absolute inset-0 backdrop-blur-md bg-black/60 flex flex-col justify-end p-4 text-white">
+      <h3 class="text-xl font-bold">DRAGON BALL XENOVERSE 2</h3>
+      <p class="text-sm text-red-300">ZIP FILE SIZE: 27.7 GB</p>
+      <a href="https://tunnel1.dlproxy.uk/download/XAJeWO15O4C19Ai3Jvuqitqg5l1_CCncB25Eaa4Z71JAAM2ppGVMblIY3AWDW8k1fY0JuJ6RuqfNreqTDOqV3ZNpqRZ8J8r9qy-NDNYXkXM7if_8yiXnjJL6Vv9-TgLIijgh5tVNYS-yR4iZ9nMXYzt55oYDymRMf0deYQ-UxhuehbX-Z4V7_xhSsQdbqYdEdUV-LigjZVPNxd0wo9rLCAaedknzDWSZR439VP4db76PJsZ8ePuoKRiH7S-zIZALDRtX0v-QGdOClLxBLLRFAwOsKJmTjPbo68GN9MvOvnFYktX6dFWS3CoIyul3ELkNhT2N7fKtEIXBIWcQQmElH2YO-Dx2VtIX8vb26LOI9ZbQiKaqvdAyRJo6upKv5yaZwtG2Dpgu8KlTiZL6WEvAtJvOZu6ZTK5J8PDLRapoOOL1nW9DbKg10xwmQ-7baZdZ2yy-r1JU3bV8JjvvRqJ1lUfg8UxmuVbEtWQIcC_wxW5lVCkzIpvtBuKjip33kam9REiJQ7q-uLSHPjgKWFT2Urfx2wpC8VbzXX4pMgt1-ZB3Sk1kjT7JTej6owo9jvjmZ-a190y_QtM4oSDOtfF5S5E7uwkzmeeFKCQ5FFmpo0SWurn4uPzBB9sQOOHQf0gA?sig=W8DB_9iDJUnpXg1DhrPTpK8VIYxKaX9yyiySRUc3EUE" target="_blank" class="mt-3 inline-block bg-cyan-600 hover:bg-cyan-700 px-4 py-2 rounded-md text-sm font-semibold transition shadow-lg">Download</a>
+    </div>
+  </div>
+
+  <div class="relative game-card min-w-[300px] rounded-2xl overflow-hidden shadow-2xl cursor-pointer neon-border">
     <img src="img/tr-goty.png" alt="Batman Arkham Knight Premium Edition" class="w-full h-48 object-fit: cover">
     <div class="overlay absolute inset-0 backdrop-blur-md bg-black/60 flex flex-col justify-end p-4 text-white">
       <h3 class="text-xl font-bold">Tomb Raider GAME OF THE YEAR</h3>
