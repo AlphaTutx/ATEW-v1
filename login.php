@@ -705,8 +705,8 @@ if (!isset($_SESSION['username'])) {
                 <h3 class="font-bold text-xl text-white mb-1">NBA 2k14 Modded to 2k26</h3>
                 <br>
                 <p class="text-red-400 text-sm mb-4">ZIP FILE SIZE: 11.6 GB</p>
-                <a href="https://drive.google.com/drive/folders/1BxPatnUwgeyZqRLFe7Z8kIMnvHJr3TCU?usp=drive_link" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-5 rounded-md shadow-md transition">Download</a>
-                <a href="#" target="_blank" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-5 rounded-md shadow-md transition">Gameplay</a>
+                <a href="https://drive.google.com/drive/folders/11rg6y5R-I9RgrqjkJv7af0TDNOvNiNjX?usp=sharing" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-5 rounded-md shadow-md transition">Download</a>
+                <a href="https://www.facebook.com/share/v/1aoD4tTY4N/" target="_blank" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-5 rounded-md shadow-md transition">Gameplay</a>
               </div>
             </div>
 
