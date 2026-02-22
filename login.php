@@ -55,7 +55,7 @@ if (!isset($_SESSION['username'])) {
           <a href="Emulators-and-Roms.php" class="hover:text-cyan-400 transition font-semibold">| Emulators & Roms |</a>        
           <a href="gamesuppfix.php" class="hover:text-cyan-400 transition font-semibold">| Game Support/Fix |</a>
           <a href="18-section.php" class="hover:text-cyan-400 transition font-semibold">| 18+ Section |</a>
-          <a href="https://docs.google.com/spreadsheets/d/14crWaue7VCDUBApUCCkyZkLNzjpLTrjKyMYSNzY_8jc/edit?usp=drive_link" target="_blank" class="hover:text-cyan-400 transition font-semibold">| Request a game |</a>
+          <a href="https://docs.google.com/spreadsheets/d/14crWaue7VCDUBApUCCkyZkLNzjpLTrjKyMYSNzY_8jc/edit?usp=drive_link" target="_blank" class="hover:text-cyan-400 transition font-semibold">| Request Area |</a>
           <a href="logout.php" class="text-red-500 hover:text-red-700 transition font-semibold">| Logout |</a>
 
 		  
@@ -704,8 +704,8 @@ if (!isset($_SESSION['username'])) {
               <div class="p-5">
                 <h3 class="font-bold text-xl text-white mb-1">NBA 2k14 Modded to 2k26</h3>
                 <br>
-                <p class="text-red-400 text-sm mb-4">ZIP FILE SIZE: 11.6 GB</p>
-                <a href="https://drive.google.com/drive/folders/11rg6y5R-I9RgrqjkJv7af0TDNOvNiNjX?usp=sharing" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-5 rounded-md shadow-md transition">Download</a>
+                <p class="text-red-400 text-sm mb-4">ZIP FILE SIZE: 11.54GB | UPT: FEB 20</p>
+                <a href="https://docs.google.com/document/d/1qwqzZnlSYKanad5hiGTnx7Bzhv9G-Ohvq0NXtdbstEg/edit?usp=drive_link" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-5 rounded-md shadow-md transition">Download</a>
                 <a href="https://www.facebook.com/share/v/1aoD4tTY4N/" target="_blank" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-5 rounded-md shadow-md transition">Gameplay</a>
               </div>
             </div>
@@ -968,8 +968,8 @@ if (!isset($_SESSION['username'])) {
               <div class="p-5">
                 <h3 class="font-bold text-xl text-white mb-1">NBA 2k23 Modded to 2k26</h3>
                 <br>
-                <p class="text-red-400 text-sm mb-4">ZIP FILE SIZE: 138.85 GB</p>
-                <a href="https://drive.google.com/drive/folders/1N_c3creEm6L2NuiLrPL_iFUZw_yNb8Uc?usp=drive_link" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-5 rounded-md shadow-md transition">Download</a>
+                <p class="text-red-400 text-sm mb-4">ZIP FILE SIZE: 143.91GB | UPT: FEB 17</p>
+                <a href="https://docs.google.com/document/d/1p5PMNcrEIOTGqbZT7VWMKKZ5rlayyMB8p1XbMgf4HpA/edit?usp=drive_link" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-5 rounded-md shadow-md transition">Download</a>
                 <a href="https://www.youtube.com/watch?v=WhQafPlViIw" target="_blank" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-5 rounded-md shadow-md transition">Gameplay</a>
               </div>
             </div>

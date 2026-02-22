@@ -37,7 +37,7 @@
           <a href="Emulators-and-Roms.php" class="hover:text-cyan-400 transition font-semibold">| Emulators & Roms |</a>        
           <a href="gamesuppfix.php" class="hover:text-cyan-400 transition font-semibold">| Game Support/Fix |</a>
           <a href="18-section.php" class="hover:text-cyan-400 transition font-semibold">| 18+ Section |</a>
-          <a href="https://docs.google.com/spreadsheets/d/14crWaue7VCDUBApUCCkyZkLNzjpLTrjKyMYSNzY_8jc/edit?usp=drive_link" target="_blank" class="hover:text-cyan-400 transition font-semibold">| Request a game |</a>
+          <a href="https://docs.google.com/spreadsheets/d/14crWaue7VCDUBApUCCkyZkLNzjpLTrjKyMYSNzY_8jc/edit?usp=drive_link" target="_blank" class="hover:text-cyan-400 transition font-semibold">| Request Area |</a>
           <a href="logout.php" class="text-red-500 hover:text-red-700 transition font-semibold">| Logout |</a>
 		  
         </nav>
@@ -72,6 +72,108 @@
           <h2 class="text-4xl font-extrabold mb-6 text-cyan-400">🎮 All CP Games</h2>
 
           <div id="gamesGrid" class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-10">
+
+          <!-- Game Card Template -->
+
+            <div class="game-card bg-gradient-to-br from-gray-800 to-gray-900 rounded-2xl overflow-hidden shadow-xl neon-border">
+              <img src="img3/sv.jpg" alt="WWE 2K25" class="w-full h-48 object-fit: cover">
+              <div class="p-5">
+                <h3 class="font-bold text-xl text-white mb-1">Stardew Valley</h3>
+                <br>             
+                <p class="text-red-400 text-sm mb-4">Premium Version<br><br>SIZE - 399.79 MB</p>                
+                <a href="https://dl.apkvision.org/stardew-valley/Stardew-Valley-v1.6.15.0-full-apkvision.apk" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-5 rounded-md shadow-md transition">Download</a>
+                <a href="https://www.youtube.com/watch?v=1KjG0wjK4ps" target="_blank" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-5 rounded-md shadow-md transition">Gameplay</a>
+              </div>
+            </div>
+
+          <!-- Game Card Template -->
+
+            <div class="game-card bg-gradient-to-br from-gray-800 to-gray-900 rounded-2xl overflow-hidden shadow-xl neon-border">
+              <img src="img3/tdkr.jpg" alt="WWE 2K25" class="w-full h-48 object-fit: cover">
+              <div class="p-5">
+                <h3 class="font-bold text-xl text-white mb-1">The Dark Knight Rises</h3>
+                <br>             
+                <p class="text-red-400 text-sm mb-4">Premium Version<br><br>SIZE - APK: 13 MB | OBB: 895 MB</p>                
+                <a href="https://docs.google.com/document/d/1Xuw8KrK2VRFDISWwCC6wNoUa4VteSmW0mhdpRZBrG4k/edit?usp=drive_link" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-5 rounded-md shadow-md transition">Download</a>
+                <a href="https://www.youtube.com/watch?v=2w5B0eYutlc&list=PLZG7QxDAofgbKYpkPw6HYQMG64Tt932FG" target="_blank" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-5 rounded-md shadow-md transition">Gameplay</a>
+              </div>
+            </div>
+
+          <!-- Game Card Template -->
+
+            <div class="game-card bg-gradient-to-br from-gray-800 to-gray-900 rounded-2xl overflow-hidden shadow-xl neon-border">
+              <img src="img3/re4.jpg" alt="WWE 2K25" class="w-full h-48 object-fit: cover">
+              <div class="p-5">
+                <h3 class="font-bold text-xl text-white mb-1">Resident Evil 4</h3>
+                <br>             
+                <p class="text-red-400 text-sm mb-4">Premium Version<br><br>SIZE - 198.80 MB</p>                
+                <a href="https://dl.apkvision.org/resident-evil-4/resident-evil-4-v2.0-mod-apkvision.org.apk" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-5 rounded-md shadow-md transition">Download</a>
+                <a href="https://www.youtube.com/watch?v=L-cBRYGIw7o" target="_blank" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-5 rounded-md shadow-md transition">Gameplay</a>
+              </div>
+            </div>
+
+          <!-- Game Card Template -->
+
+            <div class="game-card bg-gradient-to-br from-gray-800 to-gray-900 rounded-2xl overflow-hidden shadow-xl neon-border">
+              <img src="img3/mtw-2.jpg" alt="WWE 2K25" class="w-full h-48 object-fit: cover">
+              <div class="p-5">
+                <h3 class="font-bold text-xl text-white mb-1">Total War: MEDIEVAL II</h3>
+                <br>             
+                <p class="text-red-400 text-sm mb-4">Premium Version<br><br>SIZE - 3.02 GB</p>                
+                <a href="https://dl.apkvision.org/total-war-medieval-ii/total-war-medieval-2-1.4.1rc5-mod-apkvision.apk" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-5 rounded-md shadow-md transition">Download</a>
+                <a href="https://www.youtube.com/watch?v=GKl5P1ts2Mo" target="_blank" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-5 rounded-md shadow-md transition">Gameplay</a>
+              </div>
+            </div>
+
+          <!-- Game Card Template -->
+
+            <div class="game-card bg-gradient-to-br from-gray-800 to-gray-900 rounded-2xl overflow-hidden shadow-xl neon-border">
+              <img src="img3/tempest.jpg" alt="WWE 2K25" class="w-full h-48 object-fit: cover">
+              <div class="p-5">
+                <h3 class="font-bold text-xl text-white mb-1">Tempest: Pirate RPG Premium</h3>             
+                <p class="text-red-400 text-sm mb-4">Premium Version<br><br>SIZE - 330.67 MB</p>                
+                <a href="https://dl.apkvision.org/tempest-pirate-rpg-premium/Tempest-v1.7.9-full-apkvision.apk" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-5 rounded-md shadow-md transition">Download</a>
+                <a href="https://www.youtube.com/watch?v=XWuTtR_Fkls" target="_blank" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-5 rounded-md shadow-md transition">Gameplay</a>
+              </div>
+            </div>
+
+          <!-- Game Card Template -->
+
+            <div class="game-card bg-gradient-to-br from-gray-800 to-gray-900 rounded-2xl overflow-hidden shadow-xl neon-border">
+              <img src="img3/hff.jpg" alt="WWE 2K25" class="w-full h-48 object-fit: cover">
+              <div class="p-5">
+                <h3 class="font-bold text-xl text-white mb-1">Human : Fall Flat</h3>
+                <br>                
+                <p class="text-red-400 text-sm mb-4">Premium Version<br><br>SIZE - 726.54 MB</p>                
+                <a href="https://dl.apkvision.org/human-fall-flat/Human-Fall-Flat-v2.5.1-full-apkvision.apk" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-5 rounded-md shadow-md transition">Download</a>
+                <a href="https://www.youtube.com/watch?v=-F3yz7szvTI&list=PLGtZwVE-T07vkIelNjT7qL1iv0X9pFNYn" target="_blank" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-5 rounded-md shadow-md transition">Gameplay</a>
+              </div>
+            </div>
+
+          <!-- Game Card Template -->
+
+            <div class="game-card bg-gradient-to-br from-gray-800 to-gray-900 rounded-2xl overflow-hidden shadow-xl neon-border">
+              <img src="img3/sf-2.jpg" alt="WWE 2K25" class="w-full h-48 object-fit: cover">
+              <div class="p-5">
+                <h3 class="font-bold text-xl text-white mb-1">Steel And Flesh 2: New Lands</h3>                
+                <p class="text-red-400 text-sm mb-4">Premium Version<br><br>SIZE - 503.14 MB</p>                
+                <a href="https://dl.apkvision.org/steel-and-flesh-2-new-lands/Steel-And-Flesh-2-v2.2-mod-apkvision.apk" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-5 rounded-md shadow-md transition">Download</a>
+                <a href="https://www.youtube.com/watch?v=efHf0sy9L5c" target="_blank" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-5 rounded-md shadow-md transition">Gameplay</a>
+              </div>
+            </div>
+
+          <!-- Game Card Template -->
+
+            <div class="game-card bg-gradient-to-br from-gray-800 to-gray-900 rounded-2xl overflow-hidden shadow-xl neon-border">
+              <img src="img3/subnautica.jpg" alt="WWE 2K25" class="w-full h-48 object-fit: cover">
+              <div class="p-5">
+                <h3 class="font-bold text-xl text-white mb-1">Subnautica</h3>
+                <br>                
+                <p class="text-red-400 text-sm mb-4">Premium Version<br><br>SIZE - 2.04 GB</p>                
+                <a href="https://dl.apkvision.org/subnautica/Subnautica-v1.21.83023-full-apkvision.apk" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-5 rounded-md shadow-md transition">Download</a>
+                <a href="https://www.youtube.com/watch?v=6_S5UUA3Dj0&list=PLeryE-e3frBBRI2LwJaoxdAkHNqgJKHZu" target="_blank" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-5 rounded-md shadow-md transition">Gameplay</a>
+              </div>
+            </div>
 
           <!-- Game Card Template -->
 
@@ -514,7 +616,7 @@
               <img src="img/nba2k14-26.jpg" alt="Little Nightmares" class="w-full h-48 object-fit: cover">
               <div class="p-5">
                 <h3 class="font-bold text-xl text-white mb-1">NBA 2k20 Modded to 2k26</h3>
-                <p class="text-red-400 text-sm mb-4">Updated as of now<br><br>SIZE - APK: 83.09 MB | OBB: 2.95 GB</p>
+                <p class="text-red-400 text-sm mb-4">Updated as of FEB 16, 2026<br><br>SIZE - APK: 83.09 MB | OBB: 2.95 GB</p>
                 <a href="https://docs.google.com/document/d/1pN-vpjSMyH4oOr_dqKW6rKvjPMFPr7yH_wfWcsk6djI/edit?usp=drive_link" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-5 rounded-md shadow-md transition">Download</a>
                 <a href="https://www.youtube.com/watch?v=9mF7nnF9mY4&t=17s" target="_blank" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-5 rounded-md shadow-md transition">Gameplay</a>
               </div>
