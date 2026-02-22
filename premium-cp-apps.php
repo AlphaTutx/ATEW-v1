@@ -298,7 +298,7 @@
 
             <!-- Game Card Template -->
             <div class="game-card bg-gradient-to-br from-gray-800 to-gray-900 rounded-2xl overflow-hidden shadow-xl neon-border">
-              <img src="img2/9anime.jpeg" alt="9Anime" class="w-full h-48 object-fit: cover">
+              <img src="img2/9anime.png" alt="9Anime" class="w-full h-48 object-fit: cover">
               <div class="p-5">
                 <h3 class="font-bold text-xl text-white mb-1">9Anime</h3>
                 <p class="text-red-400 text-sm mb-4 font-semibold">FOR PHONES</p> 
