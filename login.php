@@ -146,7 +146,7 @@ if (!isset($_SESSION['username'])) {
 
           <!-- Game Card Template -->
             <div class="game-card bg-gradient-to-br from-gray-800 to-gray-900 rounded-2xl overflow-hidden shadow-xl neon-border">
-              <img src="img/cod-aw.jpeg" alt="Fight Night Forever" class="w-full h-48 object-fit: cover">
+              <img src="img/cod-aw.jpg" alt="Fight Night Forever" class="w-full h-48 object-fit: cover">
               <div class="p-5">
                 <h3 class="font-bold text-xl text-white mb-1">Call of Duty Advanced Warfare</h3>
                 <br>
