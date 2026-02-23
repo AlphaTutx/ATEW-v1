@@ -146,6 +146,19 @@ if (!isset($_SESSION['username'])) {
 
           <!-- Game Card Template -->
             <div class="game-card bg-gradient-to-br from-gray-800 to-gray-900 rounded-2xl overflow-hidden shadow-xl neon-border">
+              <img src="img/cod-aw.jpeg" alt="Fight Night Forever" class="w-full h-48 object-fit: cover">
+              <div class="p-5">
+                <h3 class="font-bold text-xl text-white mb-1">Call of Duty Advanced Warfare</h3>
+                <br>
+                <br>
+                <p class="text-red-400 text-sm mb-4">ZIP FILE SIZE: 67.6 GB</p>
+                <a href="https://nova.dlproxy.uk/download/Zs9VXtSlVeQeffwfiJa2x8l948qmTRsTLASY8jJ1Ve6cdihSmts3U4UDoXca6nmM1VzxAcpn0Tyu7KwQakwmpgeBG21u1WW7ArHOMVUJ1RKSP3Oy-nr_kwt7LAuZ_83a_2uYjnOmiO815G-GukSK7_38YNy3QkJTvoZudphVjmMsNImPOFLxDvr4Yp2hxfPxzewh973yon8_TwIsv-oLM5akw_zve7KCOrFWY_xRTq_2jvyE8ptNAajMkfKpSXf5-tdat3aWNKGbAHLwlEzDjLP9stTYu5aoMg9EiJFtzr-PR-2lNSvy-a5EEc5o1pkU5B5W46xTOMgVwL1GAsIzbhYQJGevJLuogm8tMk5kBOYLeVtXXquHqU3YGehywVmR4uBWe8GYZDehGxt8xgf4vHi6FCZNS64i-WsTk6lQ0JiIOIO_ZDwVr_xyRhti9yO4GmjATGKM76c7KCU4HRFoYup_JgAGveUs47oc7FDQV1eS_S5yUvegGiHnrXSNUZOiFSl0Q5nHtfV-RFFr6X-5nirxohwhtgviA9Xr9DeX-i0kMEMQGKD2gyZgfcpa4qZXPCs6vsrMgH_ufvxw5n_K1Phr3gXc-8pCvjC3wrxmMbsxMF-BtMCHBudoRG-A196hK_ipdKkp2BOKIxBx03w5wA?sig=uMxVJb94cMGdCPVRoHXpRPAdtZrzzerYVuh_tYdEJvw">Download</a>
+                <a href="https://www.youtube.com/watch?v=7KIS5Bl68Yw" target="_blank" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-5 rounded-md shadow-md transition">Gameplay</a>
+              </div>
+            </div>
+
+          <!-- Game Card Template -->
+            <div class="game-card bg-gradient-to-br from-gray-800 to-gray-900 rounded-2xl overflow-hidden shadow-xl neon-border">
               <img src="img/sf.jpg" alt="Fight Night Forever" class="w-full h-48 object-fit: cover">
               <div class="p-5">
                 <h3 class="font-bold text-xl text-white mb-1">Split Fiction</h3>
