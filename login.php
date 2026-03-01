@@ -146,9 +146,23 @@ if (!isset($_SESSION['username'])) {
 
           <!-- Game Card Template -->
             <div class="game-card bg-gradient-to-br from-gray-800 to-gray-900 rounded-2xl overflow-hidden shadow-xl neon-border">
+              <img src="img/cod-cw.jpg" alt="Fight Night Forever" class="w-full h-48 object-fit: cover">
+              <div class="p-5">
+                <h3 class="font-bold text-xl text-white mb-1">Call of Duty Cold War</h3>
+                <br>
+                <br>
+                <p class="text-red-400 text-sm mb-4">ZIP FILE SIZE: 204.5 GB</p>
+                <a href="https://orion.dlproxy.uk/download/22caYocy6wa4RiBmhjEtCpl4vToiqPaJibJFkhtXF0DYfbItQdnx5fRsQtFUKtANaOtgZhcHR55-1M6KOh6OIqZRgkM4k9TOZEBWwuQ-YrEQf4s2H0rc36ZufBww1Odc4mvyUqjx-K_rXIokcm7WNtuvmURrapYhURxFckWKlKJt6Zf_Q5TraRSvfAR6J21-2th6OeTQ3sdazqf02cudxsKzkxjqXzZCwWK_I9vx12pcgpm0x5a9qg4UQxfq65bxDTaZslJKzed9O_-PSy-zdGLnZpX2pXWKxtJvOXKpTnIn8VncNxVJTiKJ7nlDRt9JXONDNesO9wki454SR6f5ROn3SQYa9M_TayGMa43pmxqmZFUIM8PVgeF8nJ1VMh_ZOturCu68szzF8xOWRBPlnackCID0M1xG0A1sFB4OEfiPmn_wxb7k8bbZMSI3uOwsA45grn9cZzArTVZNVlT2yX6DYEcBnckFb5reuKPmCSy52d1jQZYhcfN1xGneuIA6BS9BqmgmIGvZvBOyHZlP35BX2E8fZIcA2-1zosVzFghzTTGNNCoeIlVhO1_0Al0J3svjmMvnvxsQLlMyj4mY09P7WNnu7w9cL10Z2YhfVBzWtE5AT0SXnL2xfWbx7nNuDIGSHGLdVkAC_Fhii7zMfA?sig=oUEDwfF_C-1TJwMLAEjuXV7MdojNba1NSHYuvK4XIhM" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-5 rounded-md shadow-md transition">Download</a>
+                <a href="https://www.youtube.com/watch?v=Cjhr8qSr6Cc&t=9s" target="_blank" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-5 rounded-md shadow-md transition">Gameplay</a>
+              </div>
+            </div>
+
+          <!-- Game Card Template -->
+            <div class="game-card bg-gradient-to-br from-gray-800 to-gray-900 rounded-2xl overflow-hidden shadow-xl neon-border">
               <img src="img/cod-bops-3.jpg" alt="Fight Night Forever" class="w-full h-48 object-fit: cover">
               <div class="p-5">
                 <h3 class="font-bold text-xl text-white mb-1">Call of Duty Black Ops 3</h3>
+                <br>
                 <br>
                 <p class="text-red-400 text-sm mb-4">ZIP FILE SIZE: 110.2 GB</p>
                 <a href="https://tunnel1.dlproxy.uk/download/pLY7i9H8fiD0pVYXWjxuovjRFjf8C2w5-wChqfdjKR_8LzLW1VVyDnrAqIwJ7u0nSpOB--e37GY8flfglEqimJ9ssYeH9f2nagpRLsd-LE60gs2H2cPttiBxepR9myPW1X2r2RiuCJDS1mBtPwyKWqU2uDYnw39LkA8amvhnwjnJzJOGfVkzDMQ6PuANsh_FrbgCC_fNuj7wDh5FX7nxOSnCk734IHNfBZMtZOrZyYbsUnQXe8sjnIpStRNccFfiEvKyC_Z4DvCkJdgweQCx2ZUH6xwIbxwPbFSw-jx8NHjKkG5WbcQc7JeVHvzBT4T942MyUmGcuNStYuM0CS6m0e1ItuBkbne1c_8lgki8Xazr3w_j2YtQzA_IvZjimGk5JYyl70qrl0IGQCDdFEz5mNogtoYjYFUeTl2X-yweN9fkoVSoKq6g-3PDfA0pP7wZhD4p_kCA-BJAxK5lp8iJIdJDAxLJ0kCWTN3DvrU7I1LRxsjyKNDydoagtHdtyFGvvAzMvDQw-Z2t8vW8ZJnK0DrepzxlpuMfYudMX6j2K0B5ObJO81gpNuGKTWIQcXUDMOdL3gCMCd9a6nTZ3ER-P--6pCRgOQMeGqcG7oJTosuPEFYlvxZ1GCJhvcERO3Cn?sig=NGVP6JUrvALKB_fwvuOYKR9okzWKeVgjh2oyjN9KOng" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-5 rounded-md shadow-md transition">Download</a>
@@ -162,6 +176,7 @@ if (!isset($_SESSION['username'])) {
               <div class="p-5">
                 <h3 class="font-bold text-xl text-white mb-1">Call of Duty Ghosts</h3>
                 <br>
+                <br>
                 <p class="text-red-400 text-sm mb-4">ZIP FILE SIZE: 50.0 GB</p>
                 <a href="https://apophis.dlproxy.uk/download/E_frPOiAuu2SDbWt8LeM4H50poshDKuB-DPA3BQY_scEwortxp6gDHblecUg2-oKc8WS6t3P69Lo7OpoJWCjxjmr6AM1DKhTbR7gOyS5nC0pADo3eiwZBJ2DsZ7EktWjBZw0zDqOTjBV0vuWIyetJ6kawOeeSPhthTBQksMe9zHNT5enEYB8NB-JYknHwT86kx51vCxAnoxYy1BxaRf-zTQOWJj6mACPe6JtuEFMzCROYNcAFJGglyoGLoPvBms0PZBY4Ragn2cv0kpyewK32OibX22CRWqLFGR8XDUfT4rzuH0HbMLpHimkoxgCaOQGnpWofhVREzgh3ciWBCJ14-dzuGtSlanG1VJRroS3Z2rw4WUwo0_pCDqm4u0ygBgOOQSmmL1sOpQMyyXJBGVgx5-p43pMz6Ciln34x2nHvkxvOZRmakl0pejeEMyWvL9J3uzJCuerrPg2mMTpFOPze21WTkSxN433hPm4e7DRBLNcL0F-ihenF75qG23oovnVht-pVwZxecgICkVCAikUd4HOkVAczxTRiCbT01OQfrXwEMtXixHy_6tRxwP7JbZdpTgQHgOHwQne_KwKtSnSQrbLRTEEFawbCJG6grGZoQNpCY-GflDcqxOeABgQASzf?sig=Se8iMpYNab9K6bSglr2GIS2mIm0EgFU1_R2Vz51-qGQ" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-5 rounded-md shadow-md transition">Download</a>
                 <a href="https://www.youtube.com/watch?v=KLpqTauuBU0" target="_blank" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-5 rounded-md shadow-md transition">Gameplay</a>
@@ -174,21 +189,10 @@ if (!isset($_SESSION['username'])) {
               <div class="p-5">
                 <h3 class="font-bold text-xl text-white mb-1">Call of Duty Black Ops 2</h3>
                 <br>
+                <br>
                 <p class="text-red-400 text-sm mb-4">ZIP FILE SIZE: 20.6 GB</p>
                 <a href="https://orion.dlproxy.uk/download/22caYocy6wa4RiBmhjEtCpl4vToiqPaJibJFkhtXF0DYfbItQdnx5fRsQtFUKtANaOtgZhcHR55-1M6KOh6OIqZRgkM4k9TOZEBWwuQ-YrFS30Ao9p9ol0PcZvSDQ0qfrHAwfghZGFqUCDtxlSpuIjHR8H9BXmbkJwOVOIGofIHDcZ-FMrGk3Pd8mS5FJWX7hARoRu-cPwXKIwfoRi3EFbRTkhX5lSC6y2YyGfQ_7zr_pq9Ql9gwXbimS2ym5ZEjM28LFBUDFr5YUOMGTQFQ1QMHYFUTEOX3bMszxeHVTOTGM4INSWtmnsrZN_DM5FzPomrHMOqcm4jy70eduKl-WwCKfH4-VozZftPQXmbyxS5z74mF4X4c3TGEjN5uvE5W7oL9HKEGKP4vOUkxvJDVezCzicyqIYqz6SgfbjmaPazYciXdyzKFJIpXsNMjyC-ofsktaUHp-3TRRXC2p_gWccKcPPd7-1wGBSoYBUuZwJfITbP88aX7upTaGNfzY_Nyx5KKSEln7GMQQyoIQThTiQfXZ7mCeemUuTNa2HYBlpnT1w3HYhXikEAnr4KpSfnJ5BDy8Vb5jQ21-5f7qT0lCBxECMF43tZEqDCEkkRKQBVPT3dCHtQGJ-OZaOpXDE5F?sig=_TlzBO1SK9OcXISqzM9lhk3gFuafdW9998lzX5znNCg" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-5 rounded-md shadow-md transition">Download</a>
                 <a href="https://www.youtube.com/watch?v=YH6UHwdeWog&t=3402s" target="_blank" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-5 rounded-md shadow-md transition">Gameplay</a>
-              </div>
-            </div>
-
-          <!-- Game Card Template -->
-            <div class="game-card bg-gradient-to-br from-gray-800 to-gray-900 rounded-2xl overflow-hidden shadow-xl neon-border">
-              <img src="img/cod-aw.jpg" alt="Fight Night Forever" class="w-full h-48 object-fit: cover">
-              <div class="p-5">
-                <h3 class="font-bold text-xl text-white mb-1">Call of Duty Advanced Warfare</h3>
-                <br>
-                <p class="text-red-400 text-sm mb-4">ZIP FILE SIZE: 67.6 GB</p>
-                <a href="https://nova.dlproxy.uk/download/Zs9VXtSlVeQeffwfiJa2x8l948qmTRsTLASY8jJ1Ve6cdihSmts3U4UDoXca6nmM1VzxAcpn0Tyu7KwQakwmpgeBG21u1WW7ArHOMVUJ1RKSP3Oy-nr_kwt7LAuZ_83a_2uYjnOmiO815G-GukSK7_38YNy3QkJTvoZudphVjmMsNImPOFLxDvr4Yp2hxfPxzewh973yon8_TwIsv-oLM5akw_zve7KCOrFWY_xRTq_2jvyE8ptNAajMkfKpSXf5-tdat3aWNKGbAHLwlEzDjLP9stTYu5aoMg9EiJFtzr-PR-2lNSvy-a5EEc5o1pkU5B5W46xTOMgVwL1GAsIzbhYQJGevJLuogm8tMk5kBOYLeVtXXquHqU3YGehywVmR4uBWe8GYZDehGxt8xgf4vHi6FCZNS64i-WsTk6lQ0JiIOIO_ZDwVr_xyRhti9yO4GmjATGKM76c7KCU4HRFoYup_JgAGveUs47oc7FDQV1eS_S5yUvegGiHnrXSNUZOiFSl0Q5nHtfV-RFFr6X-5nirxohwhtgviA9Xr9DeX-i0kMEMQGKD2gyZgfcpa4qZXPCs6vsrMgH_ufvxw5n_K1Phr3gXc-8pCvjC3wrxmMbsxMF-BtMCHBudoRG-A196hK_ipdKkp2BOKIxBx03w5wA?sig=uMxVJb94cMGdCPVRoHXpRPAdtZrzzerYVuh_tYdEJvw" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-5 rounded-md shadow-md transition">Download</a>
-                <a href="https://www.youtube.com/watch?v=7KIS5Bl68Yw" target="_blank" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-5 rounded-md shadow-md transition">Gameplay</a>
               </div>
             </div>
 
