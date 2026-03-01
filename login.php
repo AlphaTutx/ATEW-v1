@@ -97,6 +97,15 @@ if (!isset($_SESSION['username'])) {
          <!-- Start of Featured Games -->
 
   <div class="relative game-card min-w-[300px] rounded-2xl overflow-hidden shadow-2xl cursor-pointer neon-border">
+    <img src="img/dw-7-ext-de.jpg" alt="Batman Arkham Knight Premium Edition" class="w-full h-48 object-fit: cover">
+    <div class="overlay absolute inset-0 backdrop-blur-md bg-black/60 flex flex-col justify-end p-4 text-white">
+      <h3 class="text-xl font-bold">Dynasty Warriors 7 XTREME Legends Definitive Edition</h3>
+      <p class="text-sm text-red-300">ZIP FILE SIZE: 16.12 GB</p>
+      <a href="https://drive.google.com/file/d/1j0KQ66Kb8xJerOrrYkeB_xX1yxi0tKtO/view?usp=drive_link" target="_blank" class="mt-3 inline-block bg-cyan-600 hover:bg-cyan-700 px-4 py-2 rounded-md text-sm font-semibold transition shadow-lg">Download</a>
+    </div>
+  </div>
+
+  <div class="relative game-card min-w-[300px] rounded-2xl overflow-hidden shadow-2xl cursor-pointer neon-border">
     <img src="img/db-x2.jpg" alt="Batman Arkham Knight Premium Edition" class="w-full h-48 object-fit: cover">
     <div class="overlay absolute inset-0 backdrop-blur-md bg-black/60 flex flex-col justify-end p-4 text-white">
       <h3 class="text-xl font-bold">DRAGON BALL XENOVERSE 2</h3>
