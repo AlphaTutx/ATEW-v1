@@ -99,6 +99,15 @@ if (!isset($_SESSION['username'])) {
   <div class="relative game-card min-w-[300px] rounded-2xl overflow-hidden shadow-2xl cursor-pointer neon-border">
     <img src="img/dw-7-ext-de.jpg" alt="Batman Arkham Knight Premium Edition" class="w-full h-48 object-fit: cover">
     <div class="overlay absolute inset-0 backdrop-blur-md bg-black/60 flex flex-col justify-end p-4 text-white">
+      <h3 class="text-xl font-bold">Call of Duty: Vanguard</h3>
+      <p class="text-sm text-red-300">ZIP FILE SIZE: 56.5 GB</p>
+      <a href="https://carina.dlproxy.uk/download/OYPmilzKKg0cU4B_aELQ9xz6UklOkcS2lwKf3aOeeH7wMMvnYWSxWFc7nFoV-iZuNXBNYC8m4EroRji5p_lxtQQEtiOPdws9W-fn6c__V3QkHG30nKzHf8n3_TiSeMNcVS1T21dnVgc96FZMzWbwpeUWWk2BhYCQVGctzMLEWZoIm3o3rHw6CUHMkZCw6Yy5Q_W-P6tWhgvNZBqxoYZpDucCBjO6bPlV9Mp11Ql32I-k9t5ni_4jhMgD-b9gtTSP-ezg2OKk-XaubL3IfN-ee44lmYlIdRDT9wUsdCITSsKWVYe7mgQUCIZZsKVEn4rqxbPZpKjpwXiiO7fstt-9iwSiStGt87_lj8OU84HtSQYuUXSJR2RrGoOaOhZLsvhOEV9wEBHZ376BFqRLbIoeZp_iv3_rfMfPPzSGzl464UAPVb5Zn7R7PEL2ddkeSTQNxabGLbu50YcJ_X0CS5McMBwX2_L1fcM5wvhUOKgLkthkuoHshnFdoymuHA6X1C3kzEFXFCxgaoQNIbXBrD13ZR_GAivjEtfAY3_DoOxp8-kKTy2vj4d5KDgaOvId8IY9c0JtRknq166G8SaitRIKowdBa_69swuorN622iw9-2KYS14_8lApHkNEdtyKdMc-?sig=4kdwfK6ns1Yj_9foWW48RvKlCpSsxTVFEX40143a_-Y" target="_blank" class="mt-3 inline-block bg-cyan-600 hover:bg-cyan-700 px-4 py-2 rounded-md text-sm font-semibold transition shadow-lg">Download</a>
+    </div>
+  </div>
+
+  <div class="relative game-card min-w-[300px] rounded-2xl overflow-hidden shadow-2xl cursor-pointer neon-border">
+    <img src="img/dw-7-ext-de.jpg" alt="Batman Arkham Knight Premium Edition" class="w-full h-48 object-fit: cover">
+    <div class="overlay absolute inset-0 backdrop-blur-md bg-black/60 flex flex-col justify-end p-4 text-white">
       <h3 class="text-xl font-bold">Dynasty Warriors 7 XTREME Legends Definitive Edition</h3>
       <p class="text-sm text-red-300">ZIP FILE SIZE: 16.12 GB</p>
       <a href="https://drive.google.com/file/d/1j0KQ66Kb8xJerOrrYkeB_xX1yxi0tKtO/view?usp=drive_link" target="_blank" class="mt-3 inline-block bg-cyan-600 hover:bg-cyan-700 px-4 py-2 rounded-md text-sm font-semibold transition shadow-lg">Download</a>
@@ -123,23 +132,7 @@ if (!isset($_SESSION['username'])) {
     </div>
   </div>
 
-  <div class="relative game-card min-w-[300px] rounded-2xl overflow-hidden shadow-2xl cursor-pointer neon-border">
-    <img src="img/e-33.jpg" alt="Batman Arkham Knight Premium Edition" class="w-full h-48 object-fit: cover">
-    <div class="overlay absolute inset-0 backdrop-blur-md bg-black/60 flex flex-col justify-end p-4 text-white">
-      <h3 class="text-xl font-bold">Clair Obscur Expedition 33</h3>
-      <p class="text-sm text-red-300">ZIP FILE SIZE: 39.96 GB</p>
-      <a href="https://drive.google.com/file/d/15gwf9jgaGpfKN1iIOXYjNXOokdamFInc/view?usp=drive_link" target="_blank" class="mt-3 inline-block bg-cyan-600 hover:bg-cyan-700 px-4 py-2 rounded-md text-sm font-semibold transition shadow-lg">Download</a>
-    </div>
-  </div>
-
-  <div class="relative game-card min-w-[300px] rounded-2xl overflow-hidden shadow-2xl cursor-pointer neon-border">
-    <img src="img/nfs-heat.png" alt="Batman Arkham Knight Premium Edition" class="w-full h-48 object-fit: cover">
-    <div class="overlay absolute inset-0 backdrop-blur-md bg-black/60 flex flex-col justify-end p-4 text-white">
-      <h3 class="text-xl font-bold">Need for Speed Heat Deluxe Edition</h3>
-      <p class="text-sm text-red-300">ZIP FILE SIZE: 25.97 GB</p>
-      <a href="https://drive.google.com/file/d/1wsn8iaFaHdGmzJdI6O8bXb9KKrGd6D9E/view?usp=drive_link" target="_blank" class="mt-3 inline-block bg-cyan-600 hover:bg-cyan-700 px-4 py-2 rounded-md text-sm font-semibold transition shadow-lg">Download</a>
-    </div>
-  </div>
+  
 
 </div>
 
@@ -214,6 +207,30 @@ if (!isset($_SESSION['username'])) {
                 <p class="text-red-400 text-sm mb-4">ZIP FILE SIZE: 67.6 GB</p>
                 <a href="https://nova.dlproxy.uk/download/Zs9VXtSlVeQeffwfiJa2x8l948qmTRsTLASY8jJ1Ve6cdihSmts3U4UDoXca6nmM1VzxAcpn0Tyu7KwQakwmpgeBG21u1WW7ArHOMVUJ1RKSP3Oy-nr_kwt7LAuZ_83a_2uYjnOmiO815G-GukSK7_38YNy3QkJTvoZudphVjmMsNImPOFLxDvr4Yp2hxfPxzewh973yon8_TwIsv-oLM5akw_zve7KCOrFWY_xRTq_2jvyE8ptNAajMkfKpSXf5-tdat3aWNKGbAHLwlEzDjLP9stTYu5aoMg9EiJFtzr-PR-2lNSvy-a5EEc5o1pkU5B5W46xTOMgVwL1GAsIzbhYQJGevJLuogm8tMk5kBOYLeVtXXquHqU3YGehywVmR4uBWe8GYZDehGxt8xgf4vHi6FCZNS64i-WsTk6lQ0JiIOIO_ZDwVr_xyRhti9yO4GmjATGKM76c7KCU4HRFoYup_JgAGveUs47oc7FDQV1eS_S5yUvegGiHnrXSNUZOiFSl0Q5nHtfV-RFFr6X-5nirxohwhtgviA9Xr9DeX-i0kMEMQGKD2gyZgfcpa4qZXPCs6vsrMgH_ufvxw5n_K1Phr3gXc-8pCvjC3wrxmMbsxMF-BtMCHBudoRG-A196hK_ipdKkp2BOKIxBx03w5wA?sig=uMxVJb94cMGdCPVRoHXpRPAdtZrzzerYVuh_tYdEJvw" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-5 rounded-md shadow-md transition">Download</a>
                 <a href="https://www.youtube.com/watch?v=7KIS5Bl68Yw" target="_blank" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-5 rounded-md shadow-md transition">Gameplay</a>
+              </div>
+            </div>
+
+          <!-- Game Card Template -->
+            <div class="game-card bg-gradient-to-br from-gray-800 to-gray-900 rounded-2xl overflow-hidden shadow-xl neon-border">
+              <img src="img/nfs-heat.png" alt="Fight Night Forever" class="w-full h-48 object-fit: cover">
+              <div class="p-5">
+                <h3 class="font-bold text-xl text-white mb-1">Need for Speed Heat Deluxe Edition</h3>
+                <br>
+                <p class="text-red-400 text-sm mb-4">ZIP FILE SIZE: 25.97 GB</p>
+                <a href="https://drive.google.com/file/d/1wsn8iaFaHdGmzJdI6O8bXb9KKrGd6D9E/view?usp=drive_link" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-5 rounded-md shadow-md transition">Download</a>
+                <a href="https://www.youtube.com/watch?v=EliPy408-GE" target="_blank" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-5 rounded-md shadow-md transition">Gameplay</a>
+              </div>
+            </div>
+
+          <!-- Game Card Template -->
+            <div class="game-card bg-gradient-to-br from-gray-800 to-gray-900 rounded-2xl overflow-hidden shadow-xl neon-border">
+              <img src="img/e-33.jpg" alt="Fight Night Forever" class="w-full h-48 object-fit: cover">
+              <div class="p-5">
+                <h3 class="font-bold text-xl text-white mb-1">Clair Obscur Expedition 33</h3>
+                <br>
+                <p class="text-red-400 text-sm mb-4">ZIP FILE SIZE: 39.96 GB</p>
+                <a href="https://drive.google.com/file/d/15gwf9jgaGpfKN1iIOXYjNXOokdamFInc/view?usp=drive_link" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-5 rounded-md shadow-md transition">Download</a>
+                <a href="https://www.youtube.com/watch?v=GhazUEpdII0" target="_blank" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-5 rounded-md shadow-md transition">Gameplay</a>
               </div>
             </div>
 
