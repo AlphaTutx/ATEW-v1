@@ -97,7 +97,7 @@ if (!isset($_SESSION['username'])) {
          <!-- Start of Featured Games -->
 
   <div class="relative game-card min-w-[300px] rounded-2xl overflow-hidden shadow-2xl cursor-pointer neon-border">
-    <img src="img/dw-7-ext-de.jpg" alt="Batman Arkham Knight Premium Edition" class="w-full h-48 object-fit: cover">
+    <img src="img/cod-vg.png" alt="Batman Arkham Knight Premium Edition" class="w-full h-48 object-fit: cover">
     <div class="overlay absolute inset-0 backdrop-blur-md bg-black/60 flex flex-col justify-end p-4 text-white">
       <h3 class="text-xl font-bold">Call of Duty: Vanguard</h3>
       <p class="text-sm text-red-300">ZIP FILE SIZE: 56.5 GB</p>
