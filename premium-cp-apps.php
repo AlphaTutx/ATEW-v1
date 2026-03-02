@@ -84,7 +84,7 @@
                 <br>
                 <p class="text-red-400 text-sm mb-4 font-semibold">FOR PHONES & COMPUTERS</p>
                 <p class="text-cyan-400 text-sm mb-4 font-semibold">Sports LIVE Streaming Site<br>No need to download</p>
-                <a href="https://ppvs.su/" target="_blank" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-4 rounded-md shadow-md transition">Stream Now</a>
+                <a href="https://ppvs.su/" target="_blank" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-4 rounded-md shadow-md transition">Stream Now!</a>
                 <a href="https://docs.google.com/document/d/1kWCefdtv1N2AxQ6ORIvUvLdUa7h22aUXrds7ENcPg2o/edit?usp=drive_link" target="_blank" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-4 rounded-md shadow-md transition">Instruction</a>
               </div>
             </div>
@@ -208,7 +208,7 @@
                 <h3 class="font-bold text-xl text-white mb-1">NETFLIX Alternative [Option 1]</h3>
                 <p class="text-red-400 text-sm mb-4 font-semibold">FOR PHONES & COMPUTERS</p>
                 <p class="text-cyan-400 text-sm mb-4 font-semibold">Movie Streaming App<br>No need to Sign Up/In/Download</p>
-                <a href="https://www.n4ked.top/" target="_blank" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-4 rounded-md shadow-md transition">Stream Now</a>
+                <a href="https://www.n4ked.top/" target="_blank" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-4 rounded-md shadow-md transition">Stream Now!</a>
                 <a href="https://docs.google.com/document/d/1kWCefdtv1N2AxQ6ORIvUvLdUa7h22aUXrds7ENcPg2o/edit?usp=drive_link" target="_blank" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-4 rounded-md shadow-md transition">Instruction</a>
               </div>
             </div>
@@ -221,7 +221,7 @@
                 <h3 class="font-bold text-xl text-white mb-1">NETFLIX Alternative [Option 2]</h3>
                 <p class="text-red-400 text-sm mb-4 font-semibold">FOR PHONES & COMPUTERS</p>
                 <p class="text-cyan-400 text-sm mb-4 font-semibold">Movie Streaming App<br>No need to Sign Up/In/Download</p>
-                <a href="https://socialtoolsbyhashim.site/empireflix.php" target="_blank" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-4 rounded-md shadow-md transition">Stream Now</a>
+                <a href="https://socialtoolsbyhashim.site/empireflix.php" target="_blank" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-4 rounded-md shadow-md transition">Stream Now!</a>
                 <a href="https://docs.google.com/document/d/1kWCefdtv1N2AxQ6ORIvUvLdUa7h22aUXrds7ENcPg2o/edit?usp=drive_link" target="_blank" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-4 rounded-md shadow-md transition">Instruction</a>
               </div>
             </div>
@@ -232,7 +232,7 @@
                 <h3 class="font-bold text-xl text-white mb-1">NETFLIX Alternative [Option 3]</h3>
                 <p class="text-red-400 text-sm mb-4 font-semibold">FOR PHONES & COMPUTERS</p>
                 <p class="text-cyan-400 text-sm mb-4 font-semibold">Movie Streaming App<br>No need to Sign Up/In/Download</p>
-                <a href="https://yflix.to/movie" target="_blank" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-4 rounded-md shadow-md transition">Stream Now</a>
+                <a href="https://yflix.to/movie" target="_blank" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-4 rounded-md shadow-md transition">Stream Now!</a>
                 <a href="https://docs.google.com/document/d/1kWCefdtv1N2AxQ6ORIvUvLdUa7h22aUXrds7ENcPg2o/edit?usp=drive_link" target="_blank" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-4 rounded-md shadow-md transition">Instruction</a>
               </div>
             </div>
@@ -361,7 +361,7 @@
                   <p class="text-red-400 text-sm mb-4 font-semibold">FOR PHONES & COMPUTERS</p>
                   <p class="text-cyan-400 text-sm mb-4 font-semibold">No ads</p>
                   <br>
-                  <a href="https://paparadio.online/" target="_blank" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-4 rounded-md shadow-md transition">Stream Now</a>
+                  <a href="https://paparadio.online/" target="_blank" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-4 rounded-md shadow-md transition">Stream Now!</a>
                 </div>
               </div>
 
