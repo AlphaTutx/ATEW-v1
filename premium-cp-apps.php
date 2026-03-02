@@ -361,7 +361,7 @@
                   <p class="text-red-400 text-sm mb-4 font-semibold">FOR PHONES & COMPUTERS</p>
                   <p class="text-cyan-400 text-sm mb-4 font-semibold">No ads</p>
                   <br>
-                  <a href="https://paparadio.online/" target="_blank" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-4 rounded-md shadow-md transition">Download</a>
+                  <a href="https://paparadio.online/" target="_blank" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-4 rounded-md shadow-md transition">Stream Now</a>
                 </div>
               </div>
 
@@ -375,7 +375,7 @@
                   <p class="text-red-400 text-sm mb-4 font-semibold">FOR PHONES</p>
                   <p class="text-cyan-400 text-sm mb-4 font-semibold">Premium Version | No ads</p>
                   <br>
-                  <a href="https://www.mediafire.com/file/3y8wac6sx4gjtmt/Spotify+v9.1.20.1452+(Premium)+fix+MOD.apk/file" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-4 rounded-md shadow-md transition">Download</a>
+                  <a href="https://drive.google.com/file/d/1JTkWUji8atfgOpN6Yj6W-vrzA2pDU14T/view?usp=drive_link" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-4 rounded-md shadow-md transition">Download</a>
                 </div>
               </div>
 
