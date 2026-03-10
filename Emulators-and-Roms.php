@@ -547,6 +547,23 @@
   <BR>
 
   <div>
+      <p>Jump Force Deluxe Edition: 
+        <a href="https://www.youtube.com/watch?v=X2cb_ovJJUc" 
+           target="_blank"
+           class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-4 rounded-md shadow-md transition">
+          Gameplay
+        </a>
+      </p>
+
+      <p class="mt-4">Download Link/s : 
+        <a href="https://drive.google.com/file/d/1MDRj4zHvKlI3bnYg9a006Hdz6qndi_sP/view?usp=drive_link" target="_blank" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-4 rounded-md shadow-md transition">BASE</a>
+        <a href="https://drive.google.com/file/d/1-abZHX-8HT46KoZVPQ41sqkSF6GKLAgH/view?usp=drive_link" target="_blank" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-4 rounded-md shadow-md transition">UPDATE</a>
+        <a href="https://drive.google.com/file/d/1NnQeP3bLNEbynxjz_ijuUIxWit1qb6EY/view?usp=drive_link" target="_blank" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-4 rounded-md shadow-md transition">DLC's</a>
+      </p>
+
+  </div>
+
+  <div>
       <p>Luigi's Mansion 3 : 
         <a href="https://www.youtube.com/watch?v=yEWtIFdvhMo" 
            target="_blank"
