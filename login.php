@@ -193,7 +193,7 @@ if (!isset($_SESSION['username'])) {
                 <br>
                 <br>
                 <p class="text-red-400 text-sm mb-4">ZIP FILE SIZE: 20.6 GB</p>
-                <a href="https://download191.uploadhaven.com/1/application/zip/DwVy6cgG9hpmaQLcnE4wjwRYhH8B6KLGIpVxh6nO.zip?key=3a4OkOQD2Zy6eIes_6mgGQ&expire=1773486478&filename=CallofDuty-BlackOps2.zip" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-5 rounded-md shadow-md transition">Download</a>
+                <a href="https://orion.dlproxy.uk/download/22caYocy6wa4RiBmhjEtCpl4vToiqPaJibJFkhtXF0DYfbItQdnx5fRsQtFUKtANaOtgZhcHR55-1M6KOh6OIqZRgkM4k9TOZEBWwuQ-YrFS30Ao9p9ol0PcZvSDQ0qfrHAwfghZGFqUCDtxlSpuIjHR8H9BXmbkJwOVOIGofIHDcZ-FMrGk3Pd8mS5FJWX7hARoRu-cPwXKIwfoRi3EFbRTkhX5lSC6y2YyGfQ_7zr_pq9Ql9gwXbimS2ym5ZEjM28LFBUDFr5YUOMGTQFQ1QMHYFUTEOX3bMszxeHVTOTGM4INSWtmnsrZN_DM5FzPomrHMOqcm4jy70eduKl-WwCKfH4-VozZftPQXmbyxS5z74mF4X4c3TGEjN5uvE5W7oL9HKEGKP4vOUkxvJDVe5jCXhZPE9X2WtHd1XyhEsya47JTGfLwV03HOxsuz7ZoB_wZHrzPoPZjV1Q2WRAIvI49RnKtjmn-I3-yywiygIHW9JbhGoOkMYbWu7Co1u2ussPSaYhxlHthdKMTxdRkq1wktDPgwVyS3SiahpQcAJWwOYjfD91BxsaosJ1PfuyOfDhktJ2vCk9uZ2s4Thqay_3C3PH75Jv8CZokmhHfXj9oSoR2ZfyqlKNarbRMhbDt?sig=oUEDwfF_C-1TJwMLAEjuXV7MdojNba1NSHYuvK4XIhM" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-5 rounded-md shadow-md transition">Download</a>
                 <a href="https://www.youtube.com/watch?v=YH6UHwdeWog&t=3402s" target="_blank" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-5 rounded-md shadow-md transition">Gameplay</a>
               </div>
             </div>
