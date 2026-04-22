@@ -119,7 +119,7 @@ if (!isset($_SESSION['username'])) {
     <div class="overlay absolute inset-0 backdrop-blur-md bg-black/60 flex flex-col justify-end p-4 text-white">
       <h3 class="text-xl font-bold">DRAGON BALL XENOVERSE 2</h3>
       <p class="text-sm text-red-300">ZIP FILE SIZE: 27.7 GB</p>
-      <a href="https://tunnel1.dlproxy.uk/download/XAJeWO15O4C19Ai3Jvuqitqg5l1_CCncB25Eaa4Z71JAAM2ppGVMblIY3AWDW8k1fY0JuJ6RuqfNreqTDOqV3ZNpqRZ8J8r9qy-NDNYXkXM7if_8yiXnjJL6Vv9-TgLIijgh5tVNYS-yR4iZ9nMXYzt55oYDymRMf0deYQ-UxhuehbX-Z4V7_xhSsQdbqYdEdUV-LigjZVPNxd0wo9rLCAaedknzDWSZR439VP4db76PJsZ8ePuoKRiH7S-zIZALDRtX0v-QGdOClLxBLLRFAwOsKJmTjPbo68GN9MvOvnFYktX6dFWS3CoIyul3ELkNhT2N7fKtEIXBIWcQQmElH2YO-Dx2VtIX8vb26LOI9ZbQiKaqvdAyRJo6upKv5yaZwtG2Dpgu8KlTiZL6WEvAtJvOZu6ZTK5J8PDLRapoOOL1nW9DbKg10xwmQ-7baZdZ2yy-r1JU3bV8JjvvRqJ1lUfg8UxmuVbEtWQIcC_wxW5lVCkzIpvtBuKjip33kam9REiJQ7q-uLSHPjgKWFT2Urfx2wpC8VbzXX4pMgt1-ZB3Sk1kjT7JTej6owo9jvjmZ-a190y_QtM4oSDOtfF5S5E7uwkzmeeFKCQ5FFmpo0SWurn4uPzBB9sQOOHQf0gA?sig=W8DB_9iDJUnpXg1DhrPTpK8VIYxKaX9yyiySRUc3EUE" target="_blank" class="mt-3 inline-block bg-cyan-600 hover:bg-cyan-700 px-4 py-2 rounded-md text-sm font-semibold transition shadow-lg">Download</a>
+      <a href="https://fafda.to/d/8ey84pteeveg?v=k-EEDsN0wG4cLasUsfga0KQHp1rDdJuu7BsRGk70dhBtvvc0cOGlADq3-T-xDdwFVuaTN0-Lh1eyTYxaJ8MzBIusY_iCYDA8SlnWYOPCSIDWtFueOheWcasi01Gi4qwBcOIrGwrz0i1TdcpmP25kcdO62UzfSj7OLO_a_ZOAdXBTEGYP2zOZqy2H2zKmj_e-TNVM2cj-brH_9DSOl-fOEUxZ45fC" target="_blank" class="mt-3 inline-block bg-cyan-600 hover:bg-cyan-700 px-4 py-2 rounded-md text-sm font-semibold transition shadow-lg">Download</a>
     </div>
   </div>
 
@@ -154,7 +154,7 @@ if (!isset($_SESSION['username'])) {
                 <br>
                 <br>
                 <p class="text-red-400 text-sm mb-4">ZIP FILE SIZE: 204.5 GB</p>
-                <a href="https://orion.dlproxy.uk/download/22caYocy6wa4RiBmhjEtCpl4vToiqPaJibJFkhtXF0DYfbItQdnx5fRsQtFUKtANaOtgZhcHR55-1M6KOh6OIqZRgkM4k9TOZEBWwuQ-YrEQf4s2H0rc36ZufBww1Odc4mvyUqjx-K_rXIokcm7WNtuvmURrapYhURxFckWKlKJt6Zf_Q5TraRSvfAR6J21-2th6OeTQ3sdazqf02cudxsKzkxjqXzZCwWK_I9vx12pcgpm0x5a9qg4UQxfq65bxDTaZslJKzed9O_-PSy-zdGLnZpX2pXWKxtJvOXKpTnIn8VncNxVJTiKJ7nlDRt9JXONDNesO9wki454SR6f5ROn3SQYa9M_TayGMa43pmxqmZFUIM8PVgeF8nJ1VMh_ZOturCu68szzF8xOWRBPlnackCID0M1xG0A1sFB4OEfjpCPrstPGGmcFlc5iWrpt1f9pTRSUioT8VUfG5jZbRbCGaHFcNRZZVQ44B_Tg70T9QiVXRzAUU7ot1_9y95qFJcPOcKg__ztRDI9kdOo0rpSHVt0GyKt78gk0HpudZWi4kFSW4kNVrpyjwcp9pMU9-GNAbOWmsNzwXDcyqSiyVLUjFg0aes8IvV9Y0LrVXKOeSOpsLLbhbKmaWuG4ANh7adalqCGmHvjX2_a8n2vSDnA?sig=zWtwKUHaCdeyirLOiiqD0W9gHFH41grX0pAX47-C-Os" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-5 rounded-md shadow-md transition">Download</a>
+                <a href="https://fafda.to/d/lds3hus6qzhy?v=ZFB-Pld5dnmkAOaHJxBLvYyJm7jT1YgbYnSrKv13mtXveU78-VrnHtCe8l0WVMlkaXvjnDYHkN5a6FZy6psAlF7TsB-jkp6MMdGKyhRleHZsi0gkNIo4T6x7BeaSZesBzhPDDJ4jk-CVmmeJTOfCm0ir03b-tQR20RtsEMgchbUBfs0FPnbSCzSVMH4JpT2dvqw8u7DjGLQzymYi7iLVD0ljbQ" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-5 rounded-md shadow-md transition">Download</a>
                 <a href="https://www.youtube.com/watch?v=Cjhr8qSr6Cc&t=9s" target="_blank" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-5 rounded-md shadow-md transition">Gameplay</a>
               </div>
             </div>
@@ -167,7 +167,7 @@ if (!isset($_SESSION['username'])) {
                 <br>
                 <br>
                 <p class="text-red-400 text-sm mb-4">ZIP FILE SIZE: 110.2 GB</p>
-                <a href="https://tunnel1.dlproxy.uk/download/pLY7i9H8fiD0pVYXWjxuovjRFjf8C2w5-wChqfdjKR_8LzLW1VVyDnrAqIwJ7u0nSpOB--e37GY8flfglEqimJ9ssYeH9f2nagpRLsd-LE60gs2H2cPttiBxepR9myPW1X2r2RiuCJDS1mBtPwyKWqU2uDYnw39LkA8amvhnwjnJzJOGfVkzDMQ6PuANsh_FrbgCC_fNuj7wDh5FX7nxOSnCk734IHNfBZMtZOrZyYbsUnQXe8sjnIpStRNccFfiEvKyC_Z4DvCkJdgweQCx2ZUH6xwIbxwPbFSw-jx8NHjKkG5WbcQc7JeVHvzBT4T942MyUmGcuNStYuM0CS6m0e1ItuBkbne1c_8lgki8Xazr3w_j2YtQzA_IvZjimGk5JYyl70qrl0IGQCDdFEz5mO3hUDeQU9dlZw3aWYyvN16mMt1Hin3K2U6Vg3lj0fIqr2wrxwj6_NRStS2QiEVhwt7CSd4YQWo-X64TABAGWwXrsqz7co7On8YPJxBZTniyi_MaVpIX61Tk-ntTTFo0uhiIEcDwV5N6jw2CcTnxE-feD2evOUjr1ZhGR6syCsHbvul2RuW7CxVm9DCDWD_dNUXOzOMF-S_NG1JsRgY7WyPQZ8OIhp1l-ofBfs__dIfo?sig=2kbPMB3WShH_8nR9bVgO-SdOV-FEQCl-p8t6JuJnX4c" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-5 rounded-md shadow-md transition">Download</a>
+                <a href="https://fafda.to/d/09yqw19no4do?v=zTjM4iY1Kp0Th2Wxb_ZR2JvK5khyV7vjJxkG3XzYfFG0-bR1RXuXD--lgRu8hgxD8J2tUtFeVznuTM1pClPu1o1_x0TXlMj4AgYT0I_bkOAiq_1KTuJSSrsok95bu3msMerpqtAN22tRc8nFvSnWJcNwG5l6dTgxxCTMsO-_p68WJNw92oE7VPe9CauI3-Y" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-5 rounded-md shadow-md transition">Download</a>
                 <a href="https://www.youtube.com/watch?v=E-B7V5L78ns&t=40s" target="_blank" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-5 rounded-md shadow-md transition">Gameplay</a>
               </div>
             </div>
@@ -180,7 +180,7 @@ if (!isset($_SESSION['username'])) {
                 <br>
                 <br>
                 <p class="text-red-400 text-sm mb-4">ZIP FILE SIZE: 50.0 GB</p>
-                <a href="https://apophis.dlproxy.uk/download/E_frPOiAuu2SDbWt8LeM4H50poshDKuB-DPA3BQY_scEwortxp6gDHblecUg2-oKc8WS6t3P69Lo7OpoJWCjxjmr6AM1DKhTbR7gOyS5nC0pADo3eiwZBJ2DsZ7EktWjBZw0zDqOTjBV0vuWIyetJ6kawOeeSPhthTBQksMe9zHNT5enEYB8NB-JYknHwT86kx51vCxAnoxYy1BxaRf-zTQOWJj6mACPe6JtuEFMzCROYNcAFJGglyoGLoPvBms0PZBY4Ragn2cv0kpyewK32OibX22CRWqLFGR8XDUfT4rzuH0HbMLpHimkoxgCaOQGnpWofhVREzgh3ciWBCJ14-dzuGtSlanG1VJRroS3Z2rw4WUwo0_pCDqm4u0ygBgOOQSmmL1sOpQMyyXJBGVgx5-p43pMz6Ciln34x2nHvkxvOZRmakl0pejeEMyWvL9J3uzJCuerrPg2mMTpFOPze21WTkSxN433hPm4e7DRBLNcL0F-ihenF75qG23oovnVht-pVwZxecgICkVCAikUd4HOkVAczxTRiCbT01OQfrXwEMtXixHy_6tRxwP7JbZdpTgQHgOHwQne_KwKtSnSQrbLRTEEFawbCJG6grGZoQNpCY-GflDcqxOeABgQASzf?sig=Se8iMpYNab9K6bSglr2GIS2mIm0EgFU1_R2Vz51-qGQ" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-5 rounded-md shadow-md transition">Download</a>
+                <a href="https://fafda.to/d/frv5wnsc2chd?v=oyUoJJv7FzyOsnHig1SJKMJM1ctmoFd4yBf5qrr2YFL-gTKVQqNW8VLvthYR1kaCugnuk5W7ouarscMdNU_dRvorreBJqkeiS-D-wE2bdOJYhC-GkdMEp6_gUN_tQo1GO4mLbtBA18Tf7hp7okQuxkI_w6of-aHa-mGBdtg7r6pb2UmNmFNDImTX4XKvguyFj5DEfI-CwWWzv73Q-g" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-5 rounded-md shadow-md transition">Download</a>
                 <a href="https://www.youtube.com/watch?v=KLpqTauuBU0" target="_blank" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-5 rounded-md shadow-md transition">Gameplay</a>
               </div>
             </div>
@@ -193,7 +193,7 @@ if (!isset($_SESSION['username'])) {
                 <br>
                 <br>
                 <p class="text-red-400 text-sm mb-4">ZIP FILE SIZE: 20.6 GB</p>
-                <a href="https://orion.dlproxy.uk/download/22caYocy6wa4RiBmhjEtCpl4vToiqPaJibJFkhtXF0DYfbItQdnx5fRsQtFUKtANaOtgZhcHR55-1M6KOh6OIqZRgkM4k9TOZEBWwuQ-YrFS30Ao9p9ol0PcZvSDQ0qfrHAwfghZGFqUCDtxlSpuIjHR8H9BXmbkJwOVOIGofIHDcZ-FMrGk3Pd8mS5FJWX7hARoRu-cPwXKIwfoRi3EFbRTkhX5lSC6y2YyGfQ_7zr_pq9Ql9gwXbimS2ym5ZEjM28LFBUDFr5YUOMGTQFQ1QMHYFUTEOX3bMszxeHVTOTGM4INSWtmnsrZN_DM5FzPomrHMOqcm4jy70eduKl-WwCKfH4-VozZftPQXmbyxS5z74mF4X4c3TGEjN5uvE5W7oL9HKEGKP4vOUkxvJDVe5jCXhZPE9X2WtHd1XyhEsya47JTGfLwV03HOxsuz7ZoB_wZHrzPoPZjV1Q2WRAIvI49RnKtjmn-I3-yywiygIHW9JbhGoOkMYbWu7Co1u2ussPSaYhxlHthdKMTxdRkq1wktDPgwVyS3SiahpQcAJWwOYjfD91BxsaosJ1PfuyOfDhktJ2vCk9uZ2s4Thqay_3C3PH75Jv8CZokmhHfXj9oSoR2ZfyqlKNarbRMhbDt?sig=oUEDwfF_C-1TJwMLAEjuXV7MdojNba1NSHYuvK4XIhM" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-5 rounded-md shadow-md transition">Download</a>
+                <a href="https://fafda.to/d/b65jhpnucnac?v=cYqVeuLs3m2hEuwjGnpumFATo8FThuVfazoWhR6CeCo2-kAIZXA-wndnR4akSYrIEOXamwAhdyiixHTBDYB4NEGWUOBFHF2OvR03dJcQiB2HyMgZs-uubU5GSBFaNCRZIFosrfNx6TSkefpI7CNIs1gJjznx8KUW6YwudzeUxzfsxMcOu7wZPDU" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-5 rounded-md shadow-md transition">Download</a>
                 <a href="https://www.youtube.com/watch?v=YH6UHwdeWog&t=3402s" target="_blank" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-5 rounded-md shadow-md transition">Gameplay</a>
               </div>
             </div>
@@ -205,7 +205,7 @@ if (!isset($_SESSION['username'])) {
                 <h3 class="font-bold text-xl text-white mb-1">Call of Duty Advanced Warfare</h3>
                 <br>
                 <p class="text-red-400 text-sm mb-4">ZIP FILE SIZE: 67.6 GB</p>
-                <a href="https://nova.dlproxy.uk/download/Zs9VXtSlVeQeffwfiJa2x8l948qmTRsTLASY8jJ1Ve6cdihSmts3U4UDoXca6nmM1VzxAcpn0Tyu7KwQakwmpgeBG21u1WW7ArHOMVUJ1RKSP3Oy-nr_kwt7LAuZ_83a_2uYjnOmiO815G-GukSK7_38YNy3QkJTvoZudphVjmMsNImPOFLxDvr4Yp2hxfPxzewh973yon8_TwIsv-oLM5akw_zve7KCOrFWY_xRTq_2jvyE8ptNAajMkfKpSXf5-tdat3aWNKGbAHLwlEzDjLP9stTYu5aoMg9EiJFtzr-PR-2lNSvy-a5EEc5o1pkU5B5W46xTOMgVwL1GAsIzbhYQJGevJLuogm8tMk5kBOYLeVtXXquHqU3YGehywVmR4uBWe8GYZDehGxt8xgf4vHi6FCZNS64i-WsTk6lQ0JiIOIO_ZDwVr_xyRhti9yO4GmjATGKM76c7KCU4HRFoYup_JgAGveUs47oc7FDQV1eS_S5yUvegGiHnrXSNUZOiFSl0Q5nHtfV-RFFr6X-5nirxohwhtgviA9Xr9DeX-i0kMEMQGKD2gyZgfcpa4qZXPCs6vsrMgH_ufvxw5n_K1Phr3gXc-8pCvjC3wrxmMbsxMF-BtMCHBudoRG-A196hK_ipdKkp2BOKIxBx03w5wA?sig=uMxVJb94cMGdCPVRoHXpRPAdtZrzzerYVuh_tYdEJvw" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-5 rounded-md shadow-md transition">Download</a>
+                <a href="https://fafda.to/d/2huayaah9vfm?v=0FzD8TK9yaGyin9mzjrSHwLhPblzxC2v6BeuD0RaTjeWzunVZNieO6YQ0Fd4JnhsRkKSXjv9lVHIMkuzmXBOuTQUmfKx0RqJh13k6ljA95pSaWBSdcgky7khIvnoaWbD6tCXWTRRaPHH7vXDqzDf3vvBPZWn79tD7B-rX_FFe91Ck0rrB-e5YBqXI-McuutCeoTeQzQ" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-5 rounded-md shadow-md transition">Download</a>
                 <a href="https://www.youtube.com/watch?v=7KIS5Bl68Yw" target="_blank" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-5 rounded-md shadow-md transition">Gameplay</a>
               </div>
             </div>
