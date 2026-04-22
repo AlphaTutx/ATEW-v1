@@ -101,7 +101,7 @@ if (!isset($_SESSION['username'])) {
     <div class="overlay absolute inset-0 backdrop-blur-md bg-black/60 flex flex-col justify-end p-4 text-white">
       <h3 class="text-xl font-bold">Call of Duty: Vanguard</h3>
       <p class="text-sm text-red-300">ZIP FILE SIZE: 56.5 GB</p>
-      <a href="https://carina.dlproxy.uk/download/OYPmilzKKg0cU4B_aELQ9xz6UklOkcS2lwKf3aOeeH7wMMvnYWSxWFc7nFoV-iZuNXBNYC8m4EroRji5p_lxtQQEtiOPdws9W-fn6c__V3QkHG30nKzHf8n3_TiSeMNcVS1T21dnVgc96FZMzWbwpeUWWk2BhYCQVGctzMLEWZoIm3o3rHw6CUHMkZCw6Yy5Q_W-P6tWhgvNZBqxoYZpDucCBjO6bPlV9Mp11Ql32I-k9t5ni_4jhMgD-b9gtTSP-ezg2OKk-XaubL3IfN-ee44lmYlIdRDT9wUsdCITSsKWVYe7mgQUCIZZsKVEn4rqxbPZpKjpwXiiO7fstt-9iwSiStGt87_lj8OU84HtSQYuUXSJR2RrGoOaOhZLsvhOEV9wEBHZ376BFqRLbIoeZp_iv3_rfMfPPzSGzl464UAPVb5Zn7R7PEL2ddkeSTQNxabGLbu50YcJ_X0CS5McMBwX2_L1fcM5wvhUOKgLkthkuoHshnFdoymuHA6X1C3kzEFXFCxgaoQNIbXBrD13ZR_GAivjEtfAY3_DoOxp8-kKTy2vj4d5KDgaOvId8IY9c0JtRknq166G8SaitRIKowdBa_69swuorN622iw9-2KYS14_8lApHkNEdtyKdMc-?sig=4kdwfK6ns1Yj_9foWW48RvKlCpSsxTVFEX40143a_-Y" target="_blank" class="mt-3 inline-block bg-cyan-600 hover:bg-cyan-700 px-4 py-2 rounded-md text-sm font-semibold transition shadow-lg">Download</a>
+      <a href="https://fafda.to/d/at5h5f32ea0r?v=TQxZISreRLCzmAaYGFueFRYBC8WHMoCLqeuh-4SYxzL2yUmilnuni3SYk6TrxAEyln2LLI9VA3DAWh7ZuO8w34rfGAt2kjdSUhq0lYBkvQumEQPXPerNjekmBoQsXczxBePVk2osowJg7f2AsF_0Wygcok5hSYGfj32rDId-gHFoNg_OItqSwjDp56bhTRo" target="_blank" class="mt-3 inline-block bg-cyan-600 hover:bg-cyan-700 px-4 py-2 rounded-md text-sm font-semibold transition shadow-lg">Download</a>
     </div>
   </div>
 
