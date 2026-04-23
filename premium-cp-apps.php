@@ -28,7 +28,7 @@
 
       <header class="flex items-center justify-between px-6 py-4 bg-gradient-to-r from-gray-900 via-gray-800 to-gray-900 shadow-xl sticky top-0 z-50 backdrop-blur-md">
        
-        <div class="text-3xl font-extrabold text-cyan-400 tracking-wider drop-shadow-md animate-pulse" >Premium CP Apps</div>
+        <div class="text-3xl font-extrabold text-cyan-400 tracking-wider drop-shadow-md animate-pulse" >Premium Apps</div>
         
         <nav class="hidden md:flex space-x-6 text-gray-300">
           <a href="login.php" class="hover:text-cyan-400 transition font-semibold">| PC Games |</a>
