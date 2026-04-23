@@ -35,7 +35,7 @@
           <a href="cp-games.php" class="hover:text-cyan-400 transition font-semibold">| CP Games |</a>
           <a href="premium-cp-apps.php" class="hover:text-cyan-400 transition font-semibold">| Premium CP & PC Apps |</a>
           <a href="Emulators-and-Roms.php" class="hover:text-cyan-400 transition font-semibold">| Emulators & Roms |</a>        
-          <a href="gamesuppfix.php" class="hover:text-cyan-400 transition font-semibold">| Game Support/Fix |</a>
+          <a href="gamesuppfix.php" class="hover:text-cyan-400 transition font-semibold">| Support/Fix |</a>
           <a href="18-section.php" class="hover:text-cyan-400 transition font-semibold">| 18+ Section |</a>
           <a href="https://docs.google.com/spreadsheets/d/11IYCG_vo-DEtob08IRnInzHfAwrtf11-K2QZKiwODCM/edit?usp=drive_link" target="_blank" class="hover:text-cyan-400 transition font-semibold">| Request Area |</a>
           <a href="logout.php" class="text-red-500 hover:text-red-700 transition font-semibold">| Logout |</a>
@@ -200,6 +200,18 @@
               </div>
             </div>
 
+             <!-- Game Card Template -->
+
+            <div class="game-card bg-gradient-to-br from-gray-800 to-gray-900 rounded-2xl overflow-hidden shadow-xl neon-border">
+              <img src="img2/mv-aio.jpg" alt="Cyberpunk 2077 Phantom Liberty" class="w-full h-48 object-fit: cover">
+              <div class="p-5">
+                <h3 class="font-bold text-xl text-white mb-1">All in One MOVIE STREAMING SITE</h3>
+                <p class="text-red-400 text-sm mb-4 font-semibold">FOR PHONES & COMPUTERS</p>
+                <p class="text-cyan-400 text-sm mb-4 font-semibold">No ADS | Movie Streaming Site<br>No need to Sign Up/In/Download</p>
+                <a href="https://www.dulo.tv/" target="_blank" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-4 rounded-md shadow-md transition">Stream Now</a>
+              </div>
+            </div>
+
             <!-- Game Card Template -->
 
             <div class="game-card bg-gradient-to-br from-gray-800 to-gray-900 rounded-2xl overflow-hidden shadow-xl neon-border">
@@ -317,7 +329,7 @@
                 <br>
                 <a href="https://www.mediafire.com/file/kl7h25eimyocm0d/Anime+Multiverse_v99999(7451890).apk/file" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-4 rounded-md shadow-md transition">Download</a>
               </div>
-            </div>          
+            </div>
 
             <!-- Game Card Template -->
             <div class="game-card bg-gradient-to-br from-gray-800 to-gray-900 rounded-2xl overflow-hidden shadow-xl neon-border">
@@ -375,7 +387,7 @@
                   <p class="text-red-400 text-sm mb-4 font-semibold">FOR PHONES</p>
                   <p class="text-cyan-400 text-sm mb-4 font-semibold">Premium Version | No ads</p>
                   <br>
-                  <a href="https://drive.google.com/file/d/1JTkWUji8atfgOpN6Yj6W-vrzA2pDU14T/view?usp=drive_link" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-4 rounded-md shadow-md transition">Download</a>
+                  <a href="https://files-2.modyolo.com/Spotify/Spotify_v9.1.40.1486.apk" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-4 rounded-md shadow-md transition">Download</a>
                 </div>
               </div>
 
@@ -549,6 +561,66 @@
       <div id="gamesGrid" class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-10">
 
             <div class="game-card bg-gradient-to-br from-gray-800 to-gray-900 rounded-2xl overflow-hidden shadow-xl neon-border">
+              <img src="img2/all-adobe-2024.jpg" alt="Warcraft_III Frozen Throne - CD keys" class="w-full h-48 object-fit: cover">
+              <div class="p-5">
+                <h3 class="font-bold text-xl text-white mb-1">All Adobe Pre-Activated PC Softwares 2024</h3>
+                <p class="text-red-400 text-sm mb-4 font-semibold">FOR COMPUTERS</p>
+                <p class="text-cyan-400 text-sm mb-4 font-semibold">Pre-activated</p>
+                <br>
+                <a href="https://drive.google.com/file/d/1cPL3uH90ztJmPRCr46v557ms9RWC8HaY/view?usp=drive_link" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-4 rounded-md shadow-md transition">Download</a>
+              </div>
+            </div>
+
+            <!-- Game Card Template -->
+            <div class="game-card bg-gradient-to-br from-gray-800 to-gray-900 rounded-2xl overflow-hidden shadow-xl neon-border">
+              <img src="img2/ant-dl-manager.jpeg" alt="Warcraft_III Frozen Throne - CD keys" class="w-full h-48 object-fit: cover">
+                <div class="p-5">
+                  <h3 class="font-bold text-xl text-white mb-1">Ant Download Manager PRO</h3>
+                  <p class="text-red-400 text-sm mb-4 font-semibold">FOR COMPUTERS</p>
+                  <p class="text-cyan-400 text-sm mb-4 font-semibold">Pro version | Supported Torrent links</p>
+                  <br>
+                  <a href="https://www.mediafire.com/file/skj2ktdowbvpifd/Ant_Download_Manager_Pro_2.16.4.92194.rar/file" target="_blank" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-4 rounded-md shadow-md transition">Download</a>
+                </div>
+              </div>
+
+            <!-- Game Card Template -->
+            <div class="game-card bg-gradient-to-br from-gray-800 to-gray-900 rounded-2xl overflow-hidden shadow-xl neon-border">
+              <img src="img2/tc-pro.png" alt="Warcraft_III Frozen Throne - CD keys" class="w-full h-48 object-fit: cover">
+                <div class="p-5">
+                  <h3 class="font-bold text-xl text-white mb-1">Teracopy PRO</h3>
+                  <br>
+                  <p class="text-red-400 text-sm mb-4 font-semibold">FOR COMPUTERS</p>
+                  <p class="text-cyan-400 text-sm mb-4 font-semibold">Fast data transfer | Lifetime use</p>
+                  <br>
+                  <a href="https://www.mediafire.com/file/a9xmd7gybsvc408/TeraCopy_Pro_3.17.0.0.7z/file" target="_blank" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-4 rounded-md shadow-md transition">Download</a>
+                </div>
+              </div>
+
+              <!-- Game Card Template -->
+            <div class="game-card bg-gradient-to-br from-gray-800 to-gray-900 rounded-2xl overflow-hidden shadow-xl neon-border">
+              <img src="img2/ru-pro.png" alt="Warcraft_III Frozen Throne - CD keys" class="w-full h-48 object-fit: cover">
+                <div class="p-5">
+                  <h3 class="font-bold text-xl text-white mb-1">Revo Uninstaller PRO</h3>
+                  <br>
+                  <p class="text-red-400 text-sm mb-4 font-semibold">FOR COMPUTERS</p>
+                  <p class="text-cyan-400 text-sm mb-4 font-semibold">Pro version</p>
+                  <br>
+                  <a href="https://www.mediafire.com/file/myg12p8snpegurr/Revo_Uninstaller_Pro_v5.4.7_Multilingual_Portable_Edition.rar/file" target="_blank" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-4 rounded-md shadow-md transition">Download</a>
+                </div>
+              </div>
+
+            <div class="game-card bg-gradient-to-br from-gray-800 to-gray-900 rounded-2xl overflow-hidden shadow-xl neon-border">
+              <img src="img2/speechify-prem.jpg" alt="Warcraft_III Frozen Throne - CD keys" class="w-full h-48 object-fit: cover">
+              <div class="p-5">
+                <h3 class="font-bold text-xl text-white mb-1">Speechify Text to Speech PREMIUM</h3>
+                <p class="text-red-400 text-sm mb-4 font-semibold">FOR PHONES</p>
+                <p class="text-cyan-400 text-sm mb-4 font-semibold">No need to login</p>
+                <br>
+                <a href="https://www.mediafire.com/file/hzgo6tpu2j47cd0/Speechify_Text_to_Speech_v5_40_6785_b5406785_arm64_9_0_Patched.apk/file" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-4 rounded-md shadow-md transition">Download</a>
+              </div>
+            </div>
+
+            <div class="game-card bg-gradient-to-br from-gray-800 to-gray-900 rounded-2xl overflow-hidden shadow-xl neon-border">
               <img src="img2/adobe-illus.jpg" alt="Warcraft_III Frozen Throne - CD keys" class="w-full h-48 object-fit: cover">
               <div class="p-5">
                 <h3 class="font-bold text-xl text-white mb-1">Adobe Illustrator</h3>
@@ -692,7 +764,7 @@
               <div class="p-5">
                 <h3 class="font-bold text-xl text-white mb-1">Internet Download Manager</h3>
                 <p class="text-red-400 text-sm mb-4 font-semibold">FOR COMPUTERS</p>                
-                <p class="text-cyan-400 text-sm mb-4 font-semibold">Fast download speed</p>
+                <p class="text-cyan-400 text-sm mb-4 font-semibold">Pre-activated | Fast download speed</p>
                 <br>
                 <a href="https://drive.google.com/file/d/1V0blJyzGYrEYuY7TYEeG8ofCW-hSR0Sl/view?usp=drive_link" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-4 rounded-md shadow-md transition">Download</a>
                 <a href="https://docs.google.com/document/d/1GlG6H_PrFu-j_wYzwhBDDCtCF8cHDxBVxkCElHz-mRo/edit?usp=drive_link" target="_blank" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-3 rounded-md shadow-md transition">Read me first!</a>
@@ -714,6 +786,100 @@
       </div>
           
 </section>
+
+
+                              <!-- SPORTS STREAMING APPS -->
+<section>
+
+          <h2 class="text-4xl font-extrabold mb-6 text-cyan-400">PLUGINS & TOOLS FOR MIXING AND MASTERING</h2>
+
+      <div id="gamesGrid" class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-10">
+
+            <!-- Game Card Template -->
+            <div class="game-card bg-gradient-to-br from-gray-800 to-gray-900 rounded-2xl overflow-hidden shadow-xl neon-border">
+              <img src="img2/fl-stud-25.jpg" alt="Extraction Password for Counter Strike 1.6 [FULL]" class="w-full h-48 object-fit: cover">
+              <div class="p-5">
+                <h3 class="font-bold text-xl text-white mb-1">FL Studio Producer Edition 2025</h3>
+                <p class="text-red-400 text-sm mb-4 font-semibold">FOR COMPUTERS</p>
+                <p class="text-cyan-400 text-sm mb-4 font-semibold">Mixing and mastering</p>
+                <a href="" target="_blank" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-4 rounded-md shadow-md transition">Download</a>
+              </div>
+            </div>
+
+            <!-- Game Card Template -->
+            <div class="game-card bg-gradient-to-br from-gray-800 to-gray-900 rounded-2xl overflow-hidden shadow-xl neon-border">
+              <img src="img2/au-1.5.jpeg" alt="Extraction Password for Counter Strike 1.6 [FULL]" class="w-full h-48 object-fit: cover">
+              <div class="p-5">
+                <h3 class="font-bold text-xl text-white mb-1">Adobe Audition 1.5</h3>
+                <br>
+                <p class="text-red-400 text-sm mb-4 font-semibold">FOR COMPUTERS</p>
+                <p class="text-cyan-400 text-sm mb-4 font-semibold">Mixing and mastering</p>
+                <a href="https://www.mediafire.com/file/jtg7ug0ptutbzxx/Adobe_Audition_1.5.7z/file" target="_blank" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-4 rounded-md shadow-md transition">Download</a>
+              </div>
+            </div>
+
+            <!-- Game Card Template -->
+            <div class="game-card bg-gradient-to-br from-gray-800 to-gray-900 rounded-2xl overflow-hidden shadow-xl neon-border">
+              <img src="img2/au-2026.jpg" alt="Extraction Password for Counter Strike 1.6 [FULL]" class="w-full h-48 object-fit: cover">
+              <div class="p-5">
+                <h3 class="font-bold text-xl text-white mb-1">Adobe Audition 2026</h3>
+                <br>
+                <p class="text-red-400 text-sm mb-4 font-semibold">FOR COMPUTERS</p>
+                <p class="text-cyan-400 text-sm mb-4 font-semibold">Mixing and mastering</p>
+                <a href="https://www.mediafire.com/file/e0mxnd7vtux9w8c/Adobe.Audition.2026.V26.0.rar/file" target="_blank" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-4 rounded-md shadow-md transition">Download</a>
+              </div>
+            </div>
+
+            <!-- Game Card Template -->
+            <div class="game-card bg-gradient-to-br from-gray-800 to-gray-900 rounded-2xl overflow-hidden shadow-xl neon-border">
+              <img src="img2/deverberate3.png" alt="Extraction Password for Counter Strike 1.6 [FULL]" class="w-full h-48 object-fit: cover">
+              <div class="p-5">
+                <h3 class="font-bold text-xl text-white mb-1">Acon Digital DeVerberate 3</h3>
+                <p class="text-red-400 text-sm mb-4 font-semibold">FOR COMPUTERS</p>
+                <p class="text-cyan-400 text-sm mb-4 font-semibold">Mixing and mastering</p>
+                <a href="https://www.mediafire.com/file/4y1u0q3nfddk07c/Acon_Digital_DeVerberate_3.rar/file" target="_blank" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-4 rounded-md shadow-md transition">Download</a>
+              </div>
+            </div>
+
+            <!-- Game Card Template -->
+            <div class="game-card bg-gradient-to-br from-gray-800 to-gray-900 rounded-2xl overflow-hidden shadow-xl neon-border">
+              <img src="img2/at-evo-vst6.jpg" alt="Extraction Password for Counter Strike 1.6 [FULL]" class="w-full h-48 object-fit: cover">
+              <div class="p-5">
+                <h3 class="font-bold text-xl text-white mb-1">Antares Autotune Evo VST6</h3>
+                <p class="text-red-400 text-sm mb-4 font-semibold">FOR COMPUTERS</p>
+                <p class="text-cyan-400 text-sm mb-4 font-semibold">Mixing and mastering</p>
+                <a href="https://www.mediafire.com/file/oe5zf95lpj4whza/Antares_Autotune_Evo_VST6_.rar/file" target="_blank" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-4 rounded-md shadow-md transition">Download</a>
+              </div>
+            </div>
+
+            <!-- Game Card Template -->
+            <div class="game-card bg-gradient-to-br from-gray-800 to-gray-900 rounded-2xl overflow-hidden shadow-xl neon-border">
+              <img src="img2/wdb.jpg" alt="Extraction Password for Counter Strike 1.6 [FULL]" class="w-full h-48 object-fit: cover">
+              <div class="p-5">
+                <h3 class="font-bold text-xl text-white mb-1">Waves Diamond Bundle</h3>
+                <br>
+                <p class="text-red-400 text-sm mb-4 font-semibold">FOR COMPUTERS</p>
+                <p class="text-cyan-400 text-sm mb-4 font-semibold">Mixing and mastering</p>
+                <a href="https://www.mediafire.com/file/dimvikhvy29mjsf/Waves_Diamond_Bundle_v5.2.7z/file" target="_blank" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-4 rounded-md shadow-md transition">Download</a>
+              </div>
+            </div>
+            
+            <!-- Game Card Template -->
+            <div class="game-card bg-gradient-to-br from-gray-800 to-gray-900 rounded-2xl overflow-hidden shadow-xl neon-border">
+              <img src="img2/wavesv10.jpeg" alt="Extraction Password for Counter Strike 1.6 [FULL]" class="w-full h-48 object-fit: cover">
+              <div class="p-5">
+                <h3 class="font-bold text-xl text-white mb-1">Waves V10</h3>
+                <br>
+                <p class="text-red-400 text-sm mb-4 font-semibold">FOR COMPUTERS</p>
+                <p class="text-cyan-400 text-sm mb-4 font-semibold">Mixing and mastering</p>
+                <a href="https://www.mediafire.com/file/dimvikhvy29mjsf/Waves_Diamond_Bundle_v5.2.7z/file" target="_blank" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-4 rounded-md shadow-md transition">Download</a>
+              </div>
+            </div>
+
+      </div>
+            
+</section>
+
 
 </main>
 

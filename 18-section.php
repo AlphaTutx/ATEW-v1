@@ -35,7 +35,7 @@
           <a href="cp-games.php" class="hover:text-cyan-400 transition font-semibold">| CP Games |</a>
           <a href="premium-cp-apps.php" class="hover:text-cyan-400 transition font-semibold">| Premium CP & PC Apps |</a>
           <a href="Emulators-and-Roms.php" class="hover:text-cyan-400 transition font-semibold">| Emulators & Roms |</a>        
-          <a href="gamesuppfix.php" class="hover:text-cyan-400 transition font-semibold">| Game Support/Fix |</a>
+          <a href="gamesuppfix.php" class="hover:text-cyan-400 transition font-semibold">| Support/Fix |</a>
           <a href="18-section.php" class="hover:text-cyan-400 transition font-semibold">| 18+ Section |</a>
           <a href="https://docs.google.com/spreadsheets/d/11IYCG_vo-DEtob08IRnInzHfAwrtf11-K2QZKiwODCM/edit?usp=drive_link" target="_blank" class="hover:text-cyan-400 transition font-semibold">| Request Area |</a>
           <a href="logout.php" class="text-red-500 hover:text-red-700 transition font-semibold">| Logout |</a>
@@ -178,6 +178,30 @@
           <h2 class="text-4xl font-extrabold mb-6 text-cyan-400">18+ Apps</h2>
 
       <div id="gamesGrid" class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-10">
+        
+            <!-- Game Card Template -->
+            <div class="game-card bg-gradient-to-br from-gray-800 to-gray-900 rounded-2xl overflow-hidden shadow-xl neon-border">
+              <img src="18-img/tiktok-18+.jpg" alt="Cumtube" class="w-full h-48 object-fit: cover">
+              <div class="p-5">
+                <h3 class="font-bold text-xl text-white mb-1">Tiktok 18+</h3>
+                <p class="text-red-400 text-sm mb-4 font-semibold">FOR PHONES</p> 
+                <p class="text-cyan-400 text-sm mb-4 font-semibold">No ADS</p>
+                <br>
+                <a href="https://www.terabox.app/sharing/link?surl=8tHx4_uR4PzfKgcIyeBwtg" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-4 rounded-md shadow-md transition">Download</a>
+              </div>
+            </div>
+
+            <!-- Game Card Template -->
+            <div class="game-card bg-gradient-to-br from-gray-800 to-gray-900 rounded-2xl overflow-hidden shadow-xl neon-border">
+              <img src="18-img/18+.jpg" alt="Cumtube" class="w-full h-48 object-fit: cover">
+              <div class="p-5">
+                <h3 class="font-bold text-xl text-white mb-1">Lulu App</h3>
+                <p class="text-red-400 text-sm mb-4 font-semibold">FOR PHONES</p>
+                <p class="text-cyan-400 text-sm mb-4 font-semibold">4k videos | No need account</p>
+                <br>
+                <a href="https://www.mediafire.com/file/on6xatrru6jmwpc/Lulu_App_By_Jayking_v24.apk/file" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-4 rounded-md shadow-md transition">Download</a>
+              </div>
+            </div>
 
             <!-- Game Card Template -->
             <div class="game-card bg-gradient-to-br from-gray-800 to-gray-900 rounded-2xl overflow-hidden shadow-xl neon-border">
@@ -268,6 +292,38 @@
   <h2 class="text-4xl font-extrabold mb-6 text-cyan-400">Direct Links</h2>
 
   <div class="grid grid-cols-1 md:grid-cols-2 gap-y-16 gap-x-20">
+
+  <!-- SHAYNA CHUA -->
+    <div>
+      <p>PREVIEW :
+        <a href="https://drive.google.com/file/d/1268IOz5CFkXZgOKHWT5kEkOzVWyzYee6/view?usp=drive_link" 
+           target="_blank"
+           class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-4 rounded-md shadow-md transition">
+          Viral Pinay OFW with dalawang alaga
+        </a>
+      </p>
+
+      <p class="mt-4">VIDEO LINK/S :
+        <a href="https://www.mediafire.com/file/cvutmrzihr748sk/1776469373148.mp4/file" target="_blank" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-4 rounded-md shadow-md transition">Source1: Mediafire</a>
+        <a href="https://www.mediafire.com/file/xkyvmn8ffezk2jk/1775880282444.mp4/file" target="_blank" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-4 rounded-md shadow-md transition">Source2: Mediafire</a>
+      </p>
+    </div>
+
+  <!-- Big 4 -->
+    <div>
+      <p>PREVIEW :
+        <a href="https://drive.google.com/file/d/19N1eg3UrjZrZBuHSk5NsG19tLI0u91BK/view?usp=drive_link"
+           target="_blank"
+           class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-4 rounded-md shadow-md transition">
+          BIG 4
+        </a>
+      </p>
+
+      <p class="mt-4">VIDEO LINK/S :
+        <a href="https://pixeldrain.com/l/oDsdTaZd" target="_blank"
+           class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-4 rounded-md shadow-md transition">Full set</a>
+      </p>
+    </div>
 
   <!-- SAMSARA -->
     <div>

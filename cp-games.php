@@ -35,7 +35,7 @@
           <a href="cp-games.php" class="hover:text-cyan-400 transition font-semibold">| CP Games |</a>
           <a href="premium-cp-apps.php" class="hover:text-cyan-400 transition font-semibold">| Premium CP & PC Apps |</a>
           <a href="Emulators-and-Roms.php" class="hover:text-cyan-400 transition font-semibold">| Emulators & Roms |</a>        
-          <a href="gamesuppfix.php" class="hover:text-cyan-400 transition font-semibold">| Game Support/Fix |</a>
+          <a href="gamesuppfix.php" class="hover:text-cyan-400 transition font-semibold">| Support/Fix |</a>
           <a href="18-section.php" class="hover:text-cyan-400 transition font-semibold">| 18+ Section |</a>
           <a href="https://docs.google.com/spreadsheets/d/11IYCG_vo-DEtob08IRnInzHfAwrtf11-K2QZKiwODCM/edit?usp=drive_link" target="_blank" class="hover:text-cyan-400 transition font-semibold">| Request Area |</a>
           <a href="logout.php" class="text-red-500 hover:text-red-700 transition font-semibold">| Logout |</a>
@@ -72,6 +72,31 @@
           <h2 class="text-4xl font-extrabold mb-6 text-cyan-400">🎮 All CP Games</h2>
 
           <div id="gamesGrid" class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-10">
+
+          <!-- Game Card Template -->
+
+            <div class="game-card bg-gradient-to-br from-gray-800 to-gray-900 rounded-2xl overflow-hidden shadow-xl neon-border">
+              <img src="img3/sn-bz.jpg" alt="WWE 2K25" class="w-full h-48 object-fit: cover">
+              <div class="p-5">
+                <h3 class="font-bold text-xl text-white mb-1">Subnautica: Below Zero</h3>
+                <br>        
+                <p class="text-red-400 text-sm mb-4">Premium Version<br><br>SIZE - 2.09 GB</p>                
+                <a href="https://dl.apkvision.org/subnautica-below-zero/Subnautica-Below-Zero-v1.22.55044-full-apkvision.apk" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-5 rounded-md shadow-md transition">Download</a>
+                <a href="https://www.youtube.com/watch?v=8jjUZF8Hhgc" target="_blank" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-5 rounded-md shadow-md transition">Gameplay</a>
+              </div>
+            </div>
+
+          <!-- Game Card Template -->
+
+            <div class="game-card bg-gradient-to-br from-gray-800 to-gray-900 rounded-2xl overflow-hidden shadow-xl neon-border">
+              <img src="img3/mc-4-zh.jpg" alt="WWE 2K25" class="w-full h-48 object-fit: cover">
+              <div class="p-5">
+                <h3 class="font-bold text-xl text-white mb-1">Modern Combat 4: Zero Hour</h3>        
+                <p class="text-red-400 text-sm mb-4">Premium Version<br><br>SIZE - 26.60 MB</p>                
+                <a href="https://dl.apkvision.org/modern-combat-4-zero-hour/modern-combat-4-zero-hour-1.2.3e.apk" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-5 rounded-md shadow-md transition">Download</a>
+                <a href="https://www.youtube.com/watch?v=nnK3HdNVm9k&list=PLPrREYqN5WqafF57kr40YIy7_Gmiu92mi" target="_blank" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-5 rounded-md shadow-md transition">Gameplay</a>
+              </div>
+            </div>
 
           <!-- Game Card Template -->
 

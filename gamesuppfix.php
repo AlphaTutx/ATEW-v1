@@ -35,7 +35,7 @@
           <a href="cp-games.php" class="hover:text-cyan-400 transition font-semibold">| CP Games |</a>
           <a href="premium-cp-apps.php" class="hover:text-cyan-400 transition font-semibold">| Premium CP & PC Apps |</a>
           <a href="Emulators-and-Roms.php" class="hover:text-cyan-400 transition font-semibold">| Emulators & Roms |</a>        
-          <a href="gamesuppfix.php" class="hover:text-cyan-400 transition font-semibold">| Game Support/Fix |</a>
+          <a href="gamesuppfix.php" class="hover:text-cyan-400 transition font-semibold">| Support/Fix |</a>
           <a href="18-section.php" class="hover:text-cyan-400 transition font-semibold">| 18+ Section |</a>
           <a href="https://docs.google.com/spreadsheets/d/11IYCG_vo-DEtob08IRnInzHfAwrtf11-K2QZKiwODCM/edit?usp=drive_link" target="_blank" class="hover:text-cyan-400 transition font-semibold">| Request Area |</a>
           <a href="logout.php" class="text-red-500 hover:text-red-700 transition font-semibold">| Logout |</a>

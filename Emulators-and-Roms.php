@@ -30,15 +30,16 @@
        
         <div class="text-3xl font-extrabold text-cyan-400 tracking-wider drop-shadow-md animate-pulse" >Emulators & Roms</div>
         
-        <nav class="hidden md:flex space-x-6 text-gray-300">
+          <nav class="hidden md:flex space-x-6 text-gray-300">
           <a href="login.php" class="hover:text-cyan-400 transition font-semibold">| PC Games |</a>
           <a href="cp-games.php" class="hover:text-cyan-400 transition font-semibold">| CP Games |</a>
           <a href="premium-cp-apps.php" class="hover:text-cyan-400 transition font-semibold">| Premium CP & PC Apps |</a>
           <a href="Emulators-and-Roms.php" class="hover:text-cyan-400 transition font-semibold">| Emulators & Roms |</a>        
-          <a href="gamesuppfix.php" class="hover:text-cyan-400 transition font-semibold">| Game Support/Fix |</a>
+          <a href="gamesuppfix.php" class="hover:text-cyan-400 transition font-semibold">| Support/Fix |</a>
           <a href="18-section.php" class="hover:text-cyan-400 transition font-semibold">| 18+ Section |</a>
           <a href="https://docs.google.com/spreadsheets/d/11IYCG_vo-DEtob08IRnInzHfAwrtf11-K2QZKiwODCM/edit?usp=drive_link" target="_blank" class="hover:text-cyan-400 transition font-semibold">| Request Area |</a>
           <a href="logout.php" class="text-red-500 hover:text-red-700 transition font-semibold">| Logout |</a>
+        
        
         
         </nav>
@@ -77,12 +78,23 @@
 
             <!-- Game Card Template -->
             <div class="game-card bg-gradient-to-br from-gray-800 to-gray-900 rounded-2xl overflow-hidden shadow-xl neon-border">
+              <img src="img4/winlator.jpg" alt="Warcraft_III Frozen Throne - CD keys" class="w-full h-48 object-fit: cover">
+              <div class="p-5">
+                <h3 class="font-bold text-xl text-white mb-1">Winlator</h3>
+                <br>
+                <p class="text-red-400 text-sm mb-4">For CP | Windows Emulator</p>
+                <a href="https://github.com/brunodev85/winlator/releases/download/v11.0.0/Winlator_11.0.apk" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-4 rounded-md shadow-md transition">Download</a>
+              </div>
+            </div>
+
+            <!-- Game Card Template -->
+            <div class="game-card bg-gradient-to-br from-gray-800 to-gray-900 rounded-2xl overflow-hidden shadow-xl neon-border">
               <img src="img4/Eden.jpg" alt="Warcraft_III Frozen Throne - CD keys" class="w-full h-48 object-fit: cover">
               <div class="p-5">
                 <h3 class="font-bold text-xl text-white mb-1">Eden</h3>
                 <br>
                 <p class="text-red-400 text-sm mb-4">For CP | Nintendo Switch Emulator</p>
-                <a href="https://github.com/eden-emulator/Releases/releases/download/v0.2.0-rc1/Eden-Android-v0.2.0-rc1-standard.apk" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-4 rounded-md shadow-md transition">Download</a>
+                <a href="https://git.eden-emu.dev/eden-emu/eden/releases/download/v0.2.0-rc2/Eden-Android-v0.2.0-rc2-standard.apk" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-4 rounded-md shadow-md transition">Download</a>
                 <a href="https://docs.google.com/document/d/1_TwgiLhEqx3WMdj5EGsxXcFB8NkhfT-opBuCM18Y5ps/edit?usp=drive_link" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-3 rounded-md shadow-md transition">Prodkey/Firm</a>
               </div>
             </div>
@@ -166,7 +178,7 @@
                 <h3 class="font-bold text-xl text-white mb-1">Eden</h3>
                 <br>
                 <p class="text-red-400 text-sm mb-4">For PC | Nintendo Switch Emulator</p>
-                <a href="https://github.com/eden-emulator/Releases/releases/download/v0.2.0-rc1/Eden-Windows-v0.2.0-rc1-amd64-msvc-standard.zip" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-4 rounded-md shadow-md transition">Download</a>
+                <a href="https://git.eden-emu.dev/eden-emu/eden/releases/download/v0.2.0-rc2/Eden-Windows-v0.2.0-rc2-amd64-msvc-standard.zip" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-4 rounded-md shadow-md transition">Download</a>
                 <a href="https://docs.google.com/document/d/1_TwgiLhEqx3WMdj5EGsxXcFB8NkhfT-opBuCM18Y5ps/edit?usp=drive_link" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-3 rounded-md shadow-md transition">Prodkey/Firm</a>
               </div>
             </div>
@@ -395,6 +407,21 @@
   </div>
 
   <BR>
+
+  <div>
+      <p>Tekken 8 MOD NEXTGEN :
+        <a href="https://www.youtube.com/watch?v=U1DR3adc3wM" 
+           target="_blank"
+           class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-4 rounded-md shadow-md transition">
+          Gameplay
+        </a>
+      </p>
+
+      <p class="mt-4">Download Link/s :
+        <a href="https://www.mediafire.com/file/wzrprm5ukr71jjj/%25E2%259C%2593_PSP_-_TEKKEN_8_NEXTGEN_SELENA_Modpack_-_%255BB%25E2%2582%2597%25E2%2582%2590%25E2%2582%2596%25E2%2582%2591%25E2%2582%258B%25E1%25B5%25A4%25E2%2582%2599%25E2%2582%259C%25E1%25B5%25A2%25E2%2582%259C%25E2%2582%2597%25E2%2582%2591d%255D.7z/file" target="_blank" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-4 rounded-md shadow-md transition">ISO file</a>
+      </p>
+
+  </div>
 
   <div>
       <p>Final fantasy - DISSIDIA 012 :

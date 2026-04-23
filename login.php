@@ -53,7 +53,7 @@ if (!isset($_SESSION['username'])) {
           <a href="cp-games.php" class="hover:text-cyan-400 transition font-semibold">| CP Games |</a>
           <a href="premium-cp-apps.php" class="hover:text-cyan-400 transition font-semibold">| Premium CP & PC Apps |</a>
           <a href="Emulators-and-Roms.php" class="hover:text-cyan-400 transition font-semibold">| Emulators & Roms |</a>        
-          <a href="gamesuppfix.php" class="hover:text-cyan-400 transition font-semibold">| Game Support/Fix |</a>
+          <a href="gamesuppfix.php" class="hover:text-cyan-400 transition font-semibold">| Support/Fix |</a>
           <a href="18-section.php" class="hover:text-cyan-400 transition font-semibold">| 18+ Section |</a>
           <a href="https://docs.google.com/spreadsheets/d/11IYCG_vo-DEtob08IRnInzHfAwrtf11-K2QZKiwODCM/edit?usp=drive_link" target="_blank" class="hover:text-cyan-400 transition font-semibold">| Request Area |</a>
           <a href="logout.php" class="text-red-500 hover:text-red-700 transition font-semibold">| Logout |</a>
@@ -95,6 +95,42 @@ if (!isset($_SESSION['username'])) {
 <div class="carousel flex space-x-6 overflow-x-auto pb-4">
 
          <!-- Start of Featured Games -->
+
+  <div class="relative game-card min-w-[300px] rounded-2xl overflow-hidden shadow-2xl cursor-pointer neon-border">
+    <img src="img/re-req.jpg" alt="Batman Arkham Knight Premium Edition" class="w-full h-48 object-fit: cover">
+    <div class="overlay absolute inset-0 backdrop-blur-md bg-black/60 flex flex-col justify-end p-4 text-white">
+      <h3 class="text-xl font-bold">Resident Evil Requiem</h3>
+      <p class="text-sm text-red-300">ZIP FILE SIZE: 76.71 GB</p>
+      <a href="https://fafda.to/d/an2jlvvr9vne?v=j9RXLWYQIWxOOHPjOPA26EluKHprGsuan0UE_zcN68Yhb5wf-qKtVNVq_QeRjECowUzqNgP5s_G3TX9wnAmTfhIVJBBNovHCOG7uM9BNbXn7TAuB7X8L1YpLUwasKeAcSrSfXPCsj9gCogRUGxua9i-wAbY3k23f8Sd8yASujnWh9kcFtSIPHvnl_4YJ" target="_blank" class="mt-3 inline-block bg-cyan-600 hover:bg-cyan-700 px-4 py-2 rounded-md text-sm font-semibold transition shadow-lg">Download</a>
+    </div>
+  </div>
+
+  <div class="relative game-card min-w-[300px] rounded-2xl overflow-hidden shadow-2xl cursor-pointer neon-border">
+    <img src="img/ron.jpg" alt="Batman Arkham Knight Premium Edition" class="w-full h-48 object-fit: cover">
+    <div class="overlay absolute inset-0 backdrop-blur-md bg-black/60 flex flex-col justify-end p-4 text-white">
+      <h3 class="text-xl font-bold">Ready or Not</h3>
+      <p class="text-sm text-red-300">ZIP FILE SIZE: 38.29 GB</p>
+      <a href="https://fafda.to/d/jtghvjewor43?v=P6-V_8OKmH9H9inU4nIIXghpQwPP0bqel1P4JuwaiIY0OTm3i1sIkNZgahfDkpYV1FZ-GH7QM449R9UliUrVDQHOV5s5cF9AqmGsiYEBDlfoQlJbnLYhQwnNAf8Mt6UqhZ16_c9RsNqH9pHoarc97BddqD0RO-HRyxLoyRJnxpJUE2HYXhrvWWXoeBx4Ogc" target="_blank" class="mt-3 inline-block bg-cyan-600 hover:bg-cyan-700 px-4 py-2 rounded-md text-sm font-semibold transition shadow-lg">Download</a>
+    </div>
+  </div>
+
+  <div class="relative game-card min-w-[300px] rounded-2xl overflow-hidden shadow-2xl cursor-pointer neon-border">
+    <img src="img/mg-se.jpg" alt="Batman Arkham Knight Premium Edition" class="w-full h-48 object-fit: cover">
+    <div class="overlay absolute inset-0 backdrop-blur-md bg-black/60 flex flex-col justify-end p-4 text-white">
+      <h3 class="text-xl font-bold">METAL GEAR SOLID Delta SNAKE EATER</h3>
+      <p class="text-sm text-red-300">ZIP FILE SIZE: 107.9GB</p>
+      <a href="https://fafda.to/d/vej2peerpkq6?v=_Ju1pMBkVLLze_Uzzm5lOAGZ_ZX2uu-PwnwalWWnPG6rIQ30eVAy29c_RjkhrvS5pgile7LBoh5ulTT_J945NJ-yuuGLugieXMhwp-UGU7l4ZtC5HslnivV4ltIxdHTvxMus_Q-v8E4WXm7OEGyq2z4VfF9j9TW3M2K8BWI5f2FHpU8RIxKhPvCKT7zSprg" target="_blank" class="mt-3 inline-block bg-cyan-600 hover:bg-cyan-700 px-4 py-2 rounded-md text-sm font-semibold transition shadow-lg">Download</a>
+    </div>
+  </div>
+
+  <div class="relative game-card min-w-[300px] rounded-2xl overflow-hidden shadow-2xl cursor-pointer neon-border">
+    <img src="img/acfor-VI.jpg" alt="Batman Arkham Knight Premium Edition" class="w-full h-48 object-fit: cover">
+    <div class="overlay absolute inset-0 backdrop-blur-md bg-black/60 flex flex-col justify-end p-4 text-white">
+      <h3 class="text-xl font-bold">ARMORED CORE FIRES OF RUBICON VI</h3>
+      <p class="text-sm text-red-300">ZIP FILE SIZE: 61.7GB</p>
+      <a href="https://fafda.to/d/5y1jd7xu1pqr?v=PvwZ2a3u0V6SmB52I_wm8RQ4mDF7Cfp9z74iiYvRPW-Kg-SsV6DbAKinODbLEBrS518gXdeXQK4qLUxmoYUNyitkIMYiumEgfKGOmfGu4GYivRvMebtR84aoJtLQxLiVReLxoFLe-MmIUrzZtRoIsSvFQMbN65RBL6cysdOALzr8Ba3QopG7c8A7MoIYIJfCxzdxJyV6zBw0pdjJDA" target="_blank" class="mt-3 inline-block bg-cyan-600 hover:bg-cyan-700 px-4 py-2 rounded-md text-sm font-semibold transition shadow-lg">Download</a>
+    </div>
+  </div>
 
   <div class="relative game-card min-w-[300px] rounded-2xl overflow-hidden shadow-2xl cursor-pointer neon-border">
     <img src="img/cod-vg.png" alt="Batman Arkham Knight Premium Edition" class="w-full h-48 object-fit: cover">
