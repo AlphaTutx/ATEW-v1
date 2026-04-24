@@ -101,7 +101,7 @@ if (!isset($_SESSION['username'])) {
     <div class="overlay absolute inset-0 backdrop-blur-md bg-black/60 flex flex-col justify-end p-4 text-white">
       <h3 class="text-xl font-bold">Resident Evil Requiem</h3>
       <p class="text-sm text-red-300">ZIP FILE SIZE: 76.71 GB</p>
-      <a href="https://fafda.to/d/an2jlvvr9vne?v=j9RXLWYQIWxOOHPjOPA26EluKHprGsuan0UE_zcN68Yhb5wf-qKtVNVq_QeRjECowUzqNgP5s_G3TX9wnAmTfhIVJBBNovHCOG7uM9BNbXn7TAuB7X8L1YpLUwasKeAcSrSfXPCsj9gCogRUGxua9i-wAbY3k23f8Sd8yASujnWh9kcFtSIPHvnl_4YJ" target="_blank" class="mt-3 inline-block bg-cyan-600 hover:bg-cyan-700 px-4 py-2 rounded-md text-sm font-semibold transition shadow-lg">Download</a>
+      <a href="https://fafda.to/d/an2jlvvr9vne?v=jWjfo2T5fyJtqWU1odceQOZY0xUQnHwu_e-1pdIqtggMbf0vsX_ohYlUpKrXhh8znzJz1iALgS2u4MFHRtErtvkKNJQsntTAzTbwYL9bQpE3OPdmAg8p_ygrFPDUfMeM9t7jzTgDARe3zCNGBUjXvJMTr7dtI17wYtaZWC_1-cKR52pxsj0YNgy-Xgpj" target="_blank" class="mt-3 inline-block bg-cyan-600 hover:bg-cyan-700 px-4 py-2 rounded-md text-sm font-semibold transition shadow-lg">Download</a>
     </div>
   </div>
 
@@ -128,7 +128,7 @@ if (!isset($_SESSION['username'])) {
     <div class="overlay absolute inset-0 backdrop-blur-md bg-black/60 flex flex-col justify-end p-4 text-white">
       <h3 class="text-xl font-bold">ARMORED CORE FIRES OF RUBICON VI</h3>
       <p class="text-sm text-red-300">ZIP FILE SIZE: 61.7GB</p>
-      <a href="https://fafda.to/d/5y1jd7xu1pqr?v=PvwZ2a3u0V6SmB52I_wm8RQ4mDF7Cfp9z74iiYvRPW-Kg-SsV6DbAKinODbLEBrS518gXdeXQK4qLUxmoYUNyitkIMYiumEgfKGOmfGu4GYivRvMebtR84aoJtLQxLiVReLxoFLe-MmIUrzZtRoIsSvFQMbN65RBL6cysdOALzr8Ba3QopG7c8A7MoIYIJfCxzdxJyV6zBw0pdjJDA" target="_blank" class="mt-3 inline-block bg-cyan-600 hover:bg-cyan-700 px-4 py-2 rounded-md text-sm font-semibold transition shadow-lg">Download</a>
+      <a href="https://fafda.to/d/5y1jd7xu1pqr?v=RXLcDRRo14jLm6lJgL6K6fE-RgcCSCoTnm4AEBFJa_DciVJz6CtW_jBAQmyt31NNY9mb86HuDtKeMyMVMA9vPOsf1vnDlvTVJgbs9GONfJDNgj2N6l4EpJKJxRNlv81p24ikeKQV2T8r6JpBGMw10Tk-S7nEBLAiw9JT--oG04ndE0DdCdYcQWk0mRhw-YXHWWFJh5uKSurM1ps38g" target="_blank" class="mt-3 inline-block bg-cyan-600 hover:bg-cyan-700 px-4 py-2 rounded-md text-sm font-semibold transition shadow-lg">Download</a>
     </div>
   </div>
 
