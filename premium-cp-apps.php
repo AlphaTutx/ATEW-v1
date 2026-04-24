@@ -802,7 +802,7 @@
                 <h3 class="font-bold text-xl text-white mb-1">FL Studio Producer Edition 2025</h3>
                 <p class="text-red-400 text-sm mb-4 font-semibold">FOR COMPUTERS</p>
                 <p class="text-cyan-400 text-sm mb-4 font-semibold">Mixing and mastering</p>
-                <a href="" target="_blank" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-4 rounded-md shadow-md transition">Download</a>
+                <a href="https://www.mediafire.com/file/k6qms6y0peq08gp/FL_Studio_25.2.3.5171_KpoJIuK_Rev.1.rar/file" target="_blank" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-4 rounded-md shadow-md transition">Download</a>
               </div>
             </div>
 
