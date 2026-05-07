@@ -798,8 +798,9 @@
             <!-- Game Card Template -->
             <div class="game-card bg-gradient-to-br from-gray-800 to-gray-900 rounded-2xl overflow-hidden shadow-xl neon-border">
               <img src="img2/ableton-12.jpg" alt="Extraction Password for Counter Strike 1.6 [FULL]" class="w-full h-48 object-fit: cover">
-              <div class="p-5">
+              <div class="p-5"> 
                 <h3 class="font-bold text-xl text-white mb-1">Ableton Live Suite 12.3.8</h3>
+                <br>
                 <p class="text-red-400 text-sm mb-4 font-semibold">FOR COMPUTERS</p>
                 <p class="text-cyan-400 text-sm mb-4 font-semibold">Mixing and mastering</p>
                 <a href="https://www.mediafire.com/file/8req3xnhe1yc9ef/AbletonLiveSuite1238.zip/file" target="_blank" class="inline-block bg-cyan-600 hover:bg-cyan-700 text-white font-semibold py-2 px-4 rounded-md shadow-md transition">Download</a>
